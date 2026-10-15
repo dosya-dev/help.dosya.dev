@@ -1,0 +1,27 @@
+{
+  "name": "@dosya-dev/help",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "prepare:content": "node scripts/content.mjs && node scripts/audit-content.mjs",
+    "cleanup:boilerplate": "node scripts/cleanup-shared-boilerplate.mjs",
+    "rewrite:task-copy": "node scripts/rewrite-task-copy.mjs",
+    "generate:workflow-maps": "node scripts/generate-workflow-maps.mjs",
+    "audit:content": "node scripts/audit-content.mjs",
+    "dev": "npm run prepare:content && astro dev --port 4324",
+    "build": "npm run prepare:content && astro build",
+    "preview": "astro preview --port 4324",
+    "typecheck": "astro check",
+    "test": "vitest run",
+    "og": "node scripts/og-images.mjs"
+  },
+  "dependencies": {
+    "astro": "^6.4.6"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10"
+  }
+}

@@ -1,0 +1,7 @@
+---
+import {getCollection} from 'astro:content';
+import CategoryListing from '../../components/CategoryListing.astro';
+import {mobileGuidePages} from '../../lib/mobile-guides';
+const listing=mobileGuidePages(await getCollection('articles'))[0];
+---
+<CategoryListing listing={listing} />

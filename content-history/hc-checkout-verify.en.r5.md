@@ -1,0 +1,81 @@
+---
+{
+  "articleId": "hc-checkout-verify",
+  "locale": "en",
+  "revision": 5,
+  "title": "Verify a plan or storage change after checkout",
+  "summary": "Read the checkout success state, wait for billing synchronization, confirm the receipt and storage total, and avoid duplicate purchases.",
+  "category": "account",
+  "articleSlug": "verify-plan-change",
+  "status": "published",
+  "lastReviewed": "2026-10-14",
+  "verification": "Mechanically reviewed against the local 2026-10-14 catalog baseline. Removed only exact shared-boilerplate sentences identified by that baseline; task-specific instructions and product claims were not changed. Visual and repeated copy reviewed against this guide’s existing task instructions and screenshot subject; migration: apps/help/scripts/rewrite-task-copy.mjs. No product behavior or image assets changed.",
+  "related": [
+    "hc-plan-upgrade-storage",
+    "hc-billing-invoices",
+    "hc-billing-troubleshoot",
+    "hc-storage-usage"
+  ],
+  "keywords": [
+    "checkout success",
+    "verify upgrade",
+    "storage pending",
+    "billing sync",
+    "purchase receipt",
+    "cloud storage"
+  ]
+}
+---
+After checkout, the success page synchronizes billing and counts from the previous allowance to the new total. Wait for that state before attempting another purchase.
+
+Checkout completion and account storage synchronization can finish at different moments. Repeating checkout before the ledger updates can create an unintended second purchase.
+
+<figure class="help-screenshot"><a class="workflow-map-link" href="/screenshots/verify-plan-change-workflow-map-2026-10-14.webp" data-light-href="/screenshots/verify-plan-change-workflow-map-2026-10-14.webp" data-dark-href="/screenshots/verify-plan-change-workflow-map-2026-10-14-dark.webp"><picture class="workflow-map"><source data-theme-source="dark" media="not all" srcset="/screenshots/verify-plan-change-workflow-map-2026-10-14-dark.webp" type="image/webp" /><img src="/screenshots/verify-plan-change-workflow-map-2026-10-14.webp" alt="Workflow for “Verify a plan or storage change after checkout”: review receipt rows and purchase reference; retry the blocked upload only after the new allowance is visible." width="1200" height="675" loading="lazy" decoding="async" /></picture></a><figcaption>Workflow for “Verify a plan or storage change after checkout”: review receipt rows and purchase reference; retry the blocked upload only after the new allowance is visible. <a class="workflow-map-full" href="/screenshots/verify-plan-change-workflow-map-2026-10-14.webp" data-light-href="/screenshots/verify-plan-change-workflow-map-2026-10-14.webp" data-dark-href="/screenshots/verify-plan-change-workflow-map-2026-10-14-dark.webp">Open full-size screenshot</a>.</figcaption></figure>
+
+## Before you start
+
+- Keep the checkout receipt and browser tab.
+- Know the previous plan or storage total.
+- Do not repeat payment while synchronization is still active.
+- Use Billing as the final account ledger.
+
+## Steps: confirm the change
+
+1. Wait for the checkout success page to finish adding storage.
+2. Read the plan or package name and new total.
+3. Review receipt rows and purchase reference.
+4. Open Billing from the success page.
+5. Confirm subscription status and the matching ledger contribution.
+6. Retry the blocked upload only after the new allowance is visible.
+
+<figure class="help-screenshot"><a href="/screenshots/storage-quota-error-2026-10-12.webp"><img src="/screenshots/storage-quota-error-2026-10-12.webp" alt="Dosya quota message whose resolution should be verified only after the purchased storage appears in the account allowance." width="1160" height="900" loading="lazy" decoding="async" /></a><figcaption>Wait for the new allowance to appear before retrying work that previously failed on quota. <a href="/screenshots/storage-quota-error-2026-10-12.webp">Open full-size screenshot</a>.</figcaption></figure>
+
+## Verify the result
+
+Match the purchased item, amount and reference with Billing, then confirm the new storage total before retrying the blocked upload.
+
+## Expected result
+
+The success page settles, Billing shows the new plan or contribution, and the total storage limit increases as purchased.
+
+## Limits and important details
+
+- Synchronization can take a short time.
+- A receipt does not override workspace-specific caps.
+- The exact refund and billing terms are those displayed at purchase.
+- A canceled checkout should not be treated as a successful plan change.
+
+## Troubleshooting
+
+**The page still says Adding your storage.** Wait, then reload once before taking another payment action.
+
+**A receipt exists but Billing is unchanged.** Preserve the session or receipt reference and contact private support.
+
+**Uploads still fail.** Compare the new account limit with workspace caps and used storage.
+
+## Related guides
+
+- [Upgrade or add storage](/account/upgrade-storage)
+- [Find invoices](/account/invoices-and-payment)
+- [Troubleshoot billing](/troubleshooting/billing)
+- [Understand storage usage](/uploading/storage-usage)

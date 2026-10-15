@@ -1,0 +1,26 @@
+---
+import {paginationRange,type PaginationState} from '../lib/pagination';
+interface Props {pagination:PaginationState;hrefFor:(page:number)=>string}
+const {pagination,hrefFor}=Astro.props;
+const previous=pagination.current>1?hrefFor(pagination.current-1):undefined;
+const next=pagination.current<pagination.pages?hrefFor(pagination.current+1):undefined;
+const Previous=previous?'a':'span',Next=next?'a':'span';
+---
+<div class="listing-footer" hidden={!pagination.total}>
+  <p class="pagination-summary">Showing {pagination.start}–{pagination.end} of {pagination.total} {pagination.total===1?'guide':'guides'}</p>
+  <nav class="pagination" aria-label="Guide pages">
+    <Previous class="pagination-control pagination-prev" href={previous} rel={previous?'prev':undefined} aria-disabled={!previous?'true':undefined}>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m15 5-7 7 7 7" /></svg>Previous
+    </Previous>
+    <div class="pagination-pages">
+      {paginationRange(pagination.current,pagination.pages).map(item=>item==='ellipsis'
+        ? <span class="pagination-ellipsis" aria-hidden="true">…</span>
+        : item===pagination.current
+          ? <span class="pagination-number" aria-current="page" aria-label={`Page ${item}`}>{item}</span>
+          : <a class="pagination-number" href={hrefFor(item)} aria-label={`Page ${item}`}>{item}</a>)}
+    </div>
+    <Next class="pagination-control pagination-next" href={next} rel={next?'next':undefined} aria-disabled={!next?'true':undefined}>
+      Next<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
+    </Next>
+  </nav>
+</div>

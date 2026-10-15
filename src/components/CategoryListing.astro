@@ -1,0 +1,43 @@
+---
+import type {CollectionEntry} from 'astro:content';
+import HelpLayout from '../layouts/HelpLayout.astro';
+import ArticleList from './ArticleList.astro';
+import Pagination from './Pagination.astro';
+import {categoryPagePath,type CategoryPage} from '../lib/pagination';
+interface Props {listing:CategoryPage<CollectionEntry<'articles'>>}
+const {listing}=Astro.props;
+const {categoryId,category,pagination}=listing;
+const hrefFor=(page:number)=>categoryPagePath(categoryId,page);
+const title=pagination.current===1?category.title:`${category.title} — Page ${pagination.current}`;
+const description=pagination.current===1?category.summary:`${category.summary} Browse page ${pagination.current} of ${pagination.pages}.`;
+const pageUrl=`https://help.dosya.dev${hrefFor(pagination.current)}`;
+const breadcrumbItems=[
+  {name:'Help home',item:'https://help.dosya.dev/'},
+  {name:category.title,item:`https://help.dosya.dev/${categoryId}`},
+];
+if(pagination.current>1)breadcrumbItems.push({name:`Page ${pagination.current}`,item:pageUrl});
+const breadcrumbSchema={'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':breadcrumbItems.map((item,index)=>({'@type':'ListItem',position:index+1,...item}))};
+---
+<HelpLayout title={title} description={description} canonicalPath={hrefFor(pagination.current)}>
+  <Fragment slot="head">
+    {pagination.current>1&&<link rel="prev" href={`https://help.dosya.dev${hrefFor(pagination.current-1)}`} />}
+    {pagination.current < pagination.pages && <link rel="next" href={`https://help.dosya.dev${hrefFor(pagination.current+1)}`} />}
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema).replaceAll('<','\\u003c')} />
+  </Fragment>
+  <div class="page-wrap">
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <a href="/">Help home</a><span aria-hidden="true">/</span>
+      {pagination.current===1?<span aria-current="page">{category.title}</span>:<><a href={hrefFor(1)}>{category.title}</a><span aria-hidden="true">/</span><span aria-current="page">Page {pagination.current}</span></>}
+    </nav>
+    <h1>{category.title}</h1><p class="lead">{category.summary}</p>
+    {pagination.current===1&&<section class="category-intro" aria-labelledby="featured-guides-heading">
+      <h2 id="featured-guides-heading">Start with these guides</h2>
+      <p>{category.intro}</p>
+      <nav aria-label={`Featured ${category.title} guides`}>
+        {category.featuredLinks.map(link=><a href={link.href}>{link.label}</a>)}
+      </nav>
+    </section>}
+    <ArticleList articles={pagination.items} />
+    <Pagination pagination={pagination} hrefFor={hrefFor} />
+  </div>
+</HelpLayout>

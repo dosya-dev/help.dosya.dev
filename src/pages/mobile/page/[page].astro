@@ -1,0 +1,12 @@
+---
+import {getCollection} from 'astro:content';
+import CategoryListing from '../../../components/CategoryListing.astro';
+import {mobileGuidePages} from '../../../lib/mobile-guides';
+export async function getStaticPaths(){
+  return mobileGuidePages(await getCollection('articles'))
+    .filter(listing=>listing.pagination.current>1)
+    .map(listing=>({params:{page:String(listing.pagination.current)},props:{listing}}));
+}
+const {listing}=Astro.props;
+---
+<CategoryListing listing={listing} />

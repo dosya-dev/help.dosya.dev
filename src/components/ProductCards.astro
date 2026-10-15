@@ -1,0 +1,36 @@
+---
+import {helpProducts} from '../lib/home-navigation';
+
+const icons = {
+  browser:'<rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M7 6.5h.01M10 6.5h.01"/>',
+  monitor:'<rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8m-4-4v4"/>',
+  puzzle:'<path d="M19 13h-2a2 2 0 1 1 0-4h2V5a2 2 0 0 0-2-2h-4v2a2 2 0 1 1-4 0V3H5a2 2 0 0 0-2 2v4h2a2 2 0 1 1 0 4H3v4a2 2 0 0 0 2 2h4v-2a2 2 0 1 1 4 0v2h4a2 2 0 0 0 2-2Z"/>',
+  phone:'<rect x="6" y="2" width="12" height="20" rx="2"/><path d="M10 5h4m-2 14h.01"/>',
+  drive:'<path d="M3 12h18M5.5 5h13L21 12v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-6Z"/><path d="M7 16h.01M11 16h.01"/>',
+  server:'<rect x="3" y="3" width="18" height="7" rx="2"/><rect x="3" y="14" width="18" height="7" rx="2"/><path d="M7 6.5h.01M7 17.5h.01M11 6.5h6m-6 11h6"/>',
+  cloud:'<path d="M6 18a4 4 0 0 1-.8-7.92 7 7 0 0 1 13.5-1.35A4.5 4.5 0 0 1 18.5 18Z"/>',
+  terminal:'<rect x="2" y="4" width="20" height="16" rx="2"/><path d="m6 9 3 3-3 3m7 0h5"/>',
+  code:'<path d="m8 6-6 6 6 6m8-12 6 6-6 6m-3-15-2 18"/>',
+  webhook:'<circle cx="12" cy="5" r="3"/><circle cx="5" cy="18" r="3"/><circle cx="19" cy="18" r="3"/><path d="m10.5 7.5-4 7.5m7-7.5 4 7.5M8 18h8"/>',
+  download:'<path d="M5 15a4 4 0 0 1 .2-7.9 7 7 0 0 1 13.5-1.3A4.5 4.5 0 0 1 20 14M12 11v10m-4-4 4 4 4-4"/>',
+};
+---
+<section class="product-directory" aria-labelledby="products-heading">
+  <h2 id="products-heading">Choose an app or integration</h2>
+  <ul class="help-product-grid">
+    {helpProducts.map(product=>(
+      <li>
+        <a class="help-product-card" data-product={product.id} href={product.href} aria-describedby={'requiresSignIn' in product?'product-sign-in':undefined}>
+          <span class="help-product-icon" aria-hidden="true">
+            {'image' in product
+              ? <img src={product.image} alt="" width="40" height="40" />
+              : <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" set:html={icons[product.icon]} />}
+          </span>
+          <span class="help-product-name">{product.title}</span>
+          <span class="help-product-summary">{product.summary}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+  <p class="product-directory-note" id="product-sign-in">For “Setup in Dosya”, sign in first, then open <strong>Integrations</strong> in the sidebar and choose <strong>OneDrive</strong> or <strong>Dropbox</strong>.</p>
+</section>

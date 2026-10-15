@@ -1,0 +1,74 @@
+---
+import '../styles/help.css';
+import BrandMark from '../brand/BrandMark.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import SharedArticleFooter from '../components/SharedArticleFooter.astro';
+import ogImages from '../data/og-images.json';
+interface Props {title:string;description:string;canonicalPath:string;noindex?:boolean;ogType?:'website'|'article';sharedArticleFooter?:boolean}
+const {title,description,canonicalPath,noindex=false,ogType='website',sharedArticleFooter=false}=Astro.props;
+const canonical=new URL(canonicalPath,'https://help.dosya.dev').href;
+// Per-page share image from scripts/og-images.mjs. Paginated listings use their category's
+// image; pages without one (search, 404) use the home image. ?v= changes when the image does,
+// so WhatsApp and Slack do not keep showing a stale preview.
+const ogKey=canonicalPath.replace(/\/page\/\d+$/,'')||'/';
+const og=(ogImages as Record<string,{file:string;hash:string}>)[ogKey]??ogImages['/'];
+const socialImage=`https://help.dosya.dev/og/${og.file}?v=${og.hash}`;
+const socialImageAlt=`${title} | Dosya Help`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>{title} | Dosya Help</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={noindex?'noindex, follow':'index, follow'} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:title" content={`${title} | Dosya Help`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content="Dosya Help" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:image" content={socialImage} />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={socialImageAlt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={`${title} | Dosya Help`} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImage} />
+    <meta name="twitter:image:alt" content={socialImageAlt} />
+    <script is:inline>
+      try { document.documentElement.classList.toggle('dark',localStorage.getItem('dosya_theme')==='dark'); } catch {}
+    </script>
+    <slot name="head" />
+  </head>
+  <body>
+    <!-- THESIS: task guides put searchable instructions within reach of a reader.
+    OWN-WORLD: extend Dosya's graphite/paper tokens, Space Grotesk, restrained borders and familiar controls.
+    STORY: find a task, follow verified steps, then give feedback or ask a moderated question.
+    FIRST VIEWPORT: a compact brand/navigation row, task heading and labeled search; articles open with breadcrumbs and the direct answer.
+    FORM: Read-mode extension of the existing Dosya visual system; no new visual-world seed.
+    FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md -->
+    <a href="#main" class="skip-link">Skip to content</a>
+    <header class="site-header">
+      <a href="/" class="brand" aria-label="Dosya Help home"><BrandMark size={27} /><span>dosya.dev <span class="brand-section">Help</span></span></a>
+      <nav aria-label="Main navigation">
+        <a href="/search">Search</a>
+        <a href="https://app.dosya.dev/support">Contact support</a>
+        <ThemeToggle />
+        <a href="https://app.dosya.dev" class="button small">Open Dosya</a>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1"><slot /></main>
+    {sharedArticleFooter&&<SharedArticleFooter />}
+    <footer class="site-footer">
+      <span>Dosya Help · English</span>
+      <nav aria-label="Footer"><a href="https://dosya.dev/">Cloud storage</a><a href="https://dosya.dev/resources/share-links/">Secure file sharing</a><a href="https://dosya.dev/resources/transfer/">Large file transfer</a><a href="https://dosya.dev/tutorials/">Video tutorials</a><a href="https://dosya.dev/developer/">Developer docs</a><a href="https://dosya.dev/privacy-policy/">Privacy</a><a href="https://status.dosya.dev">Status</a></nav>
+    </footer>
+  </body>
+</html>

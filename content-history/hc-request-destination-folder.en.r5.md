@@ -1,0 +1,62 @@
+---
+{
+  "articleId": "hc-request-destination-folder",
+  "locale": "en",
+  "revision": 5,
+  "title": "Choose a destination for requested files",
+  "summary": "Choose the receiving workspace folder before publishing, then verify that a test submission lands in that folder.",
+  "category": "sharing",
+  "articleSlug": "request-destination-folder",
+  "status": "published",
+  "lastReviewed": "2026-10-14",
+  "verification": "Mechanically reviewed against the local 2026-10-14 catalog baseline. Removed only exact shared-boilerplate sentences identified by that baseline; task-specific instructions and product claims were not changed. Visual and repeated copy reviewed against this guide’s existing task instructions and screenshot subject; migration: apps/help/scripts/rewrite-task-copy.mjs. No product behavior or image assets changed.",
+  "related": [
+    "hc-file-request",
+    "hc-request-manage"
+  ],
+  "keywords": [
+    "request destination folder",
+    "file request operations",
+    "Dosya help",
+    "file sharing"
+  ]
+}
+---
+Use this workflow to choose a destination for requested files in the intended account or workspace.
+
+The destination determines where every accepted submission from the request is stored. Choose it before publishing and consider who can access that folder.
+
+<figure class="help-screenshot"><a class="workflow-map-link" href="/screenshots/request-destination-folder-workflow-map-2026-10-14.webp" data-light-href="/screenshots/request-destination-folder-workflow-map-2026-10-14.webp" data-dark-href="/screenshots/request-destination-folder-workflow-map-2026-10-14-dark.webp"><picture class="workflow-map"><source data-theme-source="dark" media="not all" srcset="/screenshots/request-destination-folder-workflow-map-2026-10-14-dark.webp" type="image/webp" /><img src="/screenshots/request-destination-folder-workflow-map-2026-10-14.webp" alt="Workflow for “Choose a destination for requested files”: choose the receiving workspace folder before publishing; verify that a test submission lands in that folder." width="1200" height="675" loading="lazy" decoding="async" /></picture></a><figcaption>Workflow for “Choose a destination for requested files”: choose the receiving workspace folder before publishing; verify that a test submission lands in that folder. <a class="workflow-map-full" href="/screenshots/request-destination-folder-workflow-map-2026-10-14.webp" data-light-href="/screenshots/request-destination-folder-workflow-map-2026-10-14.webp" data-dark-href="/screenshots/request-destination-folder-workflow-map-2026-10-14-dark.webp">Open full-size screenshot</a>.</figcaption></figure>
+
+## Before you start
+
+- Open File requests in the current released Dosya client.
+- Confirm the active account and workspace, then identify a new test request.
+
+## Steps: choose a destination for requested files
+
+1. Open File requests and confirm the active workspace.
+2. Select a new test request and check its name or identifying details.
+3. Choose the receiving workspace folder before publishing.
+4. Verify that a test submission lands in that folder.
+
+<figure class="help-screenshot"><a href="/screenshots/request-recipient-management-2026-10-12.webp"><img src="/screenshots/request-recipient-management-2026-10-12.webp" alt="Reference for “Choose a destination for requested files”: Dosya file-request recipient management showing invitation and status controls." width="1440" height="1000" loading="lazy" decoding="async" /></a><figcaption>Reference for “Choose a destination for requested files”: Dosya file-request recipient management showing invitation and status controls. <a href="/screenshots/request-recipient-management-2026-10-12.webp">Open full-size screenshot</a>.</figcaption></figure>
+
+**Safety note.** Use a test recipient and confirm the receiving folder before sending a request.
+
+## Verify the result
+
+Submit one harmless file through the request and confirm it appears once in the intended workspace and folder.
+
+## Expected result
+
+The workflow completes for the controlled test and a test submission lands in that folder.
+
+## Troubleshooting
+
+**The expected control is missing.** Return to File requests, confirm the active workspace and check that your role permits the action.
+
+## Related guides
+
+- [Create a file request](/sharing/file-request)
+- [Manage a file request](/sharing/manage-file-request)

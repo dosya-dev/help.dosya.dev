@@ -1,0 +1,69 @@
+{
+  "uploading": [
+    {"href": "/uploading/files-and-folders", "label": "Upload files and folders"},
+    {"href": "/uploading/progress-and-states", "label": "Check upload progress and states"},
+    {"href": "/uploading/large-files", "label": "Upload large files"},
+    {"href": "/troubleshooting/failed-upload", "label": "Fix a failed upload"}
+  ],
+  "sharing": [
+    {"href": "/sharing/create-link", "label": "Create a sharing link"},
+    {"href": "/sharing/file-request", "label": "Create a file request"},
+    {"href": "/sharing/password-link", "label": "Protect a link with a password"},
+    {"href": "/sharing/unavailable-link", "label": "Fix an unavailable link"}
+  ],
+  "files": [
+    {"href": "/files/organize-files", "label": "Organize files and folders"},
+    {"href": "/files/search-files", "label": "Search for a file"},
+    {"href": "/files/preview-files", "label": "Preview files"},
+    {"href": "/files/restore-deleted", "label": "Restore a deleted file"}
+  ],
+  "account": [
+    {"href": "/account/create-and-verify-account", "label": "Create and verify an account"},
+    {"href": "/account/two-factor", "label": "Set up two-factor authentication"},
+    {"href": "/account/sessions", "label": "Review active sessions"},
+    {"href": "/account/suspicious-activity", "label": "Respond to suspicious activity"}
+  ],
+  "workspaces": [
+    {"href": "/workspaces/create-and-choose-region", "label": "Create a workspace and choose its region"},
+    {"href": "/workspaces/invite-team", "label": "Invite team members"},
+    {"href": "/workspaces/roles", "label": "Manage workspace roles"},
+    {"href": "/workspaces/policies", "label": "Configure workspace policies"}
+  ],
+  "developers": [
+    {"href": "/developers/rest-api-quickstart", "label": "Start with the REST API"},
+    {"href": "/developers/api-key", "label": "Create an API key"},
+    {"href": "/developers/webhook-create", "label": "Create a webhook"}
+  ],
+  "desktop": [
+    {"href": "/desktop/install-and-sign-in", "label": "Install and sign in"},
+    {"href": "/desktop/sync-folder", "label": "Sync a folder"},
+    {"href": "/desktop/sync-modes", "label": "Choose a sync mode"},
+    {"href": "/desktop/sync-issues", "label": "Troubleshoot desktop sync"}
+  ],
+  "extension": [
+    {"href": "/extension/install-and-connect", "label": "Install and connect the extension"},
+    {"href": "/extension/save-from-browser", "label": "Save content from the browser"},
+    {"href": "/extension/extension-save-folder", "label": "Choose the save folder"},
+    {"href": "/extension/extension-permissions", "label": "Review extension permissions"}
+  ],
+  "integrations": [
+    {"href": "/integrations/google-drive", "label": "Connect Google Drive"},
+    {"href": "/integrations/rclone", "label": "Use rclone with Dosya"},
+    {"href": "/integrations/s3-connect", "label": "Connect an S3 client"},
+    {"href": "/integrations/zapier", "label": "Automate files with Zapier"},
+    {"href": "/integrations/webdav", "label": "Connect with WebDAV"}
+  ],
+  "troubleshooting": [
+    {"href": "/troubleshooting/failed-upload", "label": "Fix a failed upload"},
+    {"href": "/troubleshooting/slow-transfer", "label": "Investigate a slow transfer"},
+    {"href": "/troubleshooting/contact-support", "label": "Contact support safely"},
+    {"href": "/troubleshooting/verify-change-worked", "label": "Verify that a change worked"}
+  ],
+  "mobile": [
+    {"href": "/account/mobile-install", "label": "Install the mobile app"},
+    {"href": "/files/mobile-photo-backup", "label": "Set up photo backup"},
+    {"href": "/files/mobile-browse-files", "label": "Browse cloud files on mobile"},
+    {"href": "/sharing/mobile-share", "label": "Share a file from mobile"},
+    {"href": "/troubleshooting/mobile-background-backup", "label": "Fix background backup"}
+  ]
+}

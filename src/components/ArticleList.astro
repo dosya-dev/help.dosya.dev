@@ -1,0 +1,24 @@
+---
+import { articlePath } from '../lib/content';
+
+interface Props {
+  articles: { data: { title: string; summary: string; category: string; articleSlug: string } }[];
+}
+
+const { articles } = Astro.props;
+---
+<ul class="article-list" role="list">
+  {articles.map(article => (
+    <li>
+      <a class="article-list-link" href={articlePath(article.data)}>
+        <span class="article-list-copy">
+          <span class="article-list-title">{article.data.title}</span>
+          <span class="article-list-summary">{article.data.summary}</span>
+        </span>
+        <svg class="article-list-arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+          <path d="m9 5 7 7-7 7" />
+        </svg>
+      </a>
+    </li>
+  ))}
+</ul>

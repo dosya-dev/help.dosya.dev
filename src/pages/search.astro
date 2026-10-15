@@ -1,0 +1,17 @@
+---
+import HelpLayout from '../layouts/HelpLayout.astro';
+---
+<HelpLayout title="Search the help center" description="Search English Dosya task guides." canonicalPath="/search" noindex>
+  <div class="page-wrap"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Help home</a><span aria-hidden="true">/</span><span aria-current="page">Search</span></nav><h1>Search the help center</h1>
+    <form id="search-form" action="/search" role="search" class="search-form"><label for="query">What do you want to do?</label><div class="search-controls"><input id="query" name="q" type="search" maxlength="200" placeholder="Search English guides" /><button class="button" type="submit">Search</button></div></form>
+    <p id="search-status" role="status" aria-live="polite">Enter a task or keyword to find a guide.</p><ul id="search-results" class="article-list" role="list"></ul>
+    <aside id="search-fallback" class="search-fallback" hidden>
+      <h2>Still need help?</h2>
+      <p>Check the spelling or try fewer words. You can also paste the exact error message into search.</p>
+      <p><a href="/">Browse all help topics</a> or <a href="/troubleshooting/contact-support">contact support</a>.</p>
+    </aside>
+    <div id="search-pagination" class="listing-footer" hidden></div>
+    <noscript><p>Search needs JavaScript. You can <a href="/">browse the guides by category</a>.</p></noscript>
+  </div>
+  <script>import '../scripts/search';</script>
+</HelpLayout>

@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import HelpLayout from '../layouts/HelpLayout.astro';
+import ArticleList from '../components/ArticleList.astro';
+import ProductCards from '../components/ProductCards.astro';
+import { categories } from '../lib/content';
+import {HOME_PREVIEW_SIZE} from '../lib/pagination';
+const articles=(await getCollection('articles')).filter(a=>a.data.status==='published');
+const active=Object.entries(categories).filter(([id])=>articles.some(a=>a.data.category===id));
+const websiteSchema={'@context':'https://schema.org','@type':'WebSite',name:'Dosya Help',alternateName:['Dosya Help Center','help.dosya.dev'],url:'https://help.dosya.dev/'};
+---
+<HelpLayout title="Cloud Storage, File Sharing & Upload Help" description="Step-by-step Dosya cloud storage help for uploading files and folders, organizing online storage, sharing files securely, and collecting client uploads." canonicalPath="/">
+  <script is:inline slot="head" type="application/ld+json" set:html={JSON.stringify(websiteSchema).replaceAll('<','\\u003c')} />
+  <div class="home-intro">
+    <h1>Cloud storage, file sharing and upload help</h1>
+    <p>Learn how to <a href="/uploading">upload files and folders</a>, <a href="/files">organize your cloud storage</a>, <a href="/sharing">share files securely</a>, and collect uploads from clients.</p>
+    <form action="/search" class="search-form" role="search">
+      <label for="home-search">Search the help center</label>
+      <div class="search-controls"><div class="home-search-field"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="home-search" name="q" type="search" placeholder="Try “password” or “upload a folder”" maxlength="200" /></div><button type="submit" class="button">Search</button></div>
+    </form>
+  </div>
+  <ProductCards />
+  <div class="home-body">
+    <section aria-labelledby="browse-heading"><h2 id="browse-heading" tabindex="-1">Browse the guides</h2>
+      {active.length ? active.map(([id, category]) => {
+        const guides = articles.filter(article => article.data.category === id)
+          .sort((a,b)=>a.data.articleSlug.localeCompare(b.data.articleSlug,'en'));
+        return (
+          <section class="category-section">
+            <div class="category-heading">
+              <h3><a href={`/${id}`}>{category.title}</a></h3>
+              <span class="category-count">{guides.length} {guides.length === 1 ? 'guide' : 'guides'}</span>
+            </div>
+            <p>{category.summary}</p>
+            <ArticleList articles={guides.slice(0,HOME_PREVIEW_SIZE)} />
+            {guides.length>HOME_PREVIEW_SIZE&&<a class="category-view-all" href={`/${id}`}>View all {guides.length} guides<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6" /></svg></a>}
+          </section>
+        );
+      }) : <p>Our step-by-step guides are being checked. In the meantime, explore the <a href="https://dosya.dev/tutorials/">existing video tutorials</a> or <a href="https://dosya.dev/help/">product FAQs</a>.</p>}
+    </section>
+    <aside class="support-aside"><h2>Need a hand?</h2><p>For your account, billing or a private file, speak with the support team.</p><a class="button secondary" href="https://app.dosya.dev/support">Contact support</a><hr /><h3>Prefer to watch?</h3><p>The video tutorials walk through the app.</p><a href="https://dosya.dev/tutorials/">Explore video tutorials</a></aside>
+  </div>
+</HelpLayout>

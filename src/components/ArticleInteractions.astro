@@ -1,0 +1,29 @@
+---
+interface Props {articleId:string;revision:number}
+const {articleId,revision}=Astro.props;
+const api=import.meta.env.PUBLIC_HELP_API_URL??'https://api.dosya.dev';
+---
+<section class="interactions" id="article-interactions" data-article={articleId} data-revision={revision} data-api={api} aria-labelledby="helpful-heading">
+  <h2 id="helpful-heading">Was this helpful?</h2>
+  <p id="vote-result" class="privacy-note">Loading helpfulness results…</p>
+  <div class="vote-controls"><button class="button secondary" id="vote-yes" type="button" aria-pressed="false">Yes</button><button class="button secondary" id="vote-no" type="button" aria-pressed="false">No</button></div>
+  <p id="vote-status" class="interaction-status" role="status" aria-live="polite"></p>
+  <p class="privacy-note">Voting saves a necessary ballot cookie for up to 180 days so you can change your answer.</p>
+  <form id="feedback-form" class="feedback-form" hidden>
+    <label for="feedback-reason">What could we improve? <span>(optional)</span></label>
+    <select id="feedback-reason" name="reason"><option value="confusing_steps">Confusing steps</option><option value="outdated_information">Outdated information</option><option value="missing_information">Missing information</option><option value="not_solved">Did not solve the problem</option><option value="other">Something else</option></select>
+    <label for="feedback-message">Private explanation <span>(optional)</span></label><textarea id="feedback-message" name="message" maxlength="2000" rows="4" placeholder="Tell us which step needs attention. Keep passwords and private file details out of this box."></textarea>
+    <p class="privacy-note">Only authorized Dosya staff can read this explanation. It stays linked to this version of the guide.</p>
+    <button type="submit" class="button">Send private feedback</button><p id="feedback-status" class="interaction-status" role="status" aria-live="polite"></p>
+  </form>
+  <details class="view-consent"><summary>About views and your privacy</summary><p id="view-result">Views count page openings, not reading or task completion.</p><p>View measurement is off by default. If you enable it, a separate 30-minute cookie prevents repeat openings from increasing the count. We do not use fingerprinting or connect this session to uploads or shares.</p><label><input type="checkbox" id="view-consent" /> Allow help article view measurement</label><p id="view-status" role="status" class="interaction-status"></p></details>
+  <section class="question-section" aria-labelledby="questions-heading"><h2 id="questions-heading">Questions and replies</h2><p>Ask about the steps in this guide. Questions are reviewed before publication.</p><p class="privacy-note">Keep account details, credentials and private files out of public questions. Use <a href="https://app.dosya.dev/support">private support</a> for those.</p>
+    <p id="comments-status" role="status" class="interaction-status">Loading questions…</p><ul id="comments" class="comment-list"></ul>
+    <nav id="comments-pagination" aria-label="Question pages" class="vote-controls" hidden><button type="button" id="comments-newer" class="button secondary">Newer questions</button><button type="button" id="comments-older" class="button secondary">Earlier questions</button></nav>
+    <div id="comment-sign-in"><p><a href="https://dosya.dev/login/">Sign in to your Dosya account</a> to ask a question.</p><button type="button" id="refresh-account" class="button secondary">I've signed in</button></div>
+    <form id="question-form" class="question-form" hidden><label for="question-message">Your question</label><textarea id="question-message" name="message" required maxlength="2000" rows="4"></textarea><button type="submit" class="button">Submit for review</button><p id="question-status" role="status" aria-live="polite" class="interaction-status"></p></form>
+    <div id="my-questions" class="my-questions" hidden><h3>Your questions</h3><ul id="my-comments" class="comment-list"></ul></div>
+  </section>
+  <noscript><p>Feedback and questions need JavaScript. You can still read this guide and <a href="https://app.dosya.dev/support">contact support</a>.</p></noscript>
+</section>
+<script src="../scripts/article.ts"></script>

@@ -1,0 +1,3174 @@
+{
+ "/": {
+  "file": "home.jpg",
+  "hash": "0d0fabb67c"
+ },
+ "/mobile": {
+  "file": "mobile.jpg",
+  "hash": "1e9438bf32"
+ },
+ "/uploading": {
+  "file": "uploading.jpg",
+  "hash": "222d881215"
+ },
+ "/sharing": {
+  "file": "sharing.jpg",
+  "hash": "c9caade782"
+ },
+ "/files": {
+  "file": "files.jpg",
+  "hash": "b2ab8e032d"
+ },
+ "/account": {
+  "file": "account.jpg",
+  "hash": "3c78fd50e9"
+ },
+ "/workspaces": {
+  "file": "workspaces.jpg",
+  "hash": "c447c75de0"
+ },
+ "/developers": {
+  "file": "developers.jpg",
+  "hash": "8465540698"
+ },
+ "/desktop": {
+  "file": "desktop.jpg",
+  "hash": "4d345a2df8"
+ },
+ "/extension": {
+  "file": "extension.jpg",
+  "hash": "bf9dd97574"
+ },
+ "/integrations": {
+  "file": "integrations.jpg",
+  "hash": "65d666fa5b"
+ },
+ "/troubleshooting": {
+  "file": "troubleshooting.jpg",
+  "hash": "db364233b6"
+ },
+ "/account/account-data-export": {
+  "file": "account/account-data-export.jpg",
+  "hash": "e9ce4f11d6"
+ },
+ "/account/delete-account": {
+  "file": "account/delete-account.jpg",
+  "hash": "d1ba42ead2"
+ },
+ "/account/account-suspicious-evidence": {
+  "file": "account/account-suspicious-evidence.jpg",
+  "hash": "6f4833333b"
+ },
+ "/account/manage-workspaces": {
+  "file": "account/manage-workspaces.jpg",
+  "hash": "a3e22dab8d"
+ },
+ "/workspaces/activity-filter-action": {
+  "file": "workspaces/activity-filter-action.jpg",
+  "hash": "bf7b073653"
+ },
+ "/workspaces/activity-filter-category": {
+  "file": "workspaces/activity-filter-category.jpg",
+  "hash": "d19bc4deaa"
+ },
+ "/workspaces/activity-filter-member": {
+  "file": "workspaces/activity-filter-member.jpg",
+  "hash": "769db667dd"
+ },
+ "/workspaces/activity-inspect-event-details": {
+  "file": "workspaces/activity-inspect-event-details.jpg",
+  "hash": "b37512dc74"
+ },
+ "/workspaces/activity-open-log": {
+  "file": "workspaces/activity-open-log.jpg",
+  "hash": "6620e308d5"
+ },
+ "/integrations/ai-app-connect": {
+  "file": "integrations/ai-app-connect.jpg",
+  "hash": "5ce4d8b3cc"
+ },
+ "/integrations/disconnect-ai-app": {
+  "file": "integrations/disconnect-ai-app.jpg",
+  "hash": "e251e64bd3"
+ },
+ "/integrations/ai-app-permissions": {
+  "file": "integrations/ai-app-permissions.jpg",
+  "hash": "5dfbdede54"
+ },
+ "/developers/api-complete-upload-session": {
+  "file": "developers/api-complete-upload-session.jpg",
+  "hash": "8367b9dfb4"
+ },
+ "/developers/api-create-folder-verify-parent": {
+  "file": "developers/api-create-folder-verify-parent.jpg",
+  "hash": "82d032dfd3"
+ },
+ "/developers/api-create-upload-session": {
+  "file": "developers/api-create-upload-session.jpg",
+  "hash": "f4c8b51f9c"
+ },
+ "/developers/api-download-file": {
+  "file": "developers/api-download-file.jpg",
+  "hash": "df827a22a4"
+ },
+ "/developers/api-errors-pagination": {
+  "file": "developers/api-errors-pagination.jpg",
+  "hash": "35082ac626"
+ },
+ "/developers/api-file-not-found-vs-forbidden": {
+  "file": "developers/api-file-not-found-vs-forbidden.jpg",
+  "hash": "49942e03b1"
+ },
+ "/developers/api-folder-operations": {
+  "file": "developers/api-folder-operations.jpg",
+  "hash": "3a6ece6304"
+ },
+ "/developers/api-get-file-metadata": {
+  "file": "developers/api-get-file-metadata.jpg",
+  "hash": "aa5239fe7b"
+ },
+ "/developers/api-key-expiry-rotation": {
+  "file": "developers/api-key-expiry-rotation.jpg",
+  "hash": "538521edb9"
+ },
+ "/developers/api-key-folder-access": {
+  "file": "developers/api-key-folder-access.jpg",
+  "hash": "fed5f4e605"
+ },
+ "/developers/api-key-full-access": {
+  "file": "developers/api-key-full-access.jpg",
+  "hash": "c6249121cd"
+ },
+ "/developers/api-key-last-used": {
+  "file": "developers/api-key-last-used.jpg",
+  "hash": "64c07b8aea"
+ },
+ "/developers/api-key-naming": {
+  "file": "developers/api-key-naming.jpg",
+  "hash": "e0594a8730"
+ },
+ "/developers/api-key-protocols": {
+  "file": "developers/api-key-protocols.jpg",
+  "hash": "5ba5929bf2"
+ },
+ "/developers/api-key-read-only": {
+  "file": "developers/api-key-read-only.jpg",
+  "hash": "486209726f"
+ },
+ "/developers/api-key-scopes": {
+  "file": "developers/api-key-scopes.jpg",
+  "hash": "9d477d1b47"
+ },
+ "/developers/api-key-upload-only": {
+  "file": "developers/api-key-upload-only.jpg",
+  "hash": "a1c478a719"
+ },
+ "/developers/api-key": {
+  "file": "developers/api-key.jpg",
+  "hash": "110e361649"
+ },
+ "/developers/api-list-files-pagination": {
+  "file": "developers/api-list-files-pagination.jpg",
+  "hash": "15a4cfa51b"
+ },
+ "/developers/api-list-files": {
+  "file": "developers/api-list-files.jpg",
+  "hash": "82c064b04e"
+ },
+ "/developers/api-list-folder-children": {
+  "file": "developers/api-list-folder-children.jpg",
+  "hash": "35d76e7658"
+ },
+ "/developers/api-move-file": {
+  "file": "developers/api-move-file.jpg",
+  "hash": "5323d29359"
+ },
+ "/developers/api-rate-limit-handling": {
+  "file": "developers/api-rate-limit-handling.jpg",
+  "hash": "59e1d1ada0"
+ },
+ "/developers/api-rename-file": {
+  "file": "developers/api-rename-file.jpg",
+  "hash": "b8994fbcb7"
+ },
+ "/developers/api-resume-upload-session": {
+  "file": "developers/api-resume-upload-session.jpg",
+  "hash": "dadb6d1bb9"
+ },
+ "/developers/api-stream-download": {
+  "file": "developers/api-stream-download.jpg",
+  "hash": "b225a07edb"
+ },
+ "/developers/api-trash-file": {
+  "file": "developers/api-trash-file.jpg",
+  "hash": "91cffdd353"
+ },
+ "/developers/api-upload-file": {
+  "file": "developers/api-upload-file.jpg",
+  "hash": "e7f8bbed3e"
+ },
+ "/developers/api-upload-idempotency": {
+  "file": "developers/api-upload-idempotency.jpg",
+  "hash": "67dcf86776"
+ },
+ "/developers/api-upload-size-validation": {
+  "file": "developers/api-upload-size-validation.jpg",
+  "hash": "46a3c6deaf"
+ },
+ "/developers/api-usage-analytics": {
+  "file": "developers/api-usage-analytics.jpg",
+  "hash": "934b488a0e"
+ },
+ "/developers/api-verify-mutation": {
+  "file": "developers/api-verify-mutation.jpg",
+  "hash": "9d2fb83a5c"
+ },
+ "/account/appearance": {
+  "file": "account/appearance.jpg",
+  "hash": "bae06d3ba9"
+ },
+ "/files/archive-browse": {
+  "file": "files/archive-browse.jpg",
+  "hash": "28dff6fcde"
+ },
+ "/files/archive-download-entry": {
+  "file": "files/archive-download-entry.jpg",
+  "hash": "0dc05bb4fa"
+ },
+ "/files/archive-download-one-entry": {
+  "file": "files/archive-download-one-entry.jpg",
+  "hash": "7607340a10"
+ },
+ "/files/archive-entry-preview": {
+  "file": "files/archive-entry-preview.jpg",
+  "hash": "2f3ebffceb"
+ },
+ "/files/archive-inspect-folder-tree": {
+  "file": "files/archive-inspect-folder-tree.jpg",
+  "hash": "deec80d7e7"
+ },
+ "/files/archive-preview-supported-entry": {
+  "file": "files/archive-preview-supported-entry.jpg",
+  "hash": "3453910e13"
+ },
+ "/files/archive-preview-troubleshoot": {
+  "file": "files/archive-preview-troubleshoot.jpg",
+  "hash": "2cb9f276fe"
+ },
+ "/files/archive-preview": {
+  "file": "files/archive-preview.jpg",
+  "hash": "8c7e75fd47"
+ },
+ "/files/archive-review-nested-paths": {
+  "file": "files/archive-review-nested-paths.jpg",
+  "hash": "87b743f1ac"
+ },
+ "/files/archive-save-entry": {
+  "file": "files/archive-save-entry.jpg",
+  "hash": "3f13eb2ab8"
+ },
+ "/files/archive-save-one-entry": {
+  "file": "files/archive-save-one-entry.jpg",
+  "hash": "27c5ddd13e"
+ },
+ "/files/audio-artwork-metadata": {
+  "file": "files/audio-artwork-metadata.jpg",
+  "hash": "3a8bac58ef"
+ },
+ "/files/audio-keyboard-controls": {
+  "file": "files/audio-keyboard-controls.jpg",
+  "hash": "b3861f85ab"
+ },
+ "/files/audio-lyrics-troubleshoot": {
+  "file": "files/audio-lyrics-troubleshoot.jpg",
+  "hash": "ab78724299"
+ },
+ "/files/audio-lyrics": {
+  "file": "files/audio-lyrics.jpg",
+  "hash": "6bf5245d7b"
+ },
+ "/files/audio-metadata": {
+  "file": "files/audio-metadata.jpg",
+  "hash": "245adb3083"
+ },
+ "/files/audio-queue-wrong-track": {
+  "file": "files/audio-queue-wrong-track.jpg",
+  "hash": "16417473ba"
+ },
+ "/files/audio-queue": {
+  "file": "files/audio-queue.jpg",
+  "hash": "129d248525"
+ },
+ "/files/audio-repeat-shuffle": {
+  "file": "files/audio-repeat-shuffle.jpg",
+  "hash": "e1ec46aea8"
+ },
+ "/files/audio-troubleshoot-lyrics-timing": {
+  "file": "files/audio-troubleshoot-lyrics-timing.jpg",
+  "hash": "ffd61d811c"
+ },
+ "/files/audio-troubleshoot-missing-metadata": {
+  "file": "files/audio-troubleshoot-missing-metadata.jpg",
+  "hash": "9ad0ebd66c"
+ },
+ "/files/audio-troubleshoot-no-playback": {
+  "file": "files/audio-troubleshoot-no-playback.jpg",
+  "hash": "78d31b5dee"
+ },
+ "/files/audio-troubleshoot-seek-unavailable": {
+  "file": "files/audio-troubleshoot-seek-unavailable.jpg",
+  "hash": "57f04ca3ed"
+ },
+ "/files/audio-waveform-seek": {
+  "file": "files/audio-waveform-seek.jpg",
+  "hash": "f5b863b69f"
+ },
+ "/integrations/automation-rotate-api-key": {
+  "file": "integrations/automation-rotate-api-key.jpg",
+  "hash": "3c524827c0"
+ },
+ "/files/batch-add-group": {
+  "file": "files/batch-add-group.jpg",
+  "hash": "e6a005aacd"
+ },
+ "/files/batch-delete-files": {
+  "file": "files/batch-delete-files.jpg",
+  "hash": "6e70ba9485"
+ },
+ "/files/batch-move-files": {
+  "file": "files/batch-move-files.jpg",
+  "hash": "54074ad129"
+ },
+ "/account/billing-apply-coupon": {
+  "file": "account/billing-apply-coupon.jpg",
+  "hash": "571bb1ed72"
+ },
+ "/account/billing-distinguish-receipt-invoice": {
+  "file": "account/billing-distinguish-receipt-invoice.jpg",
+  "hash": "4a6914c9f4"
+ },
+ "/account/billing-download-receipt": {
+  "file": "account/billing-download-receipt.jpg",
+  "hash": "205e0df4e4"
+ },
+ "/account/billing-intervals": {
+  "file": "account/billing-intervals.jpg",
+  "hash": "f53d1956a2"
+ },
+ "/account/billing-locate-invoice-period": {
+  "file": "account/billing-locate-invoice-period.jpg",
+  "hash": "f2855abf92"
+ },
+ "/account/billing-pending-downgrade": {
+  "file": "account/billing-pending-downgrade.jpg",
+  "hash": "0f414f3560"
+ },
+ "/account/billing-portal": {
+  "file": "account/billing-portal.jpg",
+  "hash": "c408867ae3"
+ },
+ "/account/billing-reconcile-invoice-plan": {
+  "file": "account/billing-reconcile-invoice-plan.jpg",
+  "hash": "d943b369aa"
+ },
+ "/account/billing-review-invoice-identity": {
+  "file": "account/billing-review-invoice-identity.jpg",
+  "hash": "2d6ce09ab0"
+ },
+ "/troubleshooting/billing": {
+  "file": "troubleshooting/billing.jpg",
+  "hash": "1b9a469faa"
+ },
+ "/account/billing-update-payment-method": {
+  "file": "account/billing-update-payment-method.jpg",
+  "hash": "5747074482"
+ },
+ "/files/browse-folder-tree": {
+  "file": "files/browse-folder-tree.jpg",
+  "hash": "6fe9cb231e"
+ },
+ "/account/cancel-account-deletion": {
+  "file": "account/cancel-account-deletion.jpg",
+  "hash": "5e9e9e1301"
+ },
+ "/account/cancel-or-downgrade": {
+  "file": "account/cancel-or-downgrade.jpg",
+  "hash": "3506fc23b6"
+ },
+ "/uploading/cancel-upload": {
+  "file": "uploading/cancel-upload.jpg",
+  "hash": "4ad40585f4"
+ },
+ "/files/carplay-browse-library": {
+  "file": "files/carplay-browse-library.jpg",
+  "hash": "ca9465cdf3"
+ },
+ "/files/carplay-now-playing": {
+  "file": "files/carplay-now-playing.jpg",
+  "hash": "841c83f62c"
+ },
+ "/files/carplay-recents": {
+  "file": "files/carplay-recents.jpg",
+  "hash": "7816de2220"
+ },
+ "/files/carplay-search": {
+  "file": "files/carplay-search.jpg",
+  "hash": "4dd8a424fc"
+ },
+ "/files/carplay-voice": {
+  "file": "files/carplay-voice.jpg",
+  "hash": "cdaf400b6d"
+ },
+ "/account/change-display-name": {
+  "file": "account/change-display-name.jpg",
+  "hash": "c834faae40"
+ },
+ "/account/choose-app": {
+  "file": "account/choose-app.jpg",
+  "hash": "abdd6be291"
+ },
+ "/account/choose-plan": {
+  "file": "account/choose-plan.jpg",
+  "hash": "aa0d19f607"
+ },
+ "/files/clear-file-filters": {
+  "file": "files/clear-file-filters.jpg",
+  "hash": "81dbc613f9"
+ },
+ "/files/clear-file-selection": {
+  "file": "files/clear-file-selection.jpg",
+  "hash": "444d15806e"
+ },
+ "/developers/cli-authenticate": {
+  "file": "developers/cli-authenticate.jpg",
+  "hash": "b4ed2381bd"
+ },
+ "/developers/cli-download-folder": {
+  "file": "developers/cli-download-folder.jpg",
+  "hash": "b8cbedfdb2"
+ },
+ "/developers/cli-handle-exit-codes": {
+  "file": "developers/cli-handle-exit-codes.jpg",
+  "hash": "229f4378df"
+ },
+ "/developers/cli-install": {
+  "file": "developers/cli-install.jpg",
+  "hash": "b794eab4b9"
+ },
+ "/developers/cli-json-output": {
+  "file": "developers/cli-json-output.jpg",
+  "hash": "614b45806d"
+ },
+ "/developers/cli-parse-json-output": {
+  "file": "developers/cli-parse-json-output.jpg",
+  "hash": "5b7fa04bcb"
+ },
+ "/developers/cli-review-config": {
+  "file": "developers/cli-review-config.jpg",
+  "hash": "3f0f612039"
+ },
+ "/developers/cli-separate-profiles": {
+  "file": "developers/cli-separate-profiles.jpg",
+  "hash": "0884b8afbd"
+ },
+ "/developers/cli-transfer": {
+  "file": "developers/cli-transfer.jpg",
+  "hash": "f6ab681d95"
+ },
+ "/troubleshooting/cli": {
+  "file": "troubleshooting/cli.jpg",
+  "hash": "19cca41aeb"
+ },
+ "/developers/cli-update-version": {
+  "file": "developers/cli-update-version.jpg",
+  "hash": "c3a7c84caa"
+ },
+ "/developers/cli-upload-directory": {
+  "file": "developers/cli-upload-directory.jpg",
+  "hash": "5e94187c49"
+ },
+ "/developers/cli-use-secret-without-printing": {
+  "file": "developers/cli-use-secret-without-printing.jpg",
+  "hash": "169e9cc645"
+ },
+ "/developers/cli-verify-scheduled-job": {
+  "file": "developers/cli-verify-scheduled-job.jpg",
+  "hash": "481aa58e14"
+ },
+ "/developers/cli-workspace": {
+  "file": "developers/cli-workspace.jpg",
+  "hash": "8a83cd880a"
+ },
+ "/integrations/cloud-import-browse-provider": {
+  "file": "integrations/cloud-import-browse-provider.jpg",
+  "hash": "1fcc7d71ba"
+ },
+ "/integrations/cloud-import-cancel-before-transfer": {
+  "file": "integrations/cloud-import-cancel-before-transfer.jpg",
+  "hash": "72a76e8b65"
+ },
+ "/integrations/cloud-import-cancel": {
+  "file": "integrations/cloud-import-cancel.jpg",
+  "hash": "d346535a66"
+ },
+ "/integrations/cloud-import-choose-provider-account": {
+  "file": "integrations/cloud-import-choose-provider-account.jpg",
+  "hash": "62902ce912"
+ },
+ "/integrations/cloud-import-compare-counts": {
+  "file": "integrations/cloud-import-compare-counts.jpg",
+  "hash": "aabee1b7cc"
+ },
+ "/integrations/cloud-import-confirm-destination": {
+  "file": "integrations/cloud-import-confirm-destination.jpg",
+  "hash": "e16255d7d5"
+ },
+ "/integrations/connect-cloud-account": {
+  "file": "integrations/connect-cloud-account.jpg",
+  "hash": "8320fb9211"
+ },
+ "/integrations/import-destination": {
+  "file": "integrations/import-destination.jpg",
+  "hash": "5752f22253"
+ },
+ "/integrations/cloud-import-disconnect-after-verify": {
+  "file": "integrations/cloud-import-disconnect-after-verify.jpg",
+  "hash": "4ae294be72"
+ },
+ "/integrations/disconnect-cloud-account": {
+  "file": "integrations/disconnect-cloud-account.jpg",
+  "hash": "e807a89cab"
+ },
+ "/integrations/cloud-import-duplicate-names": {
+  "file": "integrations/cloud-import-duplicate-names.jpg",
+  "hash": "840120b960"
+ },
+ "/integrations/import-progress": {
+  "file": "integrations/import-progress.jpg",
+  "hash": "efa9cacf87"
+ },
+ "/integrations/cloud-import-reconnect-expired": {
+  "file": "integrations/cloud-import-reconnect-expired.jpg",
+  "hash": "48db7e6d0e"
+ },
+ "/integrations/cloud-import-retry-failed-items": {
+  "file": "integrations/cloud-import-retry-failed-items.jpg",
+  "hash": "9746dabe43"
+ },
+ "/integrations/cloud-import-review-duplicates": {
+  "file": "integrations/cloud-import-review-duplicates.jpg",
+  "hash": "4cdfb300dc"
+ },
+ "/integrations/cloud-import-review-picker-selection": {
+  "file": "integrations/cloud-import-review-picker-selection.jpg",
+  "hash": "f2ebe9c340"
+ },
+ "/integrations/cloud-import-test-folder": {
+  "file": "integrations/cloud-import-test-folder.jpg",
+  "hash": "b020f9bdbc"
+ },
+ "/troubleshooting/cloud-imports": {
+  "file": "troubleshooting/cloud-imports.jpg",
+  "hash": "6315219724"
+ },
+ "/integrations/cloud-import-verify-folders": {
+  "file": "integrations/cloud-import-verify-folders.jpg",
+  "hash": "81b17b197b"
+ },
+ "/integrations/cloud-import-verify-hierarchy": {
+  "file": "integrations/cloud-import-verify-hierarchy.jpg",
+  "hash": "708389cea6"
+ },
+ "/files/comments-add-file-comment": {
+  "file": "files/comments-add-file-comment.jpg",
+  "hash": "29dfa8162a"
+ },
+ "/files/comments-and-replies": {
+  "file": "files/comments-and-replies.jpg",
+  "hash": "0e77da149f"
+ },
+ "/files/comments-correct-own-comment": {
+  "file": "files/comments-correct-own-comment.jpg",
+  "hash": "4537b3b9e1"
+ },
+ "/files/comments-delete-accidental-comment": {
+  "file": "files/comments-delete-accidental-comment.jpg",
+  "hash": "706510ca53"
+ },
+ "/files/comments-delete-own-comment": {
+  "file": "files/comments-delete-own-comment.jpg",
+  "hash": "d9c76b3f44"
+ },
+ "/files/comments-edit-own-comment": {
+  "file": "files/comments-edit-own-comment.jpg",
+  "hash": "3c7f3e65fd"
+ },
+ "/files/comments-open-file-thread": {
+  "file": "files/comments-open-file-thread.jpg",
+  "hash": "81b57ae8d1"
+ },
+ "/files/comments-preserve-context-before-version": {
+  "file": "files/comments-preserve-context-before-version.jpg",
+  "hash": "1083fafa48"
+ },
+ "/files/comments-reply-correct-thread": {
+  "file": "files/comments-reply-correct-thread.jpg",
+  "hash": "7d3329a080"
+ },
+ "/files/comments-reply-to-thread": {
+  "file": "files/comments-reply-to-thread.jpg",
+  "hash": "1d70ddecef"
+ },
+ "/files/comments-start-clear-review-thread": {
+  "file": "files/comments-start-clear-review-thread.jpg",
+  "hash": "b860b0f1b5"
+ },
+ "/troubleshooting/contact-support-safely": {
+  "file": "troubleshooting/contact-support-safely.jpg",
+  "hash": "ca3d0f5a47"
+ },
+ "/troubleshooting/contact-support": {
+  "file": "troubleshooting/contact-support.jpg",
+  "hash": "1562e6a31d"
+ },
+ "/files/contacts-backup": {
+  "file": "files/contacts-backup.jpg",
+  "hash": "e81e88ba2e"
+ },
+ "/files/contacts-permission-troubleshoot": {
+  "file": "files/contacts-permission-troubleshoot.jpg",
+  "hash": "5e9c2a3029"
+ },
+ "/files/contacts-restore": {
+  "file": "files/contacts-restore.jpg",
+  "hash": "3878681c8b"
+ },
+ "/files/contacts-source": {
+  "file": "files/contacts-source.jpg",
+  "hash": "72662c251c"
+ },
+ "/files/contacts-vcard-export": {
+  "file": "files/contacts-vcard-export.jpg",
+  "hash": "7080829535"
+ },
+ "/files/copy-file": {
+  "file": "files/copy-file.jpg",
+  "hash": "9c1c06f30f"
+ },
+ "/files/copy-name-conflict": {
+  "file": "files/copy-name-conflict.jpg",
+  "hash": "36380e286f"
+ },
+ "/account/create-and-verify-account": {
+  "file": "account/create-and-verify-account.jpg",
+  "hash": "fe3497cf75"
+ },
+ "/files/create-folder": {
+  "file": "files/create-folder.jpg",
+  "hash": "2b1488b649"
+ },
+ "/sharing/create-link": {
+  "file": "sharing/create-link.jpg",
+  "hash": "2d084a7ba1"
+ },
+ "/workspaces/create-and-choose-region": {
+  "file": "workspaces/create-and-choose-region.jpg",
+  "hash": "eb2d88176b"
+ },
+ "/desktop/desktop-archive-viewer": {
+  "file": "desktop/desktop-archive-viewer.jpg",
+  "hash": "1c4623b3f4"
+ },
+ "/desktop/desktop-audio-lyrics": {
+  "file": "desktop/desktop-audio-lyrics.jpg",
+  "hash": "8eafcca020"
+ },
+ "/desktop/desktop-audio-queue": {
+  "file": "desktop/desktop-audio-queue.jpg",
+  "hash": "678ac85744"
+ },
+ "/desktop/desktop-audio-waveform": {
+  "file": "desktop/desktop-audio-waveform.jpg",
+  "hash": "9727b6c613"
+ },
+ "/desktop/desktop-check-updates": {
+  "file": "desktop/desktop-check-updates.jpg",
+  "hash": "6aa086a708"
+ },
+ "/desktop/desktop-choose-update-path": {
+  "file": "desktop/desktop-choose-update-path.jpg",
+  "hash": "689ea4df4b"
+ },
+ "/desktop/desktop-collect-system-context": {
+  "file": "desktop/desktop-collect-system-context.jpg",
+  "hash": "fe50bdb5e3"
+ },
+ "/desktop/desktop-deep-link-troubleshoot": {
+  "file": "desktop/desktop-deep-link-troubleshoot.jpg",
+  "hash": "5b6bce235e"
+ },
+ "/desktop/desktop-deletion-guard": {
+  "file": "desktop/desktop-deletion-guard.jpg",
+  "hash": "97dea1035f"
+ },
+ "/desktop/desktop-duplicates-cleanup": {
+  "file": "desktop/desktop-duplicates-cleanup.jpg",
+  "hash": "ac12fe698f"
+ },
+ "/desktop/desktop-duplicates-review": {
+  "file": "desktop/desktop-duplicates-review.jpg",
+  "hash": "13d09778e3"
+ },
+ "/desktop/desktop-file-details": {
+  "file": "desktop/desktop-file-details.jpg",
+  "hash": "91ac6cfa63"
+ },
+ "/desktop/desktop-find-in-text": {
+  "file": "desktop/desktop-find-in-text.jpg",
+  "hash": "2e575e026a"
+ },
+ "/desktop/desktop-find-installed-version": {
+  "file": "desktop/desktop-find-installed-version.jpg",
+  "hash": "5bbd38863d"
+ },
+ "/desktop/desktop-first-sync": {
+  "file": "desktop/desktop-first-sync.jpg",
+  "hash": "17dbc014be"
+ },
+ "/desktop/desktop-inspect-issue-details": {
+  "file": "desktop/desktop-inspect-issue-details.jpg",
+  "hash": "749ae57520"
+ },
+ "/desktop/install-and-sign-in": {
+  "file": "desktop/install-and-sign-in.jpg",
+  "hash": "5814a2fabd"
+ },
+ "/desktop/desktop-launch-login": {
+  "file": "desktop/desktop-launch-login.jpg",
+  "hash": "7c64f17a15"
+ },
+ "/desktop/desktop-map-clusters": {
+  "file": "desktop/desktop-map-clusters.jpg",
+  "hash": "6e212c8e35"
+ },
+ "/desktop/desktop-map-filters": {
+  "file": "desktop/desktop-map-filters.jpg",
+  "hash": "61c5c8cef6"
+ },
+ "/desktop/desktop-notifications-inbox": {
+  "file": "desktop/desktop-notifications-inbox.jpg",
+  "hash": "45a9849d24"
+ },
+ "/desktop/desktop-office-preview": {
+  "file": "desktop/desktop-office-preview.jpg",
+  "hash": "b85fcea49f"
+ },
+ "/desktop/upload-without-sync": {
+  "file": "desktop/upload-without-sync.jpg",
+  "hash": "4ad4613e0b"
+ },
+ "/desktop/desktop-open-from-tray": {
+  "file": "desktop/desktop-open-from-tray.jpg",
+  "hash": "12f9a382c4"
+ },
+ "/desktop/desktop-photo-map": {
+  "file": "desktop/desktop-photo-map.jpg",
+  "hash": "5ad1ed6895"
+ },
+ "/desktop/desktop-prepare-safe-problem-report": {
+  "file": "desktop/desktop-prepare-safe-problem-report.jpg",
+  "hash": "5270bc3e5a"
+ },
+ "/desktop/desktop-problem-report": {
+  "file": "desktop/desktop-problem-report.jpg",
+  "hash": "cd38e94bea"
+ },
+ "/desktop/desktop-read-activity-row": {
+  "file": "desktop/desktop-read-activity-row.jpg",
+  "hash": "7a931b7109"
+ },
+ "/desktop/desktop-restart-safely": {
+  "file": "desktop/desktop-restart-safely.jpg",
+  "hash": "ecfebd62f4"
+ },
+ "/desktop/desktop-review-launch-at-login": {
+  "file": "desktop/desktop-review-launch-at-login.jpg",
+  "hash": "ff98f62943"
+ },
+ "/desktop/desktop-search-shortcut": {
+  "file": "desktop/desktop-search-shortcut.jpg",
+  "hash": "96d4a84439"
+ },
+ "/desktop/desktop-store-updates": {
+  "file": "desktop/desktop-store-updates.jpg",
+  "hash": "b63dc3de0e"
+ },
+ "/desktop/desktop-switch-workspaces": {
+  "file": "desktop/desktop-switch-workspaces.jpg",
+  "hash": "625a9b34e3"
+ },
+ "/desktop/desktop-sync-check-storage": {
+  "file": "desktop/desktop-sync-check-storage.jpg",
+  "hash": "4c6f672569"
+ },
+ "/desktop/desktop-sync-conflict-loop": {
+  "file": "desktop/desktop-sync-conflict-loop.jpg",
+  "hash": "f9f80367f7"
+ },
+ "/desktop/sync-conflicts": {
+  "file": "desktop/sync-conflicts.jpg",
+  "hash": "02d7fde16a"
+ },
+ "/desktop/pause-resume-sync": {
+  "file": "desktop/pause-resume-sync.jpg",
+  "hash": "ba24b8f5a4"
+ },
+ "/desktop/desktop-sync-exclude-temporary": {
+  "file": "desktop/desktop-sync-exclude-temporary.jpg",
+  "hash": "ef787aff66"
+ },
+ "/desktop/sync-exclusions": {
+  "file": "desktop/sync-exclusions.jpg",
+  "hash": "3d2e57f605"
+ },
+ "/desktop/desktop-sync-existing-folder": {
+  "file": "desktop/desktop-sync-existing-folder.jpg",
+  "hash": "d16e46baab"
+ },
+ "/desktop/sync-folder": {
+  "file": "desktop/sync-folder.jpg",
+  "hash": "03838ef55d"
+ },
+ "/desktop/desktop-sync-invalid-name": {
+  "file": "desktop/desktop-sync-invalid-name.jpg",
+  "hash": "d1d058213e"
+ },
+ "/desktop/sync-issues": {
+  "file": "desktop/sync-issues.jpg",
+  "hash": "7b8b1bde0e"
+ },
+ "/desktop/desktop-sync-local-disk-space": {
+  "file": "desktop/desktop-sync-local-disk-space.jpg",
+  "hash": "bad7240ad7"
+ },
+ "/desktop/desktop-sync-local-permission": {
+  "file": "desktop/desktop-sync-local-permission.jpg",
+  "hash": "7773044b93"
+ },
+ "/desktop/sync-modes": {
+  "file": "desktop/sync-modes.jpg",
+  "hash": "852ef6b38f"
+ },
+ "/desktop/desktop-sync-offline": {
+  "file": "desktop/desktop-sync-offline.jpg",
+  "hash": "2833e2144d"
+ },
+ "/desktop/desktop-sync-plan-mode": {
+  "file": "desktop/desktop-sync-plan-mode.jpg",
+  "hash": "c1393cdeff"
+ },
+ "/desktop/desktop-sync-reconnect": {
+  "file": "desktop/desktop-sync-reconnect.jpg",
+  "hash": "454f074220"
+ },
+ "/desktop/desktop-sync-review-first-plan": {
+  "file": "desktop/desktop-sync-review-first-plan.jpg",
+  "hash": "3374541514"
+ },
+ "/desktop/desktop-sync-workspace-quota": {
+  "file": "desktop/desktop-sync-workspace-quota.jpg",
+  "hash": "a65ec02afc"
+ },
+ "/desktop/desktop-system-tray": {
+  "file": "desktop/desktop-system-tray.jpg",
+  "hash": "4d2a7399fa"
+ },
+ "/desktop/desktop-transfer-concurrency": {
+  "file": "desktop/desktop-transfer-concurrency.jpg",
+  "hash": "6b4c999fac"
+ },
+ "/desktop/desktop-uninstall-preserve-cloud-files": {
+  "file": "desktop/desktop-uninstall-preserve-cloud-files.jpg",
+  "hash": "ccbff33e04"
+ },
+ "/desktop/desktop-unsupported-media": {
+  "file": "desktop/desktop-unsupported-media.jpg",
+  "hash": "de4e05e2f7"
+ },
+ "/desktop/desktop-vault-members": {
+  "file": "desktop/desktop-vault-members.jpg",
+  "hash": "350a796b96"
+ },
+ "/desktop/desktop-vault-save-local": {
+  "file": "desktop/desktop-vault-save-local.jpg",
+  "hash": "8507062ba2"
+ },
+ "/desktop/desktop-vault-spaces": {
+  "file": "desktop/desktop-vault-spaces.jpg",
+  "hash": "ef7230756f"
+ },
+ "/desktop/desktop-vault-unlock": {
+  "file": "desktop/desktop-vault-unlock.jpg",
+  "hash": "2898782487"
+ },
+ "/desktop/desktop-vault-upload": {
+  "file": "desktop/desktop-vault-upload.jpg",
+  "hash": "1a2320ff54"
+ },
+ "/desktop/desktop-vcard-preview": {
+  "file": "desktop/desktop-vcard-preview.jpg",
+  "hash": "18cbd53778"
+ },
+ "/desktop/desktop-verify-recovery-restart": {
+  "file": "desktop/desktop-verify-recovery-restart.jpg",
+  "hash": "cb747accd6"
+ },
+ "/desktop/desktop-video-playback": {
+  "file": "desktop/desktop-video-playback.jpg",
+  "hash": "3a64d8407f"
+ },
+ "/uploading/download-archive-preparation": {
+  "file": "uploading/download-archive-preparation.jpg",
+  "hash": "81d997428c"
+ },
+ "/uploading/download-choose-method": {
+  "file": "uploading/download-choose-method.jpg",
+  "hash": "b309557d07"
+ },
+ "/uploading/download-clean-up-local-copy": {
+  "file": "uploading/download-clean-up-local-copy.jpg",
+  "hash": "74f2cb664d"
+ },
+ "/uploading/download-files": {
+  "file": "uploading/download-files.jpg",
+  "hash": "58a54ef2f8"
+ },
+ "/uploading/download-folder-archive": {
+  "file": "uploading/download-folder-archive.jpg",
+  "hash": "5152ccadd8"
+ },
+ "/uploading/download-retry-prepared-archive": {
+  "file": "uploading/download-retry-prepared-archive.jpg",
+  "hash": "3b78f86c5b"
+ },
+ "/uploading/download-selection-archive": {
+  "file": "uploading/download-selection-archive.jpg",
+  "hash": "7b670d6308"
+ },
+ "/uploading/download-verify-file": {
+  "file": "uploading/download-verify-file.jpg",
+  "hash": "0d9914bc22"
+ },
+ "/files/duplicates-delete-selected": {
+  "file": "files/duplicates-delete-selected.jpg",
+  "hash": "bf4e4c9478"
+ },
+ "/files/duplicates-review-group": {
+  "file": "files/duplicates-review-group.jpg",
+  "hash": "f4b67a4183"
+ },
+ "/files/duplicates-run-scan": {
+  "file": "files/duplicates-run-scan.jpg",
+  "hash": "0e0da06dd4"
+ },
+ "/files/duplicates-select-all-but-newest": {
+  "file": "files/duplicates-select-all-but-newest.jpg",
+  "hash": "15a0911af7"
+ },
+ "/files/duplicates-troubleshoot-scan": {
+  "file": "files/duplicates-troubleshoot-scan.jpg",
+  "hash": "f85235e6dc"
+ },
+ "/files/edit-text": {
+  "file": "files/edit-text.jpg",
+  "hash": "22e78e6174"
+ },
+ "/account/email-notifications": {
+  "file": "account/email-notifications.jpg",
+  "hash": "4243213750"
+ },
+ "/extension/extension-capture-visible-page": {
+  "file": "extension/extension-capture-visible-page.jpg",
+  "hash": "e95c6d14d8"
+ },
+ "/extension/extension-confirm-workspace": {
+  "file": "extension/extension-confirm-workspace.jpg",
+  "hash": "57431259bc"
+ },
+ "/extension/install-and-connect": {
+  "file": "extension/install-and-connect.jpg",
+  "hash": "bb8ae36763"
+ },
+ "/extension/extension-destination-missing": {
+  "file": "extension/extension-destination-missing.jpg",
+  "hash": "abf8690db7"
+ },
+ "/extension/extension-edit-save-name": {
+  "file": "extension/extension-edit-save-name.jpg",
+  "hash": "45c322ed15"
+ },
+ "/extension/extension-page-permission-denied": {
+  "file": "extension/extension-page-permission-denied.jpg",
+  "hash": "8131fdc84c"
+ },
+ "/extension/extension-permissions": {
+  "file": "extension/extension-permissions.jpg",
+  "hash": "f610abd481"
+ },
+ "/extension/extension-popup-not-opening": {
+  "file": "extension/extension-popup-not-opening.jpg",
+  "hash": "8313c4712a"
+ },
+ "/extension/extension-reconnect": {
+  "file": "extension/extension-reconnect.jpg",
+  "hash": "8b1b3bbd26"
+ },
+ "/extension/extension-save-confirmation-missing": {
+  "file": "extension/extension-save-confirmation-missing.jpg",
+  "hash": "68c07c0f4a"
+ },
+ "/extension/extension-save-folder": {
+  "file": "extension/extension-save-folder.jpg",
+  "hash": "dc16b13a45"
+ },
+ "/extension/extension-save-page-image": {
+  "file": "extension/extension-save-page-image.jpg",
+  "hash": "f27b97df1a"
+ },
+ "/extension/extension-save-screenshot": {
+  "file": "extension/extension-save-screenshot.jpg",
+  "hash": "2cb5b57284"
+ },
+ "/extension/extension-save-selection": {
+  "file": "extension/extension-save-selection.jpg",
+  "hash": "0e5459ae16"
+ },
+ "/extension/save-from-browser": {
+  "file": "extension/save-from-browser.jpg",
+  "hash": "923be57aab"
+ },
+ "/extension/extension-session-expired": {
+  "file": "extension/extension-session-expired.jpg",
+  "hash": "7b61d5995f"
+ },
+ "/extension/extension-verify-saved-item": {
+  "file": "extension/extension-verify-saved-item.jpg",
+  "hash": "39d0e04ac0"
+ },
+ "/troubleshooting/failed-upload": {
+  "file": "troubleshooting/failed-upload.jpg",
+  "hash": "4fa147a94c"
+ },
+ "/files/favourite-file": {
+  "file": "files/favourite-file.jpg",
+  "hash": "7624e78dd8"
+ },
+ "/files/favourite-folder": {
+  "file": "files/favourite-folder.jpg",
+  "hash": "cc361af340"
+ },
+ "/files/file-breadcrumbs": {
+  "file": "files/file-breadcrumbs.jpg",
+  "hash": "603369697c"
+ },
+ "/files/file-choose-move-or-copy": {
+  "file": "files/file-choose-move-or-copy.jpg",
+  "hash": "cd53b01e20"
+ },
+ "/files/file-copy-verify-result": {
+  "file": "files/file-copy-verify-result.jpg",
+  "hash": "8dcb667209"
+ },
+ "/files/file-details": {
+  "file": "files/file-details.jpg",
+  "hash": "be352d4925"
+ },
+ "/files/file-list-grid": {
+  "file": "files/file-list-grid.jpg",
+  "hash": "0c06100dc8"
+ },
+ "/files/file-map": {
+  "file": "files/file-map.jpg",
+  "hash": "0642025f9b"
+ },
+ "/files/file-move-back": {
+  "file": "files/file-move-back.jpg",
+  "hash": "4c41947327"
+ },
+ "/files/file-move-confirm-destination": {
+  "file": "files/file-move-confirm-destination.jpg",
+  "hash": "c3296a2532"
+ },
+ "/files/file-move-restricted-destination": {
+  "file": "files/file-move-restricted-destination.jpg",
+  "hash": "cc3c803180"
+ },
+ "/files/file-origin-details": {
+  "file": "files/file-origin-details.jpg",
+  "hash": "89af4aa2a6"
+ },
+ "/sharing/file-request": {
+  "file": "sharing/file-request.jpg",
+  "hash": "2b9cf3293e"
+ },
+ "/uploading/first-upload-and-share": {
+  "file": "uploading/first-upload-and-share.jpg",
+  "hash": "c0b8dc9469"
+ },
+ "/files/folder-choose-lock-or-restriction": {
+  "file": "files/folder-choose-lock-or-restriction.jpg",
+  "hash": "55b1cf90ee"
+ },
+ "/uploading/folder-download-troubleshoot": {
+  "file": "uploading/folder-download-troubleshoot.jpg",
+  "hash": "96c973c982"
+ },
+ "/sharing/folder-link": {
+  "file": "sharing/folder-link.jpg",
+  "hash": "34213f1a69"
+ },
+ "/files/folder-move-protected-file": {
+  "file": "files/folder-move-protected-file.jpg",
+  "hash": "147e6baf98"
+ },
+ "/files/folder-name-conflict": {
+  "file": "files/folder-name-conflict.jpg",
+  "hash": "d96df6e621"
+ },
+ "/files/folder-remove-protection-retest": {
+  "file": "files/folder-remove-protection-retest.jpg",
+  "hash": "802dad3a79"
+ },
+ "/files/folder-restriction-inheritance": {
+  "file": "files/folder-restriction-inheritance.jpg",
+  "hash": "09fc75a3e6"
+ },
+ "/files/folder-set-password-safely": {
+  "file": "files/folder-set-password-safely.jpg",
+  "hash": "aa48f50127"
+ },
+ "/files/folder-test-inherited-restriction": {
+  "file": "files/folder-test-inherited-restriction.jpg",
+  "hash": "a64a229962"
+ },
+ "/account/free-plan-allowances": {
+  "file": "account/free-plan-allowances.jpg",
+  "hash": "5ebd7249a2"
+ },
+ "/files/hide-folder": {
+  "file": "files/hide-folder.jpg",
+  "hash": "5cc0e34f85"
+ },
+ "/account/identity-and-sign-in": {
+  "file": "account/identity-and-sign-in.jpg",
+  "hash": "d3f633181a"
+ },
+ "/integrations/dropbox": {
+  "file": "integrations/dropbox.jpg",
+  "hash": "3fcbd6303c"
+ },
+ "/integrations/google-drive": {
+  "file": "integrations/google-drive.jpg",
+  "hash": "193ccf4429"
+ },
+ "/integrations/onedrive": {
+  "file": "integrations/onedrive.jpg",
+  "hash": "d20b45fb3a"
+ },
+ "/workspaces/invite-team": {
+  "file": "workspaces/invite-team.jpg",
+  "hash": "03d2415b26"
+ },
+ "/account/invoices-and-payment": {
+  "file": "account/invoices-and-payment.jpg",
+  "hash": "17cbaf555c"
+ },
+ "/uploading/large-folder-download": {
+  "file": "uploading/large-folder-download.jpg",
+  "hash": "54efa3fdd0"
+ },
+ "/uploading/large-files": {
+  "file": "uploading/large-files.jpg",
+  "hash": "e49b48c005"
+ },
+ "/integrations/lightroom-archive-originals": {
+  "file": "integrations/lightroom-archive-originals.jpg",
+  "hash": "f3231f2da0"
+ },
+ "/integrations/lightroom-archive-xmp-sidecars": {
+  "file": "integrations/lightroom-archive-xmp-sidecars.jpg",
+  "hash": "cb5f5b2ced"
+ },
+ "/integrations/lightroom-catalog-busy": {
+  "file": "integrations/lightroom-catalog-busy.jpg",
+  "hash": "c153d5ab2f"
+ },
+ "/integrations/lightroom-choose-workspace": {
+  "file": "integrations/lightroom-choose-workspace.jpg",
+  "hash": "cce545226a"
+ },
+ "/integrations/lightroom-client-selection-collections": {
+  "file": "integrations/lightroom-client-selection-collections.jpg",
+  "hash": "f077647608"
+ },
+ "/integrations/lightroom-collect-client-favourites": {
+  "file": "integrations/lightroom-collect-client-favourites.jpg",
+  "hash": "48df770820"
+ },
+ "/integrations/lightroom-configure-publish-service": {
+  "file": "integrations/lightroom-configure-publish-service.jpg",
+  "hash": "e56e467081"
+ },
+ "/integrations/lightroom-connect-catalog": {
+  "file": "integrations/lightroom-connect-catalog.jpg",
+  "hash": "ebe5917765"
+ },
+ "/integrations/lightroom-connection-browser-not-open": {
+  "file": "integrations/lightroom-connection-browser-not-open.jpg",
+  "hash": "c85cc689c1"
+ },
+ "/integrations/lightroom-connection-code-expired": {
+  "file": "integrations/lightroom-connection-code-expired.jpg",
+  "hash": "90c79449bf"
+ },
+ "/integrations/lightroom-copy-gallery-link": {
+  "file": "integrations/lightroom-copy-gallery-link.jpg",
+  "hash": "9afe629bdc"
+ },
+ "/integrations/lightroom-create-published-collection": {
+  "file": "integrations/lightroom-create-published-collection.jpg",
+  "hash": "d4de76d76a"
+ },
+ "/integrations/lightroom-delete-published-collection": {
+  "file": "integrations/lightroom-delete-published-collection.jpg",
+  "hash": "bb5ff95d69"
+ },
+ "/integrations/lightroom-edit-gallery-options": {
+  "file": "integrations/lightroom-edit-gallery-options.jpg",
+  "hash": "5f521c3ef5"
+ },
+ "/integrations/lightroom-enable-client-favourites": {
+  "file": "integrations/lightroom-enable-client-favourites.jpg",
+  "hash": "d7b7c65e72"
+ },
+ "/integrations/lightroom-export-create-gallery": {
+  "file": "integrations/lightroom-export-create-gallery.jpg",
+  "hash": "966db82ec8"
+ },
+ "/integrations/lightroom-export-to-dosya": {
+  "file": "integrations/lightroom-export-to-dosya.jpg",
+  "hash": "c2d27f1426"
+ },
+ "/integrations/lightroom-gallery-collection-sets": {
+  "file": "integrations/lightroom-gallery-collection-sets.jpg",
+  "hash": "8af960780e"
+ },
+ "/integrations/lightroom-gallery-downloads": {
+  "file": "integrations/lightroom-gallery-downloads.jpg",
+  "hash": "f60591ccfd"
+ },
+ "/integrations/lightroom-gallery-expiry": {
+  "file": "integrations/lightroom-gallery-expiry.jpg",
+  "hash": "a8bb7ec0a0"
+ },
+ "/integrations/lightroom-gallery-missing-online": {
+  "file": "integrations/lightroom-gallery-missing-online.jpg",
+  "hash": "43dee8145f"
+ },
+ "/integrations/lightroom-gallery-password": {
+  "file": "integrations/lightroom-gallery-password.jpg",
+  "hash": "9758233db5"
+ },
+ "/integrations/lightroom-open-gallery-command": {
+  "file": "integrations/lightroom-open-gallery-command.jpg",
+  "hash": "ceed4e22de"
+ },
+ "/integrations/lightroom-plugin-install": {
+  "file": "integrations/lightroom-plugin-install.jpg",
+  "hash": "693ca0027d"
+ },
+ "/integrations/lightroom-publish-gallery": {
+  "file": "integrations/lightroom-publish-gallery.jpg",
+  "hash": "7cc9140353"
+ },
+ "/integrations/lightroom-publish-network-failure": {
+  "file": "integrations/lightroom-publish-network-failure.jpg",
+  "hash": "a1d425162d"
+ },
+ "/integrations/lightroom-remove-gallery-photo": {
+  "file": "integrations/lightroom-remove-gallery-photo.jpg",
+  "hash": "a7ca0204f6"
+ },
+ "/integrations/lightroom-republish-edits": {
+  "file": "integrations/lightroom-republish-edits.jpg",
+  "hash": "644c4a15dd"
+ },
+ "/integrations/lightroom-resume-archive-upload": {
+  "file": "integrations/lightroom-resume-archive-upload.jpg",
+  "hash": "22348f256f"
+ },
+ "/integrations/lightroom-review-connections": {
+  "file": "integrations/lightroom-review-connections.jpg",
+  "hash": "e48ec044f8"
+ },
+ "/integrations/lightroom-review-gallery-status": {
+  "file": "integrations/lightroom-review-gallery-status.jpg",
+  "hash": "69019bb568"
+ },
+ "/integrations/lightroom-revoke-connection": {
+  "file": "integrations/lightroom-revoke-connection.jpg",
+  "hash": "2e008da925"
+ },
+ "/integrations/lightroom-selected-by-field": {
+  "file": "integrations/lightroom-selected-by-field.jpg",
+  "hash": "8719aa8e93"
+ },
+ "/integrations/lightroom-set-gallery-cover": {
+  "file": "integrations/lightroom-set-gallery-cover.jpg",
+  "hash": "e0c95f8e81"
+ },
+ "/integrations/lightroom-sync-client-selections": {
+  "file": "integrations/lightroom-sync-client-selections.jpg",
+  "hash": "da500129a2"
+ },
+ "/sharing/link-activity": {
+  "file": "sharing/link-activity.jpg",
+  "hash": "c0b1446988"
+ },
+ "/sharing/link-expiry": {
+  "file": "sharing/link-expiry.jpg",
+  "hash": "b38b7a5f6a"
+ },
+ "/files/live-photos": {
+  "file": "files/live-photos.jpg",
+  "hash": "593a35ddb2"
+ },
+ "/files/lock-and-hide": {
+  "file": "files/lock-and-hide.jpg",
+  "hash": "d4e6d7a131"
+ },
+ "/files/lock-folder": {
+  "file": "files/lock-folder.jpg",
+  "hash": "1ea42d7275"
+ },
+ "/sharing/manage-file-request": {
+  "file": "sharing/manage-file-request.jpg",
+  "hash": "8c9194632e"
+ },
+ "/account/manage-license-storage": {
+  "file": "account/manage-license-storage.jpg",
+  "hash": "c5901280c6"
+ },
+ "/files/map-expand-clusters": {
+  "file": "files/map-expand-clusters.jpg",
+  "hash": "25de3f87a0"
+ },
+ "/files/map-filter-files": {
+  "file": "files/map-filter-files.jpg",
+  "hash": "0be2cd0691"
+ },
+ "/files/map-missing-photo": {
+  "file": "files/map-missing-photo.jpg",
+  "hash": "6c062683be"
+ },
+ "/files/map-open-marker-file": {
+  "file": "files/map-open-marker-file.jpg",
+  "hash": "bc3f169197"
+ },
+ "/files/map-open-photos": {
+  "file": "files/map-open-photos.jpg",
+  "hash": "071333fc0d"
+ },
+ "/developers/mcp-choose-client-config": {
+  "file": "developers/mcp-choose-client-config.jpg",
+  "hash": "385635a8ab"
+ },
+ "/developers/mcp-connect-restricted-credential": {
+  "file": "developers/mcp-connect-restricted-credential.jpg",
+  "hash": "04f82d7b87"
+ },
+ "/developers/mcp-connect": {
+  "file": "developers/mcp-connect.jpg",
+  "hash": "3354a54200"
+ },
+ "/developers/mcp-disconnect-rotate-credential": {
+  "file": "developers/mcp-disconnect-rotate-credential.jpg",
+  "hash": "98d51e75e8"
+ },
+ "/developers/mcp-list-tools-resources": {
+  "file": "developers/mcp-list-tools-resources.jpg",
+  "hash": "44e1d71ec2"
+ },
+ "/developers/mcp-test-read-only-operation": {
+  "file": "developers/mcp-test-read-only-operation.jpg",
+  "hash": "f3d3cdbf4c"
+ },
+ "/troubleshooting/mcp": {
+  "file": "troubleshooting/mcp.jpg",
+  "hash": "b45da722e9"
+ },
+ "/files/media-check-image-dimensions": {
+  "file": "files/media-check-image-dimensions.jpg",
+  "hash": "1eeb46121c"
+ },
+ "/files/media-compare-preview-details": {
+  "file": "files/media-compare-preview-details.jpg",
+  "hash": "bfbe6647a1"
+ },
+ "/files/media-inspect-audio-tags": {
+  "file": "files/media-inspect-audio-tags.jpg",
+  "hash": "1009fe9213"
+ },
+ "/files/media-preview-controls": {
+  "file": "files/media-preview-controls.jpg",
+  "hash": "f04c13ede5"
+ },
+ "/files/media-troubleshoot-missing-artwork": {
+  "file": "files/media-troubleshoot-missing-artwork.jpg",
+  "hash": "57986cebc6"
+ },
+ "/files/media-verify-video-duration": {
+  "file": "files/media-verify-video-duration.jpg",
+  "hash": "662f3c618d"
+ },
+ "/account/mobile-activity-filter": {
+  "file": "account/mobile-activity-filter.jpg",
+  "hash": "3f3c9c348a"
+ },
+ "/account/mobile-activity-open": {
+  "file": "account/mobile-activity-open.jpg",
+  "hash": "82bb94b5b2"
+ },
+ "/files/mobile-archive-browse": {
+  "file": "files/mobile-archive-browse.jpg",
+  "hash": "1a6ced7d66"
+ },
+ "/files/mobile-archive-save-entry": {
+  "file": "files/mobile-archive-save-entry.jpg",
+  "hash": "13eaffe1db"
+ },
+ "/files/mobile-audio-playback": {
+  "file": "files/mobile-audio-playback.jpg",
+  "hash": "398f835580"
+ },
+ "/troubleshooting/mobile-background-backup": {
+  "file": "troubleshooting/mobile-background-backup.jpg",
+  "hash": "9eee195c88"
+ },
+ "/files/mobile-backup-albums": {
+  "file": "files/mobile-backup-albums.jpg",
+  "hash": "133abfbf6d"
+ },
+ "/files/mobile-backup-attention": {
+  "file": "files/mobile-backup-attention.jpg",
+  "hash": "fb32a5808e"
+ },
+ "/files/mobile-backup-background-refresh": {
+  "file": "files/mobile-backup-background-refresh.jpg",
+  "hash": "b43d6fee4f"
+ },
+ "/files/mobile-backup-battery-restrictions": {
+  "file": "files/mobile-backup-battery-restrictions.jpg",
+  "hash": "f4695482c3"
+ },
+ "/files/mobile-backup-charging": {
+  "file": "files/mobile-backup-charging.jpg",
+  "hash": "e45154c8bc"
+ },
+ "/files/mobile-backup-device-storage-low": {
+  "file": "files/mobile-backup-device-storage-low.jpg",
+  "hash": "f6b0a80cca"
+ },
+ "/files/mobile-backup-history": {
+  "file": "files/mobile-backup-history.jpg",
+  "hash": "80a9389ab4"
+ },
+ "/files/mobile-backup-limited-photo-access": {
+  "file": "files/mobile-backup-limited-photo-access.jpg",
+  "hash": "baa77b2348"
+ },
+ "/files/mobile-backup-live-media": {
+  "file": "files/mobile-backup-live-media.jpg",
+  "hash": "eeb7e00525"
+ },
+ "/files/mobile-backup-network": {
+  "file": "files/mobile-backup-network.jpg",
+  "hash": "381365aa7a"
+ },
+ "/files/mobile-backup-progress": {
+  "file": "files/mobile-backup-progress.jpg",
+  "hash": "859b3a97c2"
+ },
+ "/files/mobile-backup-retry-failed": {
+  "file": "files/mobile-backup-retry-failed.jpg",
+  "hash": "d6b43553ec"
+ },
+ "/files/mobile-backup-retry-large-video": {
+  "file": "files/mobile-backup-retry-large-video.jpg",
+  "hash": "2f71d1dbe9"
+ },
+ "/files/mobile-backup-settings": {
+  "file": "files/mobile-backup-settings.jpg",
+  "hash": "1d836b86f3"
+ },
+ "/files/mobile-photo-backup": {
+  "file": "files/mobile-photo-backup.jpg",
+  "hash": "19b9018a43"
+ },
+ "/files/mobile-backup-status-ring": {
+  "file": "files/mobile-backup-status-ring.jpg",
+  "hash": "736e705643"
+ },
+ "/files/mobile-backup-widget-android": {
+  "file": "files/mobile-backup-widget-android.jpg",
+  "hash": "72c75a083e"
+ },
+ "/files/mobile-backup-widget-ios": {
+  "file": "files/mobile-backup-widget-ios.jpg",
+  "hash": "4145ddb628"
+ },
+ "/account/mobile-biometric-lock": {
+  "file": "account/mobile-biometric-lock.jpg",
+  "hash": "0afda78484"
+ },
+ "/files/mobile-browse-files": {
+  "file": "files/mobile-browse-files.jpg",
+  "hash": "9d7c49d68b"
+ },
+ "/account/mobile-change-phone": {
+  "file": "account/mobile-change-phone.jpg",
+  "hash": "5595260d19"
+ },
+ "/account/mobile-choose-correct-account": {
+  "file": "account/mobile-choose-correct-account.jpg",
+  "hash": "166db5b25a"
+ },
+ "/files/mobile-contacts-account-scope": {
+  "file": "files/mobile-contacts-account-scope.jpg",
+  "hash": "0eadc749f5"
+ },
+ "/files/mobile-contacts-export-vcard": {
+  "file": "files/mobile-contacts-export-vcard.jpg",
+  "hash": "1989a21c1f"
+ },
+ "/files/mobile-contacts-restore-account": {
+  "file": "files/mobile-contacts-restore-account.jpg",
+  "hash": "b2ab45f62a"
+ },
+ "/files/mobile-contacts-restore-duplicates": {
+  "file": "files/mobile-contacts-restore-duplicates.jpg",
+  "hash": "6bc36da6a4"
+ },
+ "/files/mobile-contacts-review-before-backup": {
+  "file": "files/mobile-contacts-review-before-backup.jpg",
+  "hash": "3ceefa3f5d"
+ },
+ "/files/mobile-delete-restore": {
+  "file": "files/mobile-delete-restore.jpg",
+  "hash": "c4f1ba242c"
+ },
+ "/files/mobile-download-file": {
+  "file": "files/mobile-download-file.jpg",
+  "hash": "d10f3836d9"
+ },
+ "/files/mobile-duplicates-review": {
+  "file": "files/mobile-duplicates-review.jpg",
+  "hash": "85be090ed5"
+ },
+ "/account/mobile-enable-notifications-deliberately": {
+  "file": "account/mobile-enable-notifications-deliberately.jpg",
+  "hash": "ca4248e45d"
+ },
+ "/files/mobile-file-confirm-workspace": {
+  "file": "files/mobile-file-confirm-workspace.jpg",
+  "hash": "64f646cce5"
+ },
+ "/files/mobile-file-details": {
+  "file": "files/mobile-file-details.jpg",
+  "hash": "4842040ec7"
+ },
+ "/files/mobile-file-open-in-app": {
+  "file": "files/mobile-file-open-in-app.jpg",
+  "hash": "3668fc9d6f"
+ },
+ "/files/mobile-file-remove-local-copy": {
+  "file": "files/mobile-file-remove-local-copy.jpg",
+  "hash": "9e465b1a15"
+ },
+ "/files/mobile-file-save-destination": {
+  "file": "files/mobile-file-save-destination.jpg",
+  "hash": "13555cbe77"
+ },
+ "/files/mobile-file-share-access": {
+  "file": "files/mobile-file-share-access.jpg",
+  "hash": "1cb936a699"
+ },
+ "/account/mobile-grant-photo-access": {
+  "file": "account/mobile-grant-photo-access.jpg",
+  "hash": "d893437059"
+ },
+ "/files/mobile-image-zoom-pan": {
+  "file": "files/mobile-image-zoom-pan.jpg",
+  "hash": "d9beb7ef0b"
+ },
+ "/account/mobile-install-verified-app": {
+  "file": "account/mobile-install-verified-app.jpg",
+  "hash": "164f2a3797"
+ },
+ "/account/mobile-install": {
+  "file": "account/mobile-install.jpg",
+  "hash": "73606edca0"
+ },
+ "/files/mobile-live-photo-view": {
+  "file": "files/mobile-live-photo-view.jpg",
+  "hash": "7916c8bdd4"
+ },
+ "/files/mobile-move-file": {
+  "file": "files/mobile-move-file.jpg",
+  "hash": "1b2a3bce48"
+ },
+ "/files/mobile-navigate-nested-folder": {
+  "file": "files/mobile-navigate-nested-folder.jpg",
+  "hash": "00c566d3e4"
+ },
+ "/account/mobile-notification-action": {
+  "file": "account/mobile-notification-action.jpg",
+  "hash": "4e0437f979"
+ },
+ "/account/mobile-notifications-inbox": {
+  "file": "account/mobile-notifications-inbox.jpg",
+  "hash": "1efcc65b1c"
+ },
+ "/account/mobile-oauth-signin": {
+  "file": "account/mobile-oauth-signin.jpg",
+  "hash": "5dfdbfd5f7"
+ },
+ "/files/mobile-open-same-name-result": {
+  "file": "files/mobile-open-same-name-result.jpg",
+  "hash": "97df9fad0c"
+ },
+ "/files/mobile-pdf-viewer": {
+  "file": "files/mobile-pdf-viewer.jpg",
+  "hash": "62fcac858c"
+ },
+ "/account/mobile-permissions": {
+  "file": "account/mobile-permissions.jpg",
+  "hash": "d404247b6b"
+ },
+ "/files/mobile-photo-map": {
+  "file": "files/mobile-photo-map.jpg",
+  "hash": "720ee1f6ba"
+ },
+ "/files/mobile-preview-code-markdown": {
+  "file": "files/mobile-preview-code-markdown.jpg",
+  "hash": "5c5f6f7c57"
+ },
+ "/files/mobile-preview-csv": {
+  "file": "files/mobile-preview-csv.jpg",
+  "hash": "833d4c33cc"
+ },
+ "/files/mobile-preview-ebook": {
+  "file": "files/mobile-preview-ebook.jpg",
+  "hash": "45a6664254"
+ },
+ "/files/mobile-preview-office": {
+  "file": "files/mobile-preview-office.jpg",
+  "hash": "cca82e7882"
+ },
+ "/files/mobile-preview-vcard": {
+  "file": "files/mobile-preview-vcard.jpg",
+  "hash": "3d3efa336f"
+ },
+ "/account/mobile-push-troubleshoot": {
+  "file": "account/mobile-push-troubleshoot.jpg",
+  "hash": "d3cb332ad1"
+ },
+ "/account/mobile-recheck-permissions-after-update": {
+  "file": "account/mobile-recheck-permissions-after-update.jpg",
+  "hash": "c870930823"
+ },
+ "/files/mobile-rename-file": {
+  "file": "files/mobile-rename-file.jpg",
+  "hash": "afc93a2a53"
+ },
+ "/files/mobile-return-preview-folder": {
+  "file": "files/mobile-return-preview-folder.jpg",
+  "hash": "09b89e547e"
+ },
+ "/files/mobile-save-device": {
+  "file": "files/mobile-save-device.jpg",
+  "hash": "e0e3d86256"
+ },
+ "/files/mobile-search-correct-scope": {
+  "file": "files/mobile-search-correct-scope.jpg",
+  "hash": "ee3c2eb07b"
+ },
+ "/sharing/mobile-share": {
+  "file": "sharing/mobile-share.jpg",
+  "hash": "7d616ff11a"
+ },
+ "/account/mobile-sign-in": {
+  "file": "account/mobile-sign-in.jpg",
+  "hash": "78225ca573"
+ },
+ "/account/mobile-signout": {
+  "file": "account/mobile-signout.jpg",
+  "hash": "1afbcdc8e6"
+ },
+ "/account/mobile-switch-account": {
+  "file": "account/mobile-switch-account.jpg",
+  "hash": "ab02f8f6b6"
+ },
+ "/files/mobile-switch-workspace-before-browse": {
+  "file": "files/mobile-switch-workspace-before-browse.jpg",
+  "hash": "aa4e4c79e0"
+ },
+ "/account/mobile-two-factor-signin": {
+  "file": "account/mobile-two-factor-signin.jpg",
+  "hash": "7e691aef7a"
+ },
+ "/files/mobile-vault-browse-space": {
+  "file": "files/mobile-vault-browse-space.jpg",
+  "hash": "0f2283643c"
+ },
+ "/files/mobile-vault-open-file": {
+  "file": "files/mobile-vault-open-file.jpg",
+  "hash": "c6818b370e"
+ },
+ "/files/mobile-vault-save-device": {
+  "file": "files/mobile-vault-save-device.jpg",
+  "hash": "7dfe7c6e3a"
+ },
+ "/files/mobile-vault-transfer-progress": {
+  "file": "files/mobile-vault-transfer-progress.jpg",
+  "hash": "89d5a489e5"
+ },
+ "/files/mobile-vault-unlock": {
+  "file": "files/mobile-vault-unlock.jpg",
+  "hash": "3d672e0c13"
+ },
+ "/files/mobile-video-playback": {
+  "file": "files/mobile-video-playback.jpg",
+  "hash": "cae47c70b8"
+ },
+ "/files/move-and-rename": {
+  "file": "files/move-and-rename.jpg",
+  "hash": "45b9de3b05"
+ },
+ "/files/move-folder": {
+  "file": "files/move-folder.jpg",
+  "hash": "8374f68cf2"
+ },
+ "/integrations/n8n-connect": {
+  "file": "integrations/n8n-connect.jpg",
+  "hash": "4a9f198589"
+ },
+ "/integrations/n8n-create-credential": {
+  "file": "integrations/n8n-create-credential.jpg",
+  "hash": "cb5d681a9b"
+ },
+ "/integrations/n8n-create-share-link-node": {
+  "file": "integrations/n8n-create-share-link-node.jpg",
+  "hash": "04a07525ec"
+ },
+ "/integrations/n8n-create-share-link": {
+  "file": "integrations/n8n-create-share-link.jpg",
+  "hash": "020e5eb72f"
+ },
+ "/integrations/n8n-handle-dosya-node-error": {
+  "file": "integrations/n8n-handle-dosya-node-error.jpg",
+  "hash": "324e5bee91"
+ },
+ "/integrations/n8n-list-files-node": {
+  "file": "integrations/n8n-list-files-node.jpg",
+  "hash": "e3a0254ab0"
+ },
+ "/integrations/n8n-test-dosya-credential": {
+  "file": "integrations/n8n-test-dosya-credential.jpg",
+  "hash": "10afdd3a30"
+ },
+ "/integrations/n8n-upload-file-node": {
+  "file": "integrations/n8n-upload-file-node.jpg",
+  "hash": "6be4ce106f"
+ },
+ "/integrations/n8n-workflow": {
+  "file": "integrations/n8n-workflow.jpg",
+  "hash": "3905bb57bb"
+ },
+ "/sharing/named-recipients": {
+  "file": "sharing/named-recipients.jpg",
+  "hash": "29225d6122"
+ },
+ "/account/navigate-web-app": {
+  "file": "account/navigate-web-app.jpg",
+  "hash": "a3a6b3f7e4"
+ },
+ "/account/notification-preferences": {
+  "file": "account/notification-preferences.jpg",
+  "hash": "8974b39cd6"
+ },
+ "/troubleshooting/notifications": {
+  "file": "troubleshooting/notifications.jpg",
+  "hash": "fcbfd496a1"
+ },
+ "/account/notifications-always-on": {
+  "file": "account/notifications-always-on.jpg",
+  "hash": "d9c99e8e96"
+ },
+ "/account/notifications-delivery-channels": {
+  "file": "account/notifications-delivery-channels.jpg",
+  "hash": "e5fbf1e203"
+ },
+ "/account/notifications-empty-inbox": {
+  "file": "account/notifications-empty-inbox.jpg",
+  "hash": "990c7c26a1"
+ },
+ "/account/notifications-enable-browser-push": {
+  "file": "account/notifications-enable-browser-push.jpg",
+  "hash": "eb1083e7e2"
+ },
+ "/account/notifications-event-groups": {
+  "file": "account/notifications-event-groups.jpg",
+  "hash": "15f7374bc8"
+ },
+ "/account/notifications-fix-reverting-preferences": {
+  "file": "account/notifications-fix-reverting-preferences.jpg",
+  "hash": "56cbb364ce"
+ },
+ "/account/notifications-load-older": {
+  "file": "account/notifications-load-older.jpg",
+  "hash": "9b61a7289f"
+ },
+ "/account/notifications-narrow-event-groups": {
+  "file": "account/notifications-narrow-event-groups.jpg",
+  "hash": "0f2013168a"
+ },
+ "/account/notifications-open-correct-workspace": {
+  "file": "account/notifications-open-correct-workspace.jpg",
+  "hash": "68c6fa0381"
+ },
+ "/account/notifications-open-inbox": {
+  "file": "account/notifications-open-inbox.jpg",
+  "hash": "0ddcdbde58"
+ },
+ "/account/notifications-open-resource": {
+  "file": "account/notifications-open-resource.jpg",
+  "hash": "6a07e5f73d"
+ },
+ "/account/notifications-preference-save-error": {
+  "file": "account/notifications-preference-save-error.jpg",
+  "hash": "5a0b397014"
+ },
+ "/account/notifications-recover-browser-permission": {
+  "file": "account/notifications-recover-browser-permission.jpg",
+  "hash": "a6a968f273"
+ },
+ "/account/notifications-review-by-day": {
+  "file": "account/notifications-review-by-day.jpg",
+  "hash": "717d23820e"
+ },
+ "/account/notifications-verify-email-delivery": {
+  "file": "account/notifications-verify-email-delivery.jpg",
+  "hash": "fecdc1bf60"
+ },
+ "/files/organize-files": {
+  "file": "files/organize-files.jpg",
+  "hash": "14ef4ed1d4"
+ },
+ "/sharing/password-link": {
+  "file": "sharing/password-link.jpg",
+  "hash": "7aefe1066a"
+ },
+ "/account/reset-password": {
+  "file": "account/reset-password.jpg",
+  "hash": "5753776afc"
+ },
+ "/files/pdf-preview": {
+  "file": "files/pdf-preview.jpg",
+  "hash": "914db51ce2"
+ },
+ "/files/permanently-delete-files": {
+  "file": "files/permanently-delete-files.jpg",
+  "hash": "5b0dd582bb"
+ },
+ "/account/plan-estimate-storage-upgrade": {
+  "file": "account/plan-estimate-storage-upgrade.jpg",
+  "hash": "a91d53bf7f"
+ },
+ "/account/plan-prepare-over-quota": {
+  "file": "account/plan-prepare-over-quota.jpg",
+  "hash": "5078fcced5"
+ },
+ "/account/plan-review-pending-downgrade": {
+  "file": "account/plan-review-pending-downgrade.jpg",
+  "hash": "3261b8f19e"
+ },
+ "/account/plan-review-upgrade-checkout": {
+  "file": "account/plan-review-upgrade-checkout.jpg",
+  "hash": "fc62573993"
+ },
+ "/account/plan-verify-storage-upgrade": {
+  "file": "account/plan-verify-storage-upgrade.jpg",
+  "hash": "7072352f1a"
+ },
+ "/files/preview-csv-table": {
+  "file": "files/preview-csv-table.jpg",
+  "hash": "a2e8987664"
+ },
+ "/files/preview-download-unsupported": {
+  "file": "files/preview-download-unsupported.jpg",
+  "hash": "4709c603bb"
+ },
+ "/files/preview-ebook": {
+  "file": "files/preview-ebook.jpg",
+  "hash": "436f03482a"
+ },
+ "/files/preview-files": {
+  "file": "files/preview-files.jpg",
+  "hash": "6964d55c8b"
+ },
+ "/files/preview-image-load-failure": {
+  "file": "files/preview-image-load-failure.jpg",
+  "hash": "95363edf03"
+ },
+ "/files/preview-office-document": {
+  "file": "files/preview-office-document.jpg",
+  "hash": "908bca4d3b"
+ },
+ "/files/preview-office-processing": {
+  "file": "files/preview-office-processing.jpg",
+  "hash": "0f3e58f5a9"
+ },
+ "/files/preview-pdf-load-failure": {
+  "file": "files/preview-pdf-load-failure.jpg",
+  "hash": "94702d1f3d"
+ },
+ "/files/preview-refresh-new-version": {
+  "file": "files/preview-refresh-new-version.jpg",
+  "hash": "9a5d7a1ee8"
+ },
+ "/files/preview-unsupported-download": {
+  "file": "files/preview-unsupported-download.jpg",
+  "hash": "744c2193d9"
+ },
+ "/files/preview-vcard-contact": {
+  "file": "files/preview-vcard-contact.jpg",
+  "hash": "9338fd2e99"
+ },
+ "/account/profile-settings": {
+  "file": "account/profile-settings.jpg",
+  "hash": "10097ec080"
+ },
+ "/integrations/rclone-check-transfer": {
+  "file": "integrations/rclone-check-transfer.jpg",
+  "hash": "f6e009131f"
+ },
+ "/integrations/rclone-copy-vs-sync": {
+  "file": "integrations/rclone-copy-vs-sync.jpg",
+  "hash": "3be010bba5"
+ },
+ "/integrations/rclone": {
+  "file": "integrations/rclone.jpg",
+  "hash": "2d90ac1f7d"
+ },
+ "/integrations/rclone-create-dedicated-remote": {
+  "file": "integrations/rclone-create-dedicated-remote.jpg",
+  "hash": "cb3abc4741"
+ },
+ "/integrations/rclone-download": {
+  "file": "integrations/rclone-download.jpg",
+  "hash": "e20e1502ff"
+ },
+ "/integrations/rclone-limit-transfer-concurrency": {
+  "file": "integrations/rclone-limit-transfer-concurrency.jpg",
+  "hash": "b4b9ac34e4"
+ },
+ "/integrations/rclone-retry-timeout": {
+  "file": "integrations/rclone-retry-timeout.jpg",
+  "hash": "6a264a29a4"
+ },
+ "/integrations/rclone-schedule-copy-job": {
+  "file": "integrations/rclone-schedule-copy-job.jpg",
+  "hash": "20050a7572"
+ },
+ "/integrations/rclone-sync-dry-run": {
+  "file": "integrations/rclone-sync-dry-run.jpg",
+  "hash": "c9f2041e86"
+ },
+ "/integrations/rclone-transfer-filters": {
+  "file": "integrations/rclone-transfer-filters.jpg",
+  "hash": "fb01dff4f4"
+ },
+ "/integrations/rclone-verify-exit-status": {
+  "file": "integrations/rclone-verify-exit-status.jpg",
+  "hash": "26c7e5f69d"
+ },
+ "/integrations/rclone-write-safe-job-logs": {
+  "file": "integrations/rclone-write-safe-job-logs.jpg",
+  "hash": "60aa292819"
+ },
+ "/account/redeem-license": {
+  "file": "account/redeem-license.jpg",
+  "hash": "89538acb6c"
+ },
+ "/account/referral-storage": {
+  "file": "account/referral-storage.jpg",
+  "hash": "0bfbd024b8"
+ },
+ "/troubleshooting/referral-rewards": {
+  "file": "troubleshooting/referral-rewards.jpg",
+  "hash": "1ee172cc98"
+ },
+ "/integrations/remote-download-address-not-allowed": {
+  "file": "integrations/remote-download-address-not-allowed.jpg",
+  "hash": "33055eb80c"
+ },
+ "/integrations/remote-download-cancel": {
+  "file": "integrations/remote-download-cancel.jpg",
+  "hash": "fd65566afb"
+ },
+ "/integrations/remote-download-destination": {
+  "file": "integrations/remote-download-destination.jpg",
+  "hash": "0b10b287a8"
+ },
+ "/integrations/remote-download-direct-url": {
+  "file": "integrations/remote-download-direct-url.jpg",
+  "hash": "3ffb99fa94"
+ },
+ "/integrations/remote-download-errors": {
+  "file": "integrations/remote-download-errors.jpg",
+  "hash": "365aca9461"
+ },
+ "/integrations/remote-download-monitor": {
+  "file": "integrations/remote-download-monitor.jpg",
+  "hash": "6b02e51cb7"
+ },
+ "/integrations/remote-download-quota-locked": {
+  "file": "integrations/remote-download-quota-locked.jpg",
+  "hash": "189640d31d"
+ },
+ "/integrations/remote-download-source-changed": {
+  "file": "integrations/remote-download-source-changed.jpg",
+  "hash": "91411c4b70"
+ },
+ "/integrations/remote-download-start": {
+  "file": "integrations/remote-download-start.jpg",
+  "hash": "fa57eb66af"
+ },
+ "/integrations/remote-download-unknown-size": {
+  "file": "integrations/remote-download-unknown-size.jpg",
+  "hash": "e6b042109e"
+ },
+ "/integrations/remote-download": {
+  "file": "integrations/remote-download.jpg",
+  "hash": "0c2b950046"
+ },
+ "/files/remove-favourite": {
+  "file": "files/remove-favourite.jpg",
+  "hash": "7bc031d305"
+ },
+ "/files/remove-from-group": {
+  "file": "files/remove-from-group.jpg",
+  "hash": "88cf28a695"
+ },
+ "/files/rename-folder": {
+  "file": "files/rename-folder.jpg",
+  "hash": "a6f2a31243"
+ },
+ "/files/rename-group": {
+  "file": "files/rename-group.jpg",
+  "hash": "5a0cef7844"
+ },
+ "/sharing/request-change-destination": {
+  "file": "sharing/request-change-destination.jpg",
+  "hash": "991fb0b013"
+ },
+ "/sharing/request-close-collection": {
+  "file": "sharing/request-close-collection.jpg",
+  "hash": "6a44e24efb"
+ },
+ "/sharing/request-destination-folder": {
+  "file": "sharing/request-destination-folder.jpg",
+  "hash": "3de4d0d776"
+ },
+ "/sharing/request-edit-instructions": {
+  "file": "sharing/request-edit-instructions.jpg",
+  "hash": "0c9963998c"
+ },
+ "/sharing/request-failed-submission": {
+  "file": "sharing/request-failed-submission.jpg",
+  "hash": "fdc5962efb"
+ },
+ "/sharing/request-limits": {
+  "file": "sharing/request-limits.jpg",
+  "hash": "fca540f47c"
+ },
+ "/sharing/request-password": {
+  "file": "sharing/request-password.jpg",
+  "hash": "adbd05052a"
+ },
+ "/sharing/request-recipients": {
+  "file": "sharing/request-recipients.jpg",
+  "hash": "8ee4bf770a"
+ },
+ "/sharing/request-remove-recipient": {
+  "file": "sharing/request-remove-recipient.jpg",
+  "hash": "1c2efc2935"
+ },
+ "/sharing/request-remove-uploader": {
+  "file": "sharing/request-remove-uploader.jpg",
+  "hash": "abed1ba77b"
+ },
+ "/sharing/request-resend-invitation": {
+  "file": "sharing/request-resend-invitation.jpg",
+  "hash": "1dfba55a66"
+ },
+ "/sharing/request-resend-invite": {
+  "file": "sharing/request-resend-invite.jpg",
+  "hash": "91550da746"
+ },
+ "/sharing/request-review-uploads": {
+  "file": "sharing/request-review-uploads.jpg",
+  "hash": "c7482eb01e"
+ },
+ "/sharing/request-upload": {
+  "file": "sharing/request-upload.jpg",
+  "hash": "a5007b1e3c"
+ },
+ "/sharing/request-uploader-check-limits": {
+  "file": "sharing/request-uploader-check-limits.jpg",
+  "hash": "5f57cdde43"
+ },
+ "/sharing/request-uploader-confirm-invite": {
+  "file": "sharing/request-uploader-confirm-invite.jpg",
+  "hash": "7d314445e4"
+ },
+ "/sharing/request-uploader-replace-rejected": {
+  "file": "sharing/request-uploader-replace-rejected.jpg",
+  "hash": "6de7940e76"
+ },
+ "/sharing/request-uploader-save-receipt": {
+  "file": "sharing/request-uploader-save-receipt.jpg",
+  "hash": "ac11933042"
+ },
+ "/sharing/request-uploader-stage-files": {
+  "file": "sharing/request-uploader-stage-files.jpg",
+  "hash": "7524167322"
+ },
+ "/developers/rest-api-quickstart": {
+  "file": "developers/rest-api-quickstart.jpg",
+  "hash": "6c1397d3b0"
+ },
+ "/files/restore-deleted": {
+  "file": "files/restore-deleted.jpg",
+  "hash": "6d6023719a"
+ },
+ "/files/restore-folder-tree": {
+  "file": "files/restore-folder-tree.jpg",
+  "hash": "6eb131b90e"
+ },
+ "/files/review-deleted-items": {
+  "file": "files/review-deleted-items.jpg",
+  "hash": "fea16d87c0"
+ },
+ "/files/review-duplicates": {
+  "file": "files/review-duplicates.jpg",
+  "hash": "65bd92a226"
+ },
+ "/developers/revoke-api-key": {
+  "file": "developers/revoke-api-key.jpg",
+  "hash": "b28c5a6d57"
+ },
+ "/sharing/revoke-link": {
+  "file": "sharing/revoke-link.jpg",
+  "hash": "ee91548886"
+ },
+ "/account/revoke-other-sessions": {
+  "file": "account/revoke-other-sessions.jpg",
+  "hash": "9c8fee4f53"
+ },
+ "/integrations/rotate-protocol-key": {
+  "file": "integrations/rotate-protocol-key.jpg",
+  "hash": "535383e387"
+ },
+ "/integrations/s3-aws-cli-connect": {
+  "file": "integrations/s3-aws-cli-connect.jpg",
+  "hash": "0a60c649f6"
+ },
+ "/integrations/s3-connect": {
+  "file": "integrations/s3-connect.jpg",
+  "hash": "d45b830bb7"
+ },
+ "/integrations/s3-correct-endpoint-region": {
+  "file": "integrations/s3-correct-endpoint-region.jpg",
+  "hash": "2b60166ef9"
+ },
+ "/integrations/s3-download-object": {
+  "file": "integrations/s3-download-object.jpg",
+  "hash": "75657f7da2"
+ },
+ "/integrations/s3-endpoint-region": {
+  "file": "integrations/s3-endpoint-region.jpg",
+  "hash": "f8c5104338"
+ },
+ "/integrations/s3-fix-signature-time-error": {
+  "file": "integrations/s3-fix-signature-time-error.jpg",
+  "hash": "6d1f0fad42"
+ },
+ "/integrations/s3-list-prefixes": {
+  "file": "integrations/s3-list-prefixes.jpg",
+  "hash": "f4e9fc9ac1"
+ },
+ "/integrations/s3-path-style-troubleshoot": {
+  "file": "integrations/s3-path-style-troubleshoot.jpg",
+  "hash": "b8795883d9"
+ },
+ "/developers/s3-permissions": {
+  "file": "developers/s3-permissions.jpg",
+  "hash": "81353da1f4"
+ },
+ "/integrations/s3-resolve-prefix-denied": {
+  "file": "integrations/s3-resolve-prefix-denied.jpg",
+  "hash": "942e15f4ec"
+ },
+ "/integrations/s3-rotate-access-key-safely": {
+  "file": "integrations/s3-rotate-access-key-safely.jpg",
+  "hash": "4375c2cffa"
+ },
+ "/troubleshooting/s3": {
+  "file": "troubleshooting/s3.jpg",
+  "hash": "13acd5dba6"
+ },
+ "/integrations/s3-upload-object": {
+  "file": "integrations/s3-upload-object.jpg",
+  "hash": "a6ee725b2a"
+ },
+ "/integrations/s3-verify-large-transfer": {
+  "file": "integrations/s3-verify-large-transfer.jpg",
+  "hash": "689c3937d4"
+ },
+ "/files/search-clear-stale-filters": {
+  "file": "files/search-clear-stale-filters.jpg",
+  "hash": "e8925784b5"
+ },
+ "/files/search-current-folder": {
+  "file": "files/search-current-folder.jpg",
+  "hash": "8372b3bc3a"
+ },
+ "/files/search-distinguish-same-name": {
+  "file": "files/search-distinguish-same-name.jpg",
+  "hash": "851777489e"
+ },
+ "/files/search-exact-file-name": {
+  "file": "files/search-exact-file-name.jpg",
+  "hash": "96540419b0"
+ },
+ "/files/search-file-type": {
+  "file": "files/search-file-type.jpg",
+  "hash": "892db614d2"
+ },
+ "/files/search-files": {
+  "file": "files/search-files.jpg",
+  "hash": "78365c20aa"
+ },
+ "/files/search-folder-and-type": {
+  "file": "files/search-folder-and-type.jpg",
+  "hash": "fb9cfa0553"
+ },
+ "/files/search-partial-file-name": {
+  "file": "files/search-partial-file-name.jpg",
+  "hash": "5ec76ab25a"
+ },
+ "/account/security-notifications": {
+  "file": "account/security-notifications.jpg",
+  "hash": "06d6ed8039"
+ },
+ "/files/select-multiple-files": {
+  "file": "files/select-multiple-files.jpg",
+  "hash": "5706720a7d"
+ },
+ "/files/selection-clear-after-action": {
+  "file": "files/selection-clear-after-action.jpg",
+  "hash": "9f7d606977"
+ },
+ "/files/selection-contiguous-file-group": {
+  "file": "files/selection-contiguous-file-group.jpg",
+  "hash": "94ac20e79c"
+ },
+ "/files/selection-nonadjacent-files": {
+  "file": "files/selection-nonadjacent-files.jpg",
+  "hash": "1d20552f0b"
+ },
+ "/files/selection-preflight-batch-move": {
+  "file": "files/selection-preflight-batch-move.jpg",
+  "hash": "6c8bf87726"
+ },
+ "/files/selection-verify-count": {
+  "file": "files/selection-verify-count.jpg",
+  "hash": "69812d4f75"
+ },
+ "/account/sessions-compare-last-active": {
+  "file": "account/sessions-compare-last-active.jpg",
+  "hash": "e2a99b3739"
+ },
+ "/account/sessions-identify-current-session": {
+  "file": "account/sessions-identify-current-session.jpg",
+  "hash": "2383dc358c"
+ },
+ "/account/sessions-location-context": {
+  "file": "account/sessions-location-context.jpg",
+  "hash": "4c31da6980"
+ },
+ "/account/sessions-lost-device-response": {
+  "file": "account/sessions-lost-device-response.jpg",
+  "hash": "0c1c1f99fe"
+ },
+ "/account/sessions-recognize-device": {
+  "file": "account/sessions-recognize-device.jpg",
+  "hash": "4a63c79afc"
+ },
+ "/account/sessions-revoke-all-others": {
+  "file": "account/sessions-revoke-all-others.jpg",
+  "hash": "794f909fc1"
+ },
+ "/account/sessions-revoke-one": {
+  "file": "account/sessions-revoke-one.jpg",
+  "hash": "7811bbbe94"
+ },
+ "/account/sessions-secure-after-unknown": {
+  "file": "account/sessions-secure-after-unknown.jpg",
+  "hash": "e2ec57b6d9"
+ },
+ "/account/sessions-verify-revoked-device": {
+  "file": "account/sessions-verify-revoked-device.jpg",
+  "hash": "dbc2232c86"
+ },
+ "/account/sessions": {
+  "file": "account/sessions.jpg",
+  "hash": "1e5f99b2ea"
+ },
+ "/integrations/sftp-connect": {
+  "file": "integrations/sftp-connect.jpg",
+  "hash": "7d2db6c22b"
+ },
+ "/integrations/sftp-disconnect-safely": {
+  "file": "integrations/sftp-disconnect-safely.jpg",
+  "hash": "f085007b6c"
+ },
+ "/integrations/sftp-download-file": {
+  "file": "integrations/sftp-download-file.jpg",
+  "hash": "cd325b8ca3"
+ },
+ "/integrations/sftp-filezilla-connect": {
+  "file": "integrations/sftp-filezilla-connect.jpg",
+  "hash": "a5fb13017c"
+ },
+ "/integrations/sftp-fix-restricted-folder": {
+  "file": "integrations/sftp-fix-restricted-folder.jpg",
+  "hash": "fbdd80f9f2"
+ },
+ "/integrations/sftp-host-key-warning": {
+  "file": "integrations/sftp-host-key-warning.jpg",
+  "hash": "455a21239e"
+ },
+ "/integrations/sftp-resolve-authentication-failure": {
+  "file": "integrations/sftp-resolve-authentication-failure.jpg",
+  "hash": "c27b278fff"
+ },
+ "/integrations/sftp-restricted-key": {
+  "file": "integrations/sftp-restricted-key.jpg",
+  "hash": "ffe838feab"
+ },
+ "/integrations/sftp-resume-transfer": {
+  "file": "integrations/sftp-resume-transfer.jpg",
+  "hash": "4d3465596f"
+ },
+ "/integrations/sftp-retry-interrupted-transfer": {
+  "file": "integrations/sftp-retry-interrupted-transfer.jpg",
+  "hash": "9b9175919f"
+ },
+ "/troubleshooting/sftp": {
+  "file": "troubleshooting/sftp.jpg",
+  "hash": "d296ecc6ff"
+ },
+ "/integrations/sftp-upload-file": {
+  "file": "integrations/sftp-upload-file.jpg",
+  "hash": "44ba1a7ba3"
+ },
+ "/integrations/sftp-verify-host-key-change": {
+  "file": "integrations/sftp-verify-host-key-change.jpg",
+  "hash": "0aaaae9d76"
+ },
+ "/sharing/share-access-event": {
+  "file": "sharing/share-access-event.jpg",
+  "hash": "4d29b428b0"
+ },
+ "/sharing/export-analytics": {
+  "file": "sharing/export-analytics.jpg",
+  "hash": "d90acf3c24"
+ },
+ "/sharing/analytics": {
+  "file": "sharing/analytics.jpg",
+  "hash": "aa87cc1c7e"
+ },
+ "/sharing/custom-branding": {
+  "file": "sharing/custom-branding.jpg",
+  "hash": "c1009cdfff"
+ },
+ "/sharing/share-change-expiry": {
+  "file": "sharing/share-change-expiry.jpg",
+  "hash": "dd222c6028"
+ },
+ "/sharing/share-change-password": {
+  "file": "sharing/share-change-password.jpg",
+  "hash": "894ba4fba6"
+ },
+ "/sharing/share-close-after-review": {
+  "file": "sharing/share-close-after-review.jpg",
+  "hash": "95dde3294d"
+ },
+ "/sharing/share-confirm-first-access": {
+  "file": "sharing/share-confirm-first-access.jpg",
+  "hash": "1c2a80553a"
+ },
+ "/sharing/share-deliver-file-bundle": {
+  "file": "sharing/share-deliver-file-bundle.jpg",
+  "hash": "d1df58f62b"
+ },
+ "/sharing/audit-delivery": {
+  "file": "sharing/audit-delivery.jpg",
+  "hash": "f650ceb715"
+ },
+ "/sharing/share-disable-downloads": {
+  "file": "sharing/share-disable-downloads.jpg",
+  "hash": "d232016607"
+ },
+ "/sharing/share-download-control": {
+  "file": "sharing/share-download-control.jpg",
+  "hash": "0463b585ed"
+ },
+ "/sharing/share-email-message": {
+  "file": "sharing/share-email-message.jpg",
+  "hash": "4bce58dca4"
+ },
+ "/sharing/share-export-analytics-details": {
+  "file": "sharing/share-export-analytics-details.jpg",
+  "hash": "f864f24bf1"
+ },
+ "/sharing/share-file-bundle": {
+  "file": "sharing/share-file-bundle.jpg",
+  "hash": "96d6bb5600"
+ },
+ "/sharing/share-investigate-unexpected-activity": {
+  "file": "sharing/share-investigate-unexpected-activity.jpg",
+  "hash": "89cca4387d"
+ },
+ "/sharing/share-match-recipient-activity": {
+  "file": "sharing/share-match-recipient-activity.jpg",
+  "hash": "8d5d7078ff"
+ },
+ "/sharing/share-preflight-private-window": {
+  "file": "sharing/share-preflight-private-window.jpg",
+  "hash": "404978498e"
+ },
+ "/sharing/preview-branding": {
+  "file": "sharing/preview-branding.jpg",
+  "hash": "9bdb4458bb"
+ },
+ "/sharing/share-read-visitors": {
+  "file": "sharing/share-read-visitors.jpg",
+  "hash": "fd9c5a7127"
+ },
+ "/sharing/share-recipient-download-file": {
+  "file": "sharing/share-recipient-download-file.jpg",
+  "hash": "68b2a2d223"
+ },
+ "/sharing/share-recipient-email-verification": {
+  "file": "sharing/share-recipient-email-verification.jpg",
+  "hash": "6019e2f814"
+ },
+ "/sharing/share-recipient-open-link": {
+  "file": "sharing/share-recipient-open-link.jpg",
+  "hash": "f26451d342"
+ },
+ "/sharing/share-recipient-password": {
+  "file": "sharing/share-recipient-password.jpg",
+  "hash": "643a6e9ba6"
+ },
+ "/sharing/share-recipient-report-problem": {
+  "file": "sharing/share-recipient-report-problem.jpg",
+  "hash": "1ccd149b8c"
+ },
+ "/sharing/share-recipient-verification": {
+  "file": "sharing/share-recipient-verification.jpg",
+  "hash": "2c2f4bfc94"
+ },
+ "/sharing/share-require-named-recipients": {
+  "file": "sharing/share-require-named-recipients.jpg",
+  "hash": "f3f41f7fb7"
+ },
+ "/sharing/share-review-download-events": {
+  "file": "sharing/share-review-download-events.jpg",
+  "hash": "2f98b9c2bd"
+ },
+ "/sharing/share-revoke-after-delivery": {
+  "file": "sharing/share-revoke-after-delivery.jpg",
+  "hash": "518a97184d"
+ },
+ "/sharing/share-send-updated-settings": {
+  "file": "sharing/share-send-updated-settings.jpg",
+  "hash": "fd7fb0a600"
+ },
+ "/account/signin-check-session-after-reset": {
+  "file": "account/signin-check-session-after-reset.jpg",
+  "hash": "f9fc23a925"
+ },
+ "/account/signin-complete-email-verification": {
+  "file": "account/signin-complete-email-verification.jpg",
+  "hash": "71911a4bc7"
+ },
+ "/account/signin-find-missing-reset-email": {
+  "file": "account/signin-find-missing-reset-email.jpg",
+  "hash": "01f26e3c04"
+ },
+ "/account/signin-replace-expired-reset-link": {
+  "file": "account/signin-replace-expired-reset-link.jpg",
+  "hash": "775a4fa2ac"
+ },
+ "/account/signin-resolve-oauth-password-mismatch": {
+  "file": "account/signin-resolve-oauth-password-mismatch.jpg",
+  "hash": "8da1b60eda"
+ },
+ "/troubleshooting/slow-transfer": {
+  "file": "troubleshooting/slow-transfer.jpg",
+  "hash": "58e055abeb"
+ },
+ "/files/sort-files": {
+  "file": "files/sort-files.jpg",
+  "hash": "4cfb5ae40d"
+ },
+ "/uploading/storage-usage": {
+  "file": "uploading/storage-usage.jpg",
+  "hash": "581724badb"
+ },
+ "/troubleshooting/support-privacy": {
+  "file": "troubleshooting/support-privacy.jpg",
+  "hash": "c8436c2767"
+ },
+ "/account/suspicious-activity": {
+  "file": "account/suspicious-activity.jpg",
+  "hash": "c5a7a66cb5"
+ },
+ "/account/switch-workspaces": {
+  "file": "account/switch-workspaces.jpg",
+  "hash": "cfff41f528"
+ },
+ "/files/text-editor-find-in-file": {
+  "file": "files/text-editor-find-in-file.jpg",
+  "hash": "4c9aa376ff"
+ },
+ "/files/text-editor-open-file": {
+  "file": "files/text-editor-open-file.jpg",
+  "hash": "495eb34825"
+ },
+ "/files/text-editor-save-changes": {
+  "file": "files/text-editor-save-changes.jpg",
+  "hash": "54ba03b7bd"
+ },
+ "/files/text-editor-unavailable": {
+  "file": "files/text-editor-unavailable.jpg",
+  "hash": "c5896978df"
+ },
+ "/files/text-editor-version-conflict": {
+  "file": "files/text-editor-version-conflict.jpg",
+  "hash": "eac75e8667"
+ },
+ "/files/trash-delete-selected-permanently": {
+  "file": "files/trash-delete-selected-permanently.jpg",
+  "hash": "8c8329447b"
+ },
+ "/files/trash-file": {
+  "file": "files/trash-file.jpg",
+  "hash": "c1d6944766"
+ },
+ "/files/trash-folder": {
+  "file": "files/trash-folder.jpg",
+  "hash": "fd8cd72f7c"
+ },
+ "/files/trash-identify-item": {
+  "file": "files/trash-identify-item.jpg",
+  "hash": "6c8992fb68"
+ },
+ "/files/trash-restore-name-conflict": {
+  "file": "files/trash-restore-name-conflict.jpg",
+  "hash": "77d9a42fa5"
+ },
+ "/files/trash-restore-original-location": {
+  "file": "files/trash-restore-original-location.jpg",
+  "hash": "d6b11b2751"
+ },
+ "/files/trash-retention": {
+  "file": "files/trash-retention.jpg",
+  "hash": "dbb9f7dca6"
+ },
+ "/files/trash-verify-storage-release": {
+  "file": "files/trash-verify-storage-release.jpg",
+  "hash": "dc26ef6829"
+ },
+ "/sharing/troubleshoot-file-request": {
+  "file": "sharing/troubleshoot-file-request.jpg",
+  "hash": "ec00f215e1"
+ },
+ "/account/two-factor-confirm-enrollment": {
+  "file": "account/two-factor-confirm-enrollment.jpg",
+  "hash": "ee11a63938"
+ },
+ "/account/two-factor-move-new-phone": {
+  "file": "account/two-factor-move-new-phone.jpg",
+  "hash": "d94aa21b54"
+ },
+ "/account/two-factor-recovery": {
+  "file": "account/two-factor-recovery.jpg",
+  "hash": "121cbdef75"
+ },
+ "/account/two-factor-reenroll-after-recovery": {
+  "file": "account/two-factor-reenroll-after-recovery.jpg",
+  "hash": "8258af2798"
+ },
+ "/account/two-factor-scan-qr-safely": {
+  "file": "account/two-factor-scan-qr-safely.jpg",
+  "hash": "e2d2cd782f"
+ },
+ "/account/two-factor-store-recovery-codes": {
+  "file": "account/two-factor-store-recovery-codes.jpg",
+  "hash": "bfad9dce5c"
+ },
+ "/account/two-factor": {
+  "file": "account/two-factor.jpg",
+  "hash": "384e5baef2"
+ },
+ "/sharing/unavailable-link": {
+  "file": "sharing/unavailable-link.jpg",
+  "hash": "ebbbfa2287"
+ },
+ "/files/unhide-item": {
+  "file": "files/unhide-item.jpg",
+  "hash": "dbb479645e"
+ },
+ "/files/unlock-file": {
+  "file": "files/unlock-file.jpg",
+  "hash": "aeb7248105"
+ },
+ "/account/upgrade-storage": {
+  "file": "account/upgrade-storage.jpg",
+  "hash": "aec294fedf"
+ },
+ "/uploading/upload-confirm-workspace": {
+  "file": "uploading/upload-confirm-workspace.jpg",
+  "hash": "ec5c01147d"
+ },
+ "/uploading/upload-destination-locked": {
+  "file": "uploading/upload-destination-locked.jpg",
+  "hash": "5c4e711af0"
+ },
+ "/uploading/upload-estimate-storage": {
+  "file": "uploading/upload-estimate-storage.jpg",
+  "hash": "9d27aa557f"
+ },
+ "/uploading/files-and-folders": {
+  "file": "uploading/files-and-folders.jpg",
+  "hash": "104de4a286"
+ },
+ "/uploading/upload-prepare-file-names": {
+  "file": "uploading/upload-prepare-file-names.jpg",
+  "hash": "6c36649f7e"
+ },
+ "/uploading/upload-preserve-folder-structure": {
+  "file": "uploading/upload-preserve-folder-structure.jpg",
+  "hash": "7eb518aa93"
+ },
+ "/uploading/progress-and-states": {
+  "file": "uploading/progress-and-states.jpg",
+  "hash": "39ea6787f3"
+ },
+ "/uploading/upload-record-failure-details": {
+  "file": "uploading/upload-record-failure-details.jpg",
+  "hash": "88643b8df1"
+ },
+ "/uploading/upload-recover-after-refresh": {
+  "file": "uploading/upload-recover-after-refresh.jpg",
+  "hash": "c102b6d62e"
+ },
+ "/uploading/upload-resume-after-network": {
+  "file": "uploading/upload-resume-after-network.jpg",
+  "hash": "cde589747f"
+ },
+ "/uploading/upload-retry-one-item": {
+  "file": "uploading/upload-retry-one-item.jpg",
+  "hash": "2784478171"
+ },
+ "/uploading/upload-test-one-file": {
+  "file": "uploading/upload-test-one-file.jpg",
+  "hash": "ef1d18a9d8"
+ },
+ "/files/vault-clear-device-cache": {
+  "file": "files/vault-clear-device-cache.jpg",
+  "hash": "59365a328e"
+ },
+ "/files/vault-files": {
+  "file": "files/vault-files.jpg",
+  "hash": "7fac1f58c9"
+ },
+ "/files/vault-lost-passphrase-plan": {
+  "file": "files/vault-lost-passphrase-plan.jpg",
+  "hash": "8f97426e8c"
+ },
+ "/files/vault-member-access": {
+  "file": "files/vault-member-access.jpg",
+  "hash": "479ef7cfc0"
+ },
+ "/files/vault-overview": {
+  "file": "files/vault-overview.jpg",
+  "hash": "294ba466f8"
+ },
+ "/files/vault-recovery": {
+  "file": "files/vault-recovery.jpg",
+  "hash": "feeb2fadcc"
+ },
+ "/files/vault-setup": {
+  "file": "files/vault-setup.jpg",
+  "hash": "00164a2957"
+ },
+ "/files/vault-transfer-stalled": {
+  "file": "files/vault-transfer-stalled.jpg",
+  "hash": "1f2c1d557e"
+ },
+ "/troubleshooting/vault-unlock": {
+  "file": "troubleshooting/vault-unlock.jpg",
+  "hash": "9558ca4c46"
+ },
+ "/files/vault-verify-recovery-key": {
+  "file": "files/vault-verify-recovery-key.jpg",
+  "hash": "11a5249138"
+ },
+ "/files/vault-wrong-workspace": {
+  "file": "files/vault-wrong-workspace.jpg",
+  "hash": "4c608eb2d3"
+ },
+ "/troubleshooting/verify-change-worked": {
+  "file": "troubleshooting/verify-change-worked.jpg",
+  "hash": "070fba76fe"
+ },
+ "/uploading/verify-downloaded-archive": {
+  "file": "uploading/verify-downloaded-archive.jpg",
+  "hash": "9c0d097548"
+ },
+ "/account/verify-plan-change": {
+  "file": "account/verify-plan-change.jpg",
+  "hash": "19fd059c14"
+ },
+ "/files/version-compare-details": {
+  "file": "files/version-compare-details.jpg",
+  "hash": "7deffd9d6f"
+ },
+ "/files/version-download-previous": {
+  "file": "files/version-download-previous.jpg",
+  "hash": "4238a60f46"
+ },
+ "/files/version-history": {
+  "file": "files/version-history.jpg",
+  "hash": "7871937ad9"
+ },
+ "/files/version-restore-test": {
+  "file": "files/version-restore-test.jpg",
+  "hash": "77a807a540"
+ },
+ "/files/version-upload-replacement": {
+  "file": "files/version-upload-replacement.jpg",
+  "hash": "bb7069808d"
+ },
+ "/files/version-vs-copy": {
+  "file": "files/version-vs-copy.jpg",
+  "hash": "b60c86dba7"
+ },
+ "/files/video-preview-controls": {
+  "file": "files/video-preview-controls.jpg",
+  "hash": "ff8c111876"
+ },
+ "/integrations/webdav-clear-stale-credentials": {
+  "file": "integrations/webdav-clear-stale-credentials.jpg",
+  "hash": "dd68f5a7b3"
+ },
+ "/integrations/webdav": {
+  "file": "integrations/webdav.jpg",
+  "hash": "551b7c8ca0"
+ },
+ "/integrations/webdav-correct-workspace-endpoint": {
+  "file": "integrations/webdav-correct-workspace-endpoint.jpg",
+  "hash": "a6872967b0"
+ },
+ "/integrations/webdav-cyberduck": {
+  "file": "integrations/webdav-cyberduck.jpg",
+  "hash": "2dffccf313"
+ },
+ "/integrations/webdav-diagnose-read-only": {
+  "file": "integrations/webdav-diagnose-read-only.jpg",
+  "hash": "3b9897f6eb"
+ },
+ "/integrations/webdav-lock-permission-errors": {
+  "file": "integrations/webdav-lock-permission-errors.jpg",
+  "hash": "1c9c4e0b02"
+ },
+ "/integrations/webdav-map-windows": {
+  "file": "integrations/webdav-map-windows.jpg",
+  "hash": "bb96f9004c"
+ },
+ "/integrations/webdav-mount-finder": {
+  "file": "integrations/webdav-mount-finder.jpg",
+  "hash": "b5c9527b2f"
+ },
+ "/integrations/webdav-refresh-stale-listing": {
+  "file": "integrations/webdav-refresh-stale-listing.jpg",
+  "hash": "e32f5cceb2"
+ },
+ "/integrations/webdav-remount-safely": {
+  "file": "integrations/webdav-remount-safely.jpg",
+  "hash": "870e79b499"
+ },
+ "/integrations/webdav-rename-move": {
+  "file": "integrations/webdav-rename-move.jpg",
+  "hash": "b074f05e6d"
+ },
+ "/integrations/webdav-transfer-files": {
+  "file": "integrations/webdav-transfer-files.jpg",
+  "hash": "18733eb199"
+ },
+ "/developers/webhook-acknowledge-promptly": {
+  "file": "developers/webhook-acknowledge-promptly.jpg",
+  "hash": "c8f73490b8"
+ },
+ "/developers/webhook-create": {
+  "file": "developers/webhook-create.jpg",
+  "hash": "607fcb87c8"
+ },
+ "/developers/webhook-deduplicate-deliveries": {
+  "file": "developers/webhook-deduplicate-deliveries.jpg",
+  "hash": "aa37da0b5a"
+ },
+ "/developers/webhook-delete-endpoint": {
+  "file": "developers/webhook-delete-endpoint.jpg",
+  "hash": "9e1ece8468"
+ },
+ "/developers/webhook-deliveries": {
+  "file": "developers/webhook-deliveries.jpg",
+  "hash": "ddf5cc084b"
+ },
+ "/developers/webhook-events": {
+  "file": "developers/webhook-events.jpg",
+  "hash": "1e24003281"
+ },
+ "/developers/webhook-handle-out-of-order": {
+  "file": "developers/webhook-handle-out-of-order.jpg",
+  "hash": "f0445b8e84"
+ },
+ "/developers/webhook-log-safe-diagnostics": {
+  "file": "developers/webhook-log-safe-diagnostics.jpg",
+  "hash": "fe6fb5388c"
+ },
+ "/developers/webhook-payload-versioning": {
+  "file": "developers/webhook-payload-versioning.jpg",
+  "hash": "439eff2dda"
+ },
+ "/developers/webhook-recover-after-downtime": {
+  "file": "developers/webhook-recover-after-downtime.jpg",
+  "hash": "b8e2fc27f6"
+ },
+ "/developers/webhook-redeliver-event": {
+  "file": "developers/webhook-redeliver-event.jpg",
+  "hash": "8a3cdd0593"
+ },
+ "/developers/webhook-reenable-endpoint": {
+  "file": "developers/webhook-reenable-endpoint.jpg",
+  "hash": "4578153d4a"
+ },
+ "/developers/webhook-retry-idempotency": {
+  "file": "developers/webhook-retry-idempotency.jpg",
+  "hash": "1d222185ef"
+ },
+ "/developers/webhook-rotate-secret": {
+  "file": "developers/webhook-rotate-secret.jpg",
+  "hash": "be8ea884fb"
+ },
+ "/developers/webhook-send-test": {
+  "file": "developers/webhook-send-test.jpg",
+  "hash": "290fa0d9e1"
+ },
+ "/developers/webhook-signatures": {
+  "file": "developers/webhook-signatures.jpg",
+  "hash": "163b0a34ce"
+ },
+ "/troubleshooting/webhooks": {
+  "file": "troubleshooting/webhooks.jpg",
+  "hash": "fc5a8a3e9d"
+ },
+ "/integrations/wordpress-backup-failed": {
+  "file": "integrations/wordpress-backup-failed.jpg",
+  "hash": "e10ebfe1d0"
+ },
+ "/integrations/wordpress-backup-protection-window": {
+  "file": "integrations/wordpress-backup-protection-window.jpg",
+  "hash": "8556a3c7ec"
+ },
+ "/integrations/wordpress-backup-retention": {
+  "file": "integrations/wordpress-backup-retention.jpg",
+  "hash": "d574e94b5f"
+ },
+ "/integrations/wordpress-backups": {
+  "file": "integrations/wordpress-backups.jpg",
+  "hash": "672a23fb5b"
+ },
+ "/integrations/wordpress-connect-workspace": {
+  "file": "integrations/wordpress-connect-workspace.jpg",
+  "hash": "5cdb354e9a"
+ },
+ "/integrations/wordpress-connect": {
+  "file": "integrations/wordpress-connect.jpg",
+  "hash": "0483110784"
+ },
+ "/integrations/wordpress-copy-detected-warning": {
+  "file": "integrations/wordpress-copy-detected-warning.jpg",
+  "hash": "b6841eef1e"
+ },
+ "/integrations/wordpress-disconnect-site": {
+  "file": "integrations/wordpress-disconnect-site.jpg",
+  "hash": "fa5d7aa71d"
+ },
+ "/integrations/wordpress-full-vs-incremental": {
+  "file": "integrations/wordpress-full-vs-incremental.jpg",
+  "hash": "abba2524ea"
+ },
+ "/integrations/wordpress-open-backup-folder": {
+  "file": "integrations/wordpress-open-backup-folder.jpg",
+  "hash": "2ce01a612d"
+ },
+ "/integrations/wordpress-plugin-install": {
+  "file": "integrations/wordpress-plugin-install.jpg",
+  "hash": "1ac2fef5c7"
+ },
+ "/integrations/wordpress-plugin-update": {
+  "file": "integrations/wordpress-plugin-update.jpg",
+  "hash": "29cc0f1622"
+ },
+ "/integrations/wordpress-reconnect-site": {
+  "file": "integrations/wordpress-reconnect-site.jpg",
+  "hash": "60550fe19c"
+ },
+ "/integrations/wordpress-review-backup-status": {
+  "file": "integrations/wordpress-review-backup-status.jpg",
+  "hash": "1acc27e179"
+ },
+ "/integrations/wordpress-site-limit": {
+  "file": "integrations/wordpress-site-limit.jpg",
+  "hash": "568bf8c57c"
+ },
+ "/integrations/wordpress-status-load-error": {
+  "file": "integrations/wordpress-status-load-error.jpg",
+  "hash": "f12c12c9a1"
+ },
+ "/integrations/wordpress-verify-backup": {
+  "file": "integrations/wordpress-verify-backup.jpg",
+  "hash": "b51717a38d"
+ },
+ "/workspaces/activity": {
+  "file": "workspaces/activity.jpg",
+  "hash": "1e3542cc0a"
+ },
+ "/workspaces/workspace-assign-custom-role": {
+  "file": "workspaces/workspace-assign-custom-role.jpg",
+  "hash": "ff65a5490c"
+ },
+ "/workspaces/branding": {
+  "file": "workspaces/branding.jpg",
+  "hash": "b7368807c7"
+ },
+ "/workspaces/workspace-change-role": {
+  "file": "workspaces/workspace-change-role.jpg",
+  "hash": "92894cb832"
+ },
+ "/workspaces/workspace-create-custom-role": {
+  "file": "workspaces/workspace-create-custom-role.jpg",
+  "hash": "d58d0f3cd7"
+ },
+ "/workspaces/workspace-dashboard": {
+  "file": "workspaces/workspace-dashboard.jpg",
+  "hash": "aa2ac6a402"
+ },
+ "/workspaces/workspace-delete-preview": {
+  "file": "workspaces/workspace-delete-preview.jpg",
+  "hash": "e2d8e516f8"
+ },
+ "/workspaces/folder-access": {
+  "file": "workspaces/folder-access.jpg",
+  "hash": "5104d2e706"
+ },
+ "/workspaces/workspace-invite-correct-email": {
+  "file": "workspaces/workspace-invite-correct-email.jpg",
+  "hash": "7db6310759"
+ },
+ "/workspaces/workspace-invite-link-policy-test": {
+  "file": "workspaces/workspace-invite-link-policy-test.jpg",
+  "hash": "e785e97339"
+ },
+ "/workspaces/invite-links": {
+  "file": "workspaces/invite-links.jpg",
+  "hash": "b5fb104b8e"
+ },
+ "/workspaces/workspace-invite-resend-existing": {
+  "file": "workspaces/workspace-invite-resend-existing.jpg",
+  "hash": "e45e02bd15"
+ },
+ "/workspaces/workspace-invite-review-pending": {
+  "file": "workspaces/workspace-invite-review-pending.jpg",
+  "hash": "2a502909cd"
+ },
+ "/workspaces/workspace-invite-revoke-stale": {
+  "file": "workspaces/workspace-invite-revoke-stale.jpg",
+  "hash": "54e02ff8be"
+ },
+ "/workspaces/workspace-member-add-folder-access": {
+  "file": "workspaces/workspace-member-add-folder-access.jpg",
+  "hash": "51f82b6710"
+ },
+ "/workspaces/workspace-member-choose-role": {
+  "file": "workspaces/workspace-member-choose-role.jpg",
+  "hash": "62c36c209f"
+ },
+ "/workspaces/member-removal": {
+  "file": "workspaces/member-removal.jpg",
+  "hash": "efa0c0ca4d"
+ },
+ "/workspaces/workspace-member-verify-accepted": {
+  "file": "workspaces/workspace-member-verify-accepted.jpg",
+  "hash": "6862b11dae"
+ },
+ "/workspaces/workspace-member-verify-removal": {
+  "file": "workspaces/workspace-member-verify-removal.jpg",
+  "hash": "b87b7b18df"
+ },
+ "/workspaces/workspace-member-verify-role-change": {
+  "file": "workspaces/workspace-member-verify-role-change.jpg",
+  "hash": "99cd622a3b"
+ },
+ "/workspaces/workspace-pending-invites": {
+  "file": "workspaces/workspace-pending-invites.jpg",
+  "hash": "cd1b0b0a1e"
+ },
+ "/workspaces/policies": {
+  "file": "workspaces/policies.jpg",
+  "hash": "54a59c303c"
+ },
+ "/workspaces/workspace-policy-file-requests": {
+  "file": "workspaces/workspace-policy-file-requests.jpg",
+  "hash": "78ac322f5a"
+ },
+ "/workspaces/workspace-policy-member-test": {
+  "file": "workspaces/workspace-policy-member-test.jpg",
+  "hash": "7a93206bcc"
+ },
+ "/workspaces/workspace-policy-public-links": {
+  "file": "workspaces/workspace-policy-public-links.jpg",
+  "hash": "f65a561a83"
+ },
+ "/workspaces/workspace-policy-required-expiry": {
+  "file": "workspaces/workspace-policy-required-expiry.jpg",
+  "hash": "0ff79da4d9"
+ },
+ "/workspaces/workspace-policy-upload-size": {
+  "file": "workspaces/workspace-policy-upload-size.jpg",
+  "hash": "8be1ff21bd"
+ },
+ "/workspaces/region-and-routing": {
+  "file": "workspaces/region-and-routing.jpg",
+  "hash": "56de8c6add"
+ },
+ "/workspaces/workspace-resend-invite": {
+  "file": "workspaces/workspace-resend-invite.jpg",
+  "hash": "f625221dff"
+ },
+ "/workspaces/workspace-role-activity-access": {
+  "file": "workspaces/workspace-role-activity-access.jpg",
+  "hash": "201f1aec43"
+ },
+ "/workspaces/workspace-role-file-access": {
+  "file": "workspaces/workspace-role-file-access.jpg",
+  "hash": "28a37d567d"
+ },
+ "/workspaces/workspace-role-sharing-access": {
+  "file": "workspaces/workspace-role-sharing-access.jpg",
+  "hash": "594bc9c224"
+ },
+ "/workspaces/roles": {
+  "file": "workspaces/roles.jpg",
+  "hash": "542e8ae64e"
+ },
+ "/workspaces/storage-allocation": {
+  "file": "workspaces/storage-allocation.jpg",
+  "hash": "46997cc735"
+ },
+ "/workspaces/workspace-storage-calculate-headroom": {
+  "file": "workspaces/workspace-storage-calculate-headroom.jpg",
+  "hash": "e564196a30"
+ },
+ "/workspaces/workspace-storage-change-allocation": {
+  "file": "workspaces/workspace-storage-change-allocation.jpg",
+  "hash": "0f6a740803"
+ },
+ "/workspaces/workspace-storage-member-quota": {
+  "file": "workspaces/workspace-storage-member-quota.jpg",
+  "hash": "224c753c75"
+ },
+ "/workspaces/workspace-storage-read-allocation": {
+  "file": "workspaces/workspace-storage-read-allocation.jpg",
+  "hash": "dc65072db8"
+ },
+ "/workspaces/workspace-storage-verify-cleanup": {
+  "file": "workspaces/workspace-storage-verify-cleanup.jpg",
+  "hash": "019e342b4d"
+ },
+ "/integrations/zapier": {
+  "file": "integrations/zapier.jpg",
+  "hash": "ec17c4ad17"
+ },
+ "/integrations/zapier-inspect-failed-run": {
+  "file": "integrations/zapier-inspect-failed-run.jpg",
+  "hash": "f7cca65cc6"
+ },
+ "/integrations/zapier-map-file-identifier": {
+  "file": "integrations/zapier-map-file-identifier.jpg",
+  "hash": "9d3e1f167a"
+ },
+ "/integrations/zapier-new-file-trigger": {
+  "file": "integrations/zapier-new-file-trigger.jpg",
+  "hash": "20dd86a007"
+ },
+ "/integrations/zapier-reconnect-dosya-account": {
+  "file": "integrations/zapier-reconnect-dosya-account.jpg",
+  "hash": "66c60d9ae6"
+ },
+ "/integrations/zapier-refresh-trigger-sample": {
+  "file": "integrations/zapier-refresh-trigger-sample.jpg",
+  "hash": "3e027f04ed"
+ },
+ "/integrations/zapier-retry-without-duplicates": {
+  "file": "integrations/zapier-retry-without-duplicates.jpg",
+  "hash": "958b00240d"
+ },
+ "/troubleshooting/zapier": {
+  "file": "troubleshooting/zapier.jpg",
+  "hash": "15ed530666"
+ },
+ "/integrations/zapier-upload-file-action": {
+  "file": "integrations/zapier-upload-file-action.jpg",
+  "hash": "5ae648fdfd"
+ }
+}

@@ -1,0 +1,34 @@
+---
+import { getCollection,render } from 'astro:content';
+import HelpLayout from '../../layouts/HelpLayout.astro';
+import ArticleList from '../../components/ArticleList.astro';
+import ArticleInteractions from '../../components/ArticleInteractions.astro';
+import {categories,articlePath} from '../../lib/content';
+import {readFileSync} from 'node:fs';
+import pathModule from 'node:path';
+let publishedDates:Record<string,string>={};
+try{publishedDates=JSON.parse(readFileSync(pathModule.join(process.cwd(),'generated/published-dates.json'),'utf8'));}catch{}
+export async function getStaticPaths(){return (await getCollection('articles')).filter(a=>a.data.status==='published').map(article=>({params:{category:article.data.category,slug:article.data.articleSlug},props:{article}}));}
+const {article}=Astro.props;const a=article.data;
+const {Content,headings}=await render(article);
+const related=(await getCollection('articles')).filter(x=>x.data.status==='published'&&a.related.includes(x.data.articleId));
+const category=categories[a.category];const path=articlePath(a),url=`https://help.dosya.dev${path}`;
+const datePublished=publishedDates[a.articleId]??a.lastReviewed;
+const schema=[{'@context':'https://schema.org','@type':'Article','headline':a.title,'description':a.summary,'inLanguage':'en','datePublished':datePublished,'dateModified':a.lastReviewed,'mainEntityOfPage':url,'author':{'@type':'Organization','name':'Dosya'},'publisher':{'@type':'Organization','name':'Dosya','url':'https://dosya.dev'}},{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{name:'Help home',item:'https://help.dosya.dev/'},{name:category.title,item:`https://help.dosya.dev/${a.category}`},{name:a.title,item:url}].map((x,i)=>({'@type':'ListItem',position:i+1,...x}))}];
+---
+<HelpLayout title={a.title} description={a.summary} canonicalPath={path} ogType="article" sharedArticleFooter>
+  <meta slot="head" property="article:published_time" content={`${datePublished}T00:00:00Z`} />
+  <meta slot="head" property="article:modified_time" content={`${a.lastReviewed}T00:00:00Z`} />
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(schema).replaceAll('<','\\u003c')} />
+  <div class="article-wrap">
+    <nav aria-label="Breadcrumb" class="breadcrumbs"><a href="/">Help home</a><span aria-hidden="true">/</span><a href={`/${a.category}`}>{category.title}</a><span aria-hidden="true">/</span><span aria-current="page">{a.title}</span></nav>
+    <div class="article-grid">
+      <article><h1>{a.title}</h1><p class="lead">{a.summary}</p><p class="review-date">Last reviewed <time datetime={a.lastReviewed}>{new Date(`${a.lastReviewed}T00:00:00Z`).toLocaleDateString('en',{year:'numeric',month:'long',day:'numeric',timeZone:'UTC'})}</time></p>
+        <div class="prose"><Content /></div>
+        {related.length>0&&<section class="related"><h2>Continue with another task</h2><ArticleList articles={related} /></section>}
+        <ArticleInteractions articleId={a.articleId} revision={a.revision} />
+      </article>
+      <aside class="on-this-page"><nav aria-label="On this page"><h2>On this page</h2><ul>{headings.filter(h=>h.depth===2).map(h=><li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ul></nav><a href="https://app.dosya.dev/support">Get private support</a></aside>
+    </div>
+  </div>
+</HelpLayout>

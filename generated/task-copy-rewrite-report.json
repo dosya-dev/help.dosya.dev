@@ -1,0 +1,5778 @@
+{
+  "mode": "apply",
+  "reviewDate": "2026-10-14",
+  "changedGuides": 712,
+  "visualChanges": 2678,
+  "proseChanges": 505,
+  "before": {
+    "publishedGuides": 781,
+    "priorityGuides": 100,
+    "medianBodyWords": 272,
+    "guidesUnder300Words": 609,
+    "guidesUnder400Words": 671,
+    "genericSummaries": 0,
+    "genericBodies": 0,
+    "screenshotReferences": 1571,
+    "uniqueScreenshotAssets": 858,
+    "priorityGuidesNeedingReview": 89,
+    "sharedSentences": 57,
+    "guidesWithSharedBoilerplate": 333,
+    "categorySharedSentences": 51,
+    "medianBoilerplateRatio": 0,
+    "maximumBoilerplateRatio": 0.346,
+    "genericSteps": 737,
+    "guidesWithGenericSteps": 424,
+    "duplicateTitleGroups": 0,
+    "nearDuplicateTitleGroups": 1,
+    "duplicateSummaryGroups": 0,
+    "nearDuplicateSummaryGroups": 0,
+    "titlesOver60Characters": 0,
+    "summariesOutsideRange": 364,
+    "genericKeywordGuides": 607,
+    "guidesWithFewerThan2InternalLinks": 4,
+    "orphanGuides": 574,
+    "openSignals": {
+      "duplicate-title": 2,
+      "fewer-than-2-internal-links": 4,
+      "generic-keywords": 607,
+      "generic-step": 424,
+      "orphan": 574,
+      "shared-boilerplate": 333,
+      "summary-outside-120-160": 364
+    }
+  },
+  "after": {
+    "publishedGuides": 781,
+    "priorityGuides": 100,
+    "medianBodyWords": 321,
+    "guidesUnder300Words": 228,
+    "guidesUnder400Words": 659,
+    "genericSummaries": 0,
+    "genericBodies": 0,
+    "screenshotReferences": 1571,
+    "uniqueScreenshotAssets": 858,
+    "priorityGuidesNeedingReview": 83,
+    "sharedSentences": 0,
+    "guidesWithSharedBoilerplate": 0,
+    "categorySharedSentences": 0,
+    "medianBoilerplateRatio": 0,
+    "maximumBoilerplateRatio": 0,
+    "genericSteps": 734,
+    "guidesWithGenericSteps": 421,
+    "duplicateTitleGroups": 0,
+    "nearDuplicateTitleGroups": 1,
+    "duplicateSummaryGroups": 0,
+    "nearDuplicateSummaryGroups": 0,
+    "titlesOver60Characters": 0,
+    "summariesOutsideRange": 364,
+    "genericKeywordGuides": 607,
+    "guidesWithFewerThan2InternalLinks": 4,
+    "orphanGuides": 574,
+    "openSignals": {
+      "duplicate-title": 2,
+      "fewer-than-2-internal-links": 4,
+      "generic-keywords": 607,
+      "generic-step": 421,
+      "orphan": 574,
+      "summary-outside-120-160": 364
+    }
+  },
+  "changes": [
+    {
+      "file": "account-data-export.md",
+      "articleId": "hc-account-data-export",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "account-suspicious-evidence.md",
+      "articleId": "hc-account-suspicious-evidence",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "account-workspaces.md",
+      "articleId": "hc-account-workspaces",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "activity-filter-action.md",
+      "articleId": "hc-activity-filter-action",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "activity-filter-category.md",
+      "articleId": "hc-activity-filter-category",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "activity-filter-member.md",
+      "articleId": "hc-activity-filter-member",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "activity-inspect-event-details.md",
+      "articleId": "hc-activity-inspect-event-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "activity-open-log.md",
+      "articleId": "hc-activity-open-log",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "ai-app-connect.md",
+      "articleId": "hc-ai-app-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "ai-app-disconnect.md",
+      "articleId": "hc-ai-app-disconnect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "ai-app-permissions.md",
+      "articleId": "hc-ai-app-permissions",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "api-complete-upload-session.md",
+      "articleId": "hc-api-complete-upload-session",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-create-folder-verify-parent.md",
+      "articleId": "hc-api-create-folder-verify-parent",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-create-upload-session.md",
+      "articleId": "hc-api-create-upload-session",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-download-file.md",
+      "articleId": "hc-api-download-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "api-errors-pagination.md",
+      "articleId": "hc-api-errors-pagination",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "api-file-not-found-vs-forbidden.md",
+      "articleId": "hc-api-file-not-found-vs-forbidden",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-folder-operations.md",
+      "articleId": "hc-api-folder-operations",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "api-get-file-metadata.md",
+      "articleId": "hc-api-get-file-metadata",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-expiry-rotation.md",
+      "articleId": "hc-api-key-expiry-rotation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-folder-access.md",
+      "articleId": "hc-api-key-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-full-access.md",
+      "articleId": "hc-api-key-full-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-last-used.md",
+      "articleId": "hc-api-key-last-used",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-naming.md",
+      "articleId": "hc-api-key-naming",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-protocols.md",
+      "articleId": "hc-api-key-protocols",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-read-only.md",
+      "articleId": "hc-api-key-read-only",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-scopes.md",
+      "articleId": "hc-api-key-scopes",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-key-upload-only.md",
+      "articleId": "hc-api-key-upload-only",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-list-files-pagination.md",
+      "articleId": "hc-api-list-files-pagination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-list-files.md",
+      "articleId": "hc-api-list-files",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-list-folder-children.md",
+      "articleId": "hc-api-list-folder-children",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-move-file.md",
+      "articleId": "hc-api-move-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-rate-limit-handling.md",
+      "articleId": "hc-api-rate-limit-handling",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-rename-file.md",
+      "articleId": "hc-api-rename-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-resume-upload-session.md",
+      "articleId": "hc-api-resume-upload-session",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-stream-download.md",
+      "articleId": "hc-api-stream-download",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-trash-file.md",
+      "articleId": "hc-api-trash-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-upload-file.md",
+      "articleId": "hc-api-upload-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "api-upload-idempotency.md",
+      "articleId": "hc-api-upload-idempotency",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-upload-size-validation.md",
+      "articleId": "hc-api-upload-size-validation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-usage-analytics.md",
+      "articleId": "hc-api-usage-analytics",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "api-verify-mutation.md",
+      "articleId": "hc-api-verify-mutation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "appearance-theme.md",
+      "articleId": "hc-appearance-theme",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "archive-browse.md",
+      "articleId": "hc-archive-browse",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-download-entry.md",
+      "articleId": "hc-archive-download-entry",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-download-one-entry.md",
+      "articleId": "hc-archive-download-one-entry",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-entry-preview.md",
+      "articleId": "hc-archive-entry-preview",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-inspect-folder-tree.md",
+      "articleId": "hc-archive-inspect-folder-tree",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-preview-supported-entry.md",
+      "articleId": "hc-archive-preview-supported-entry",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-preview-troubleshoot.md",
+      "articleId": "hc-archive-preview-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "archive-preview.md",
+      "articleId": "hc-archive-preview",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-review-nested-paths.md",
+      "articleId": "hc-archive-review-nested-paths",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-save-entry.md",
+      "articleId": "hc-archive-save-entry",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "archive-save-one-entry.md",
+      "articleId": "hc-archive-save-one-entry",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-artwork-metadata.md",
+      "articleId": "hc-audio-artwork-metadata",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-keyboard-controls.md",
+      "articleId": "hc-audio-keyboard-controls",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-lyrics-troubleshoot.md",
+      "articleId": "hc-audio-lyrics-troubleshoot",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-lyrics.md",
+      "articleId": "hc-audio-lyrics",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-metadata.md",
+      "articleId": "hc-audio-metadata",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-queue-wrong-track.md",
+      "articleId": "hc-audio-queue-wrong-track",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-queue.md",
+      "articleId": "hc-audio-queue",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-repeat-shuffle.md",
+      "articleId": "hc-audio-repeat-shuffle",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-troubleshoot-lyrics-timing.md",
+      "articleId": "hc-audio-troubleshoot-lyrics-timing",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-troubleshoot-missing-metadata.md",
+      "articleId": "hc-audio-troubleshoot-missing-metadata",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-troubleshoot-no-playback.md",
+      "articleId": "hc-audio-troubleshoot-no-playback",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-troubleshoot-seek-unavailable.md",
+      "articleId": "hc-audio-troubleshoot-seek-unavailable",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "audio-waveform-seek.md",
+      "articleId": "hc-audio-waveform-seek",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "automation-rotate-api-key.md",
+      "articleId": "hc-automation-rotate-api-key",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "batch-add-group.md",
+      "articleId": "hc-batch-add-group",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "batch-delete-files.md",
+      "articleId": "hc-batch-delete-files",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "batch-move-files.md",
+      "articleId": "hc-batch-move-files",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-apply-coupon.md",
+      "articleId": "hc-billing-apply-coupon",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-distinguish-receipt-invoice.md",
+      "articleId": "hc-billing-distinguish-receipt-invoice",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-download-receipt.md",
+      "articleId": "hc-billing-download-receipt",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-intervals.md",
+      "articleId": "hc-billing-intervals",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-locate-invoice-period.md",
+      "articleId": "hc-billing-locate-invoice-period",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-pending-downgrade.md",
+      "articleId": "hc-billing-pending-downgrade",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-portal.md",
+      "articleId": "hc-billing-portal",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-reconcile-invoice-plan.md",
+      "articleId": "hc-billing-reconcile-invoice-plan",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-review-invoice-identity.md",
+      "articleId": "hc-billing-review-invoice-identity",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-troubleshoot.md",
+      "articleId": "hc-billing-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "billing-update-payment-method.md",
+      "articleId": "hc-billing-update-payment-method",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "browse-folder-tree.md",
+      "articleId": "hc-browse-folder-tree",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "cancel-account-deletion.md",
+      "articleId": "hc-cancel-account-deletion",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "cancel-downgrade.md",
+      "articleId": "hc-plan-cancel-downgrade",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "carplay-browse-library.md",
+      "articleId": "hc-carplay-browse-library",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "carplay-now-playing.md",
+      "articleId": "hc-carplay-now-playing",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "carplay-recents.md",
+      "articleId": "hc-carplay-recents",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "carplay-search.md",
+      "articleId": "hc-carplay-search",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "carplay-voice.md",
+      "articleId": "hc-carplay-voice",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "change-display-name.md",
+      "articleId": "hc-change-display-name",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "choose-app.md",
+      "articleId": "hc-choose-app",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 2
+    },
+    {
+      "file": "choose-plan.md",
+      "articleId": "hc-plan-choose",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "clear-file-filters.md",
+      "articleId": "hc-clear-file-filters",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "clear-file-selection.md",
+      "articleId": "hc-clear-file-selection",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "cli-authenticate.md",
+      "articleId": "hc-cli-auth",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-download-folder.md",
+      "articleId": "hc-cli-download-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-handle-exit-codes.md",
+      "articleId": "hc-cli-handle-exit-codes",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-install.md",
+      "articleId": "hc-cli-install",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "cli-json-output.md",
+      "articleId": "hc-cli-json-output",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-parse-json-output.md",
+      "articleId": "hc-cli-parse-json-output",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-review-config.md",
+      "articleId": "hc-cli-review-config",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-separate-profiles.md",
+      "articleId": "hc-cli-separate-profiles",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-transfer.md",
+      "articleId": "hc-cli-transfer",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "cli-troubleshoot.md",
+      "articleId": "hc-cli-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-update-version.md",
+      "articleId": "hc-cli-update-version",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-upload-directory.md",
+      "articleId": "hc-cli-upload-directory",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-use-secret-without-printing.md",
+      "articleId": "hc-cli-use-secret-without-printing",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-verify-scheduled-job.md",
+      "articleId": "hc-cli-verify-scheduled-job",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cli-workspace.md",
+      "articleId": "hc-cli-workspace",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-browse-provider.md",
+      "articleId": "hc-cloud-import-browse-provider",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-cancel-before-transfer.md",
+      "articleId": "hc-cloud-import-cancel-before-transfer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-cancel.md",
+      "articleId": "hc-cloud-import-cancel",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-choose-provider-account.md",
+      "articleId": "hc-cloud-import-choose-provider-account",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-compare-counts.md",
+      "articleId": "hc-cloud-import-compare-counts",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-confirm-destination.md",
+      "articleId": "hc-cloud-import-confirm-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-connect.md",
+      "articleId": "hc-cloud-import-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 2
+    },
+    {
+      "file": "cloud-import-destination.md",
+      "articleId": "hc-cloud-import-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-disconnect-after-verify.md",
+      "articleId": "hc-cloud-import-disconnect-after-verify",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-disconnect.md",
+      "articleId": "hc-cloud-import-disconnect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-duplicate-names.md",
+      "articleId": "hc-cloud-import-duplicate-names",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-progress.md",
+      "articleId": "hc-cloud-import-progress",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 2
+    },
+    {
+      "file": "cloud-import-reconnect-expired.md",
+      "articleId": "hc-cloud-import-reconnect-expired",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-retry-failed-items.md",
+      "articleId": "hc-cloud-import-retry-failed-items",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-review-duplicates.md",
+      "articleId": "hc-cloud-import-review-duplicates",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-review-picker-selection.md",
+      "articleId": "hc-cloud-import-review-picker-selection",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-test-folder.md",
+      "articleId": "hc-cloud-import-test-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-troubleshoot.md",
+      "articleId": "hc-cloud-import-troubleshoot",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-verify-folders.md",
+      "articleId": "hc-cloud-import-verify-folders",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "cloud-import-verify-hierarchy.md",
+      "articleId": "hc-cloud-import-verify-hierarchy",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-add-file-comment.md",
+      "articleId": "hc-comments-add-file-comment",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-correct-own-comment.md",
+      "articleId": "hc-comments-correct-own-comment",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-delete-accidental-comment.md",
+      "articleId": "hc-comments-delete-accidental-comment",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-delete-own-comment.md",
+      "articleId": "hc-comments-delete-own-comment",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-edit-own-comment.md",
+      "articleId": "hc-comments-edit-own-comment",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-open-file-thread.md",
+      "articleId": "hc-comments-open-file-thread",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-preserve-context-before-version.md",
+      "articleId": "hc-comments-preserve-context-before-version",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-reply-correct-thread.md",
+      "articleId": "hc-comments-reply-correct-thread",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-reply-to-thread.md",
+      "articleId": "hc-comments-reply-to-thread",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "comments-start-clear-review-thread.md",
+      "articleId": "hc-comments-start-clear-review-thread",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "contact-support.md",
+      "articleId": "hc-contact-support",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "contacts-backup.md",
+      "articleId": "hc-contacts-backup",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "contacts-permission-troubleshoot.md",
+      "articleId": "hc-contacts-permission-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "contacts-restore.md",
+      "articleId": "hc-contacts-restore",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "contacts-vcard-export.md",
+      "articleId": "hc-contacts-vcard-export",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "copy-file.md",
+      "articleId": "hc-copy-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "copy-name-conflict.md",
+      "articleId": "hc-copy-name-conflict",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "create-folder.md",
+      "articleId": "hc-create-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "create-link.md",
+      "articleId": "hc-create-link",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "create-workspace-region.md",
+      "articleId": "hc-create-workspace-region",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-archive-viewer.md",
+      "articleId": "hc-desktop-archive-viewer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-audio-lyrics.md",
+      "articleId": "hc-desktop-audio-lyrics",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-audio-queue.md",
+      "articleId": "hc-desktop-audio-queue",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-audio-waveform.md",
+      "articleId": "hc-desktop-audio-waveform",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-check-updates.md",
+      "articleId": "hc-desktop-check-updates",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-choose-update-path.md",
+      "articleId": "hc-desktop-choose-update-path",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-collect-system-context.md",
+      "articleId": "hc-desktop-collect-system-context",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-deep-link-troubleshoot.md",
+      "articleId": "hc-desktop-deep-link-troubleshoot",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-deletion-guard.md",
+      "articleId": "hc-desktop-deletion-guard",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-duplicates-cleanup.md",
+      "articleId": "hc-desktop-duplicates-cleanup",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-duplicates-review.md",
+      "articleId": "hc-desktop-duplicates-review",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-file-details.md",
+      "articleId": "hc-desktop-file-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-find-in-text.md",
+      "articleId": "hc-desktop-find-in-text",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-find-installed-version.md",
+      "articleId": "hc-desktop-find-installed-version",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-first-sync.md",
+      "articleId": "hc-desktop-first-sync",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-inspect-issue-details.md",
+      "articleId": "hc-desktop-inspect-issue-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-install.md",
+      "articleId": "hc-desktop-install",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-launch-login.md",
+      "articleId": "hc-desktop-launch-login",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-map-clusters.md",
+      "articleId": "hc-desktop-map-clusters",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 5
+    },
+    {
+      "file": "desktop-map-filters.md",
+      "articleId": "hc-desktop-map-filters",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 5
+    },
+    {
+      "file": "desktop-notifications-inbox.md",
+      "articleId": "hc-desktop-notifications-inbox",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-office-preview.md",
+      "articleId": "hc-desktop-office-preview",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-one-off-upload.md",
+      "articleId": "hc-desktop-one-off-upload",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-open-from-tray.md",
+      "articleId": "hc-desktop-open-from-tray",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-photo-map.md",
+      "articleId": "hc-desktop-photo-map",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-prepare-safe-problem-report.md",
+      "articleId": "hc-desktop-prepare-safe-problem-report",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-problem-report.md",
+      "articleId": "hc-desktop-problem-report",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-read-activity-row.md",
+      "articleId": "hc-desktop-read-activity-row",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-restart-safely.md",
+      "articleId": "hc-desktop-restart-safely",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-review-launch-at-login.md",
+      "articleId": "hc-desktop-review-launch-at-login",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-search-shortcut.md",
+      "articleId": "hc-desktop-search-shortcut",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-store-updates.md",
+      "articleId": "hc-desktop-store-updates",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-switch-workspaces.md",
+      "articleId": "hc-desktop-switch-workspaces",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-sync-check-storage.md",
+      "articleId": "hc-desktop-sync-check-storage",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-conflict-loop.md",
+      "articleId": "hc-desktop-sync-conflict-loop",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-control.md",
+      "articleId": "hc-desktop-sync-control",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-sync-exclude-temporary.md",
+      "articleId": "hc-desktop-sync-exclude-temporary",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-exclusions.md",
+      "articleId": "hc-desktop-sync-exclusions",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-sync-existing-folder.md",
+      "articleId": "hc-desktop-sync-existing-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-invalid-name.md",
+      "articleId": "hc-desktop-sync-invalid-name",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-issues.md",
+      "articleId": "hc-desktop-sync-issues",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-sync-local-disk-space.md",
+      "articleId": "hc-desktop-sync-local-disk-space",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-local-permission.md",
+      "articleId": "hc-desktop-sync-local-permission",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-modes.md",
+      "articleId": "hc-desktop-sync-modes",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "desktop-sync-offline.md",
+      "articleId": "hc-desktop-sync-offline",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-sync-plan-mode.md",
+      "articleId": "hc-desktop-sync-plan-mode",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-reconnect.md",
+      "articleId": "hc-desktop-sync-reconnect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-sync-review-first-plan.md",
+      "articleId": "hc-desktop-sync-review-first-plan",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-sync-workspace-quota.md",
+      "articleId": "hc-desktop-sync-workspace-quota",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-system-tray.md",
+      "articleId": "hc-desktop-system-tray",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-transfer-concurrency.md",
+      "articleId": "hc-desktop-transfer-concurrency",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "desktop-uninstall-preserve-cloud-files.md",
+      "articleId": "hc-desktop-uninstall-preserve-cloud-files",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-unsupported-media.md",
+      "articleId": "hc-desktop-unsupported-media",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-vault-members.md",
+      "articleId": "hc-desktop-vault-members",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-vault-save-local.md",
+      "articleId": "hc-desktop-vault-save-local",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-vault-spaces.md",
+      "articleId": "hc-desktop-vault-spaces",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-vault-unlock.md",
+      "articleId": "hc-desktop-vault-unlock",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-vault-upload.md",
+      "articleId": "hc-desktop-vault-upload",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-vcard-preview.md",
+      "articleId": "hc-desktop-vcard-preview",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "desktop-verify-recovery-restart.md",
+      "articleId": "hc-desktop-verify-recovery-restart",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "desktop-video-playback.md",
+      "articleId": "hc-desktop-video-playback",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "download-archive-preparation.md",
+      "articleId": "hc-download-archive-preparation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "download-choose-method.md",
+      "articleId": "hc-download-choose-method",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "download-files.md",
+      "articleId": "hc-download-files",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "download-folder-archive.md",
+      "articleId": "hc-download-folder-archive",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "download-retry-prepared-archive.md",
+      "articleId": "hc-download-retry-prepared-archive",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "download-selection-archive.md",
+      "articleId": "hc-download-selection-archive",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "download-verify-file.md",
+      "articleId": "hc-download-verify-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "duplicates-delete-selected.md",
+      "articleId": "hc-duplicates-delete-selected",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "duplicates-review-group.md",
+      "articleId": "hc-duplicates-review-group",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "duplicates-run-scan.md",
+      "articleId": "hc-duplicates-run-scan",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "duplicates-select-all-but-newest.md",
+      "articleId": "hc-duplicates-select-all-but-newest",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "duplicates-troubleshoot-scan.md",
+      "articleId": "hc-duplicates-troubleshoot-scan",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "edit-text.md",
+      "articleId": "hc-edit-text",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "email-notifications.md",
+      "articleId": "hc-email-notifications",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "extension-capture-visible-page.md",
+      "articleId": "hc-extension-capture-visible-page",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-confirm-workspace.md",
+      "articleId": "hc-extension-confirm-workspace",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-destination-missing.md",
+      "articleId": "hc-extension-destination-missing",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-edit-save-name.md",
+      "articleId": "hc-extension-edit-save-name",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-page-permission-denied.md",
+      "articleId": "hc-extension-page-permission-denied",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-permissions.md",
+      "articleId": "hc-extension-permissions",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "extension-popup-not-opening.md",
+      "articleId": "hc-extension-popup-not-opening",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-reconnect.md",
+      "articleId": "hc-extension-reconnect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "extension-save-confirmation-missing.md",
+      "articleId": "hc-extension-save-confirmation-missing",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-save-folder.md",
+      "articleId": "hc-extension-save-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "extension-save-page-image.md",
+      "articleId": "hc-extension-save-page-image",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-save-screenshot.md",
+      "articleId": "hc-extension-save-screenshot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "extension-save-selection.md",
+      "articleId": "hc-extension-save-selection",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "extension-session-expired.md",
+      "articleId": "hc-extension-session-expired",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "extension-verify-saved-item.md",
+      "articleId": "hc-extension-verify-saved-item",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "favourite-file.md",
+      "articleId": "hc-favourite-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "favourite-folder.md",
+      "articleId": "hc-favourite-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "file-breadcrumbs.md",
+      "articleId": "hc-file-breadcrumbs",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "file-choose-move-or-copy.md",
+      "articleId": "hc-file-choose-move-or-copy",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-copy-verify-result.md",
+      "articleId": "hc-file-copy-verify-result",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-details.md",
+      "articleId": "hc-file-details",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-list-grid.md",
+      "articleId": "hc-file-list-grid",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "file-map.md",
+      "articleId": "hc-file-map",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-move-back.md",
+      "articleId": "hc-file-move-back",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-move-confirm-destination.md",
+      "articleId": "hc-file-move-confirm-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-move-restricted-destination.md",
+      "articleId": "hc-file-move-restricted-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "file-origin-details.md",
+      "articleId": "hc-file-origin-details",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "folder-choose-lock-or-restriction.md",
+      "articleId": "hc-folder-choose-lock-or-restriction",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "folder-download-troubleshoot.md",
+      "articleId": "hc-folder-download-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "folder-link.md",
+      "articleId": "hc-folder-link",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "folder-move-protected-file.md",
+      "articleId": "hc-folder-move-protected-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "folder-name-conflict.md",
+      "articleId": "hc-folder-name-conflict",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "folder-remove-protection-retest.md",
+      "articleId": "hc-folder-remove-protection-retest",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "folder-restriction-inheritance.md",
+      "articleId": "hc-folder-restriction-inheritance",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "folder-set-password-safely.md",
+      "articleId": "hc-folder-set-password-safely",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "folder-test-inherited-restriction.md",
+      "articleId": "hc-folder-test-inherited-restriction",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "hide-folder.md",
+      "articleId": "hc-hide-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "identity-methods.md",
+      "articleId": "hc-identity-methods",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "import-dropbox.md",
+      "articleId": "hc-import-dropbox",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "import-google-drive.md",
+      "articleId": "hc-import-google-drive",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "import-onedrive.md",
+      "articleId": "hc-import-onedrive",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "invoices-payment.md",
+      "articleId": "hc-billing-invoices",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "large-folder-download.md",
+      "articleId": "hc-large-folder-download",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "lightroom-archive-originals.md",
+      "articleId": "hc-lightroom-archive-originals",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-archive-xmp-sidecars.md",
+      "articleId": "hc-lightroom-archive-xmp-sidecars",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-catalog-busy.md",
+      "articleId": "hc-lightroom-catalog-busy",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-choose-workspace.md",
+      "articleId": "hc-lightroom-choose-workspace",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-client-selection-collections.md",
+      "articleId": "hc-lightroom-client-selection-collections",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-collect-client-favourites.md",
+      "articleId": "hc-lightroom-collect-client-favourites",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-configure-publish-service.md",
+      "articleId": "hc-lightroom-configure-publish-service",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-connect-catalog.md",
+      "articleId": "hc-lightroom-connect-catalog",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-connection-browser-not-open.md",
+      "articleId": "hc-lightroom-connection-browser-not-open",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-connection-code-expired.md",
+      "articleId": "hc-lightroom-connection-code-expired",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-copy-gallery-link.md",
+      "articleId": "hc-lightroom-copy-gallery-link",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-create-published-collection.md",
+      "articleId": "hc-lightroom-create-published-collection",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-delete-published-collection.md",
+      "articleId": "hc-lightroom-delete-published-collection",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-edit-gallery-options.md",
+      "articleId": "hc-lightroom-edit-gallery-options",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-enable-client-favourites.md",
+      "articleId": "hc-lightroom-enable-client-favourites",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-export-create-gallery.md",
+      "articleId": "hc-lightroom-export-create-gallery",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-export-to-dosya.md",
+      "articleId": "hc-lightroom-export-to-dosya",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-gallery-collection-sets.md",
+      "articleId": "hc-lightroom-gallery-collection-sets",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-gallery-downloads.md",
+      "articleId": "hc-lightroom-gallery-downloads",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-gallery-expiry.md",
+      "articleId": "hc-lightroom-gallery-expiry",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-gallery-missing-online.md",
+      "articleId": "hc-lightroom-gallery-missing-online",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-gallery-password.md",
+      "articleId": "hc-lightroom-gallery-password",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-open-gallery-command.md",
+      "articleId": "hc-lightroom-open-gallery-command",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-plugin-install.md",
+      "articleId": "hc-lightroom-plugin-install",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-publish-gallery.md",
+      "articleId": "hc-lightroom-publish-gallery",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-publish-network-failure.md",
+      "articleId": "hc-lightroom-publish-network-failure",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-remove-gallery-photo.md",
+      "articleId": "hc-lightroom-remove-gallery-photo",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-republish-edits.md",
+      "articleId": "hc-lightroom-republish-edits",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-resume-archive-upload.md",
+      "articleId": "hc-lightroom-resume-archive-upload",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-review-connections.md",
+      "articleId": "hc-lightroom-review-connections",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-review-gallery-status.md",
+      "articleId": "hc-lightroom-review-gallery-status",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-revoke-connection.md",
+      "articleId": "hc-lightroom-revoke-connection",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "lightroom-selected-by-field.md",
+      "articleId": "hc-lightroom-selected-by-field",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-set-gallery-cover.md",
+      "articleId": "hc-lightroom-set-gallery-cover",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lightroom-sync-client-selections.md",
+      "articleId": "hc-lightroom-sync-client-selections",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "live-photos.md",
+      "articleId": "hc-live-photos",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "lock-folder.md",
+      "articleId": "hc-lock-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "manage-license-storage.md",
+      "articleId": "hc-license-manage",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "map-expand-clusters.md",
+      "articleId": "hc-map-expand-clusters",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "map-filter-files.md",
+      "articleId": "hc-map-filter-files",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "map-missing-photo.md",
+      "articleId": "hc-map-missing-photo",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "map-open-marker-file.md",
+      "articleId": "hc-map-open-marker-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "map-open-photos.md",
+      "articleId": "hc-map-open-photos",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mcp-choose-client-config.md",
+      "articleId": "hc-mcp-choose-client-config",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mcp-connect-restricted-credential.md",
+      "articleId": "hc-mcp-connect-restricted-credential",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mcp-connect.md",
+      "articleId": "hc-mcp-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "mcp-disconnect-rotate-credential.md",
+      "articleId": "hc-mcp-disconnect-rotate-credential",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mcp-list-tools-resources.md",
+      "articleId": "hc-mcp-list-tools-resources",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mcp-test-read-only-operation.md",
+      "articleId": "hc-mcp-test-read-only-operation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mcp-troubleshoot.md",
+      "articleId": "hc-mcp-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "media-check-image-dimensions.md",
+      "articleId": "hc-media-check-image-dimensions",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "media-compare-preview-details.md",
+      "articleId": "hc-media-compare-preview-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "media-inspect-audio-tags.md",
+      "articleId": "hc-media-inspect-audio-tags",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "media-preview.md",
+      "articleId": "hc-media-preview",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "media-troubleshoot-missing-artwork.md",
+      "articleId": "hc-media-troubleshoot-missing-artwork",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "media-verify-video-duration.md",
+      "articleId": "hc-media-verify-video-duration",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-activity-filter.md",
+      "articleId": "hc-mobile-activity-filter",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-activity-open.md",
+      "articleId": "hc-mobile-activity-open",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-archive-browse.md",
+      "articleId": "hc-mobile-archive-browse",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-archive-save-entry.md",
+      "articleId": "hc-mobile-archive-save-entry",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-audio-playback.md",
+      "articleId": "hc-mobile-audio-playback",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-background.md",
+      "articleId": "hc-mobile-background",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-albums.md",
+      "articleId": "hc-mobile-backup-albums",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-attention.md",
+      "articleId": "hc-mobile-backup-attention",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-battery-restrictions.md",
+      "articleId": "hc-mobile-backup-battery-restrictions",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-charging.md",
+      "articleId": "hc-mobile-backup-charging",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "mobile-backup-device-storage-low.md",
+      "articleId": "hc-mobile-backup-device-storage-low",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 1,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-history.md",
+      "articleId": "hc-mobile-backup-history",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-limited-photo-access.md",
+      "articleId": "hc-mobile-backup-limited-photo-access",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 1,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-live-media.md",
+      "articleId": "hc-mobile-backup-live-media",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "mobile-backup-network.md",
+      "articleId": "hc-mobile-backup-network",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-progress.md",
+      "articleId": "hc-mobile-backup-progress",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 1,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-retry-failed.md",
+      "articleId": "hc-mobile-backup-retry-failed",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-retry-large-video.md",
+      "articleId": "hc-mobile-backup-retry-large-video",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-settings.md",
+      "articleId": "hc-mobile-backup-settings",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-setup.md",
+      "articleId": "hc-mobile-backup-setup",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-status-ring.md",
+      "articleId": "hc-mobile-backup-status-ring",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-widget-android.md",
+      "articleId": "hc-mobile-backup-widget-android",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-backup-widget-ios.md",
+      "articleId": "hc-mobile-backup-widget-ios",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-biometric-lock.md",
+      "articleId": "hc-mobile-biometric-lock",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-browse.md",
+      "articleId": "hc-mobile-browse",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-change-phone.md",
+      "articleId": "hc-mobile-change-phone",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-choose-correct-account.md",
+      "articleId": "hc-mobile-choose-correct-account",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-contacts-account-scope.md",
+      "articleId": "hc-mobile-contacts-account-scope",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-contacts-export-vcard.md",
+      "articleId": "hc-mobile-contacts-export-vcard",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-contacts-restore-account.md",
+      "articleId": "hc-mobile-contacts-restore-account",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-contacts-restore-duplicates.md",
+      "articleId": "hc-mobile-contacts-restore-duplicates",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-contacts-review-before-backup.md",
+      "articleId": "hc-mobile-contacts-review-before-backup",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-download-file.md",
+      "articleId": "hc-mobile-download-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-duplicates-review.md",
+      "articleId": "hc-mobile-duplicates-review",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-enable-notifications-deliberately.md",
+      "articleId": "hc-mobile-enable-notifications-deliberately",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-file-confirm-workspace.md",
+      "articleId": "hc-mobile-file-confirm-workspace",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-file-details.md",
+      "articleId": "hc-mobile-file-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-file-open-in-app.md",
+      "articleId": "hc-mobile-file-open-in-app",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-file-remove-local-copy.md",
+      "articleId": "hc-mobile-file-remove-local-copy",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-file-save-destination.md",
+      "articleId": "hc-mobile-file-save-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-file-share-access.md",
+      "articleId": "hc-mobile-file-share-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-grant-photo-access.md",
+      "articleId": "hc-mobile-grant-photo-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-image-zoom-pan.md",
+      "articleId": "hc-mobile-image-zoom-pan",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-install-verified-app.md",
+      "articleId": "hc-mobile-install-verified-app",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-install.md",
+      "articleId": "hc-mobile-install",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "mobile-live-photo-view.md",
+      "articleId": "hc-mobile-live-photo-view",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-move-file.md",
+      "articleId": "hc-mobile-move-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-navigate-nested-folder.md",
+      "articleId": "hc-mobile-navigate-nested-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-notification-action.md",
+      "articleId": "hc-mobile-notification-action",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-notifications-inbox.md",
+      "articleId": "hc-mobile-notifications-inbox",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-oauth-signin.md",
+      "articleId": "hc-mobile-oauth-signin",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "mobile-open-same-name-result.md",
+      "articleId": "hc-mobile-open-same-name-result",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-pdf-viewer.md",
+      "articleId": "hc-mobile-pdf-viewer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-permissions.md",
+      "articleId": "hc-mobile-permissions",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-photo-map.md",
+      "articleId": "hc-mobile-photo-map",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-preview-code-markdown.md",
+      "articleId": "hc-mobile-preview-code-markdown",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-preview-csv.md",
+      "articleId": "hc-mobile-preview-csv",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-preview-ebook.md",
+      "articleId": "hc-mobile-preview-ebook",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-preview-office.md",
+      "articleId": "hc-mobile-preview-office",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-preview-vcard.md",
+      "articleId": "hc-mobile-preview-vcard",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-push-troubleshoot.md",
+      "articleId": "hc-mobile-push-troubleshoot",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "mobile-recheck-permissions-after-update.md",
+      "articleId": "hc-mobile-recheck-permissions-after-update",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-rename-file.md",
+      "articleId": "hc-mobile-rename-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-return-preview-folder.md",
+      "articleId": "hc-mobile-return-preview-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-save-device.md",
+      "articleId": "hc-mobile-save-device",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-search-correct-scope.md",
+      "articleId": "hc-mobile-search-correct-scope",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-share.md",
+      "articleId": "hc-mobile-share",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-signin.md",
+      "articleId": "hc-mobile-signin",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-signout.md",
+      "articleId": "hc-mobile-signout",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-switch-account.md",
+      "articleId": "hc-mobile-switch-account",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-switch-workspace-before-browse.md",
+      "articleId": "hc-mobile-switch-workspace-before-browse",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-two-factor-signin.md",
+      "articleId": "hc-mobile-two-factor-signin",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-vault-browse-space.md",
+      "articleId": "hc-mobile-vault-browse-space",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-vault-open-file.md",
+      "articleId": "hc-mobile-vault-open-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-vault-save-device.md",
+      "articleId": "hc-mobile-vault-save-device",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-vault-transfer-progress.md",
+      "articleId": "hc-mobile-vault-transfer-progress",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-vault-unlock.md",
+      "articleId": "hc-mobile-vault-unlock",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "mobile-video-playback.md",
+      "articleId": "hc-mobile-video-playback",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "move-folder.md",
+      "articleId": "hc-move-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-connect.md",
+      "articleId": "hc-n8n-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "n8n-create-credential.md",
+      "articleId": "hc-n8n-create-credential",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-create-share-link-node.md",
+      "articleId": "hc-n8n-create-share-link-node",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-create-share-link.md",
+      "articleId": "hc-n8n-create-share-link",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-handle-dosya-node-error.md",
+      "articleId": "hc-n8n-handle-dosya-node-error",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-list-files-node.md",
+      "articleId": "hc-n8n-list-files-node",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-test-dosya-credential.md",
+      "articleId": "hc-n8n-test-dosya-credential",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-upload-file-node.md",
+      "articleId": "hc-n8n-upload-file-node",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "n8n-workflow.md",
+      "articleId": "hc-n8n-workflow",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "navigate-web-app.md",
+      "articleId": "hc-navigate-web-app",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "notification-preferences.md",
+      "articleId": "hc-notification-preferences",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "notification-troubleshoot.md",
+      "articleId": "hc-notification-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "notifications-always-on.md",
+      "articleId": "hc-notifications-always-on",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-delivery-channels.md",
+      "articleId": "hc-notifications-delivery-channels",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-empty-inbox.md",
+      "articleId": "hc-notifications-empty-inbox",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-enable-browser-push.md",
+      "articleId": "hc-notifications-enable-browser-push",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-event-groups.md",
+      "articleId": "hc-notifications-event-groups",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-fix-reverting-preferences.md",
+      "articleId": "hc-notifications-fix-reverting-preferences",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-load-older.md",
+      "articleId": "hc-notifications-load-older",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-narrow-event-groups.md",
+      "articleId": "hc-notifications-narrow-event-groups",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-open-correct-workspace.md",
+      "articleId": "hc-notifications-open-correct-workspace",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-open-inbox.md",
+      "articleId": "hc-notifications-open-inbox",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-open-resource.md",
+      "articleId": "hc-notifications-open-resource",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-preference-save-error.md",
+      "articleId": "hc-notifications-preference-save-error",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-recover-browser-permission.md",
+      "articleId": "hc-notifications-recover-browser-permission",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-review-by-day.md",
+      "articleId": "hc-notifications-review-by-day",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "notifications-verify-email-delivery.md",
+      "articleId": "hc-notifications-verify-email-delivery",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "organize-files.md",
+      "articleId": "hc-organize-files",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "pdf-preview.md",
+      "articleId": "hc-pdf-preview",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "plan-estimate-storage-upgrade.md",
+      "articleId": "hc-plan-estimate-storage-upgrade",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "plan-prepare-over-quota.md",
+      "articleId": "hc-plan-prepare-over-quota",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "plan-review-pending-downgrade.md",
+      "articleId": "hc-plan-review-pending-downgrade",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "plan-review-upgrade-checkout.md",
+      "articleId": "hc-plan-review-upgrade-checkout",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "plan-verify-storage-upgrade.md",
+      "articleId": "hc-plan-verify-storage-upgrade",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-csv-table.md",
+      "articleId": "hc-preview-csv-table",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-ebook.md",
+      "articleId": "hc-preview-ebook",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-image-load-failure.md",
+      "articleId": "hc-preview-image-load-failure",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-office-document.md",
+      "articleId": "hc-preview-office-document",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-office-processing.md",
+      "articleId": "hc-preview-office-processing",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-pdf-load-failure.md",
+      "articleId": "hc-preview-pdf-load-failure",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-refresh-new-version.md",
+      "articleId": "hc-preview-refresh-new-version",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-unsupported-download.md",
+      "articleId": "hc-preview-unsupported-download",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "preview-vcard-contact.md",
+      "articleId": "hc-preview-vcard-contact",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "profile-settings.md",
+      "articleId": "hc-profile-settings",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 2,
+      "proseChanges": 1
+    },
+    {
+      "file": "rclone-check-transfer.md",
+      "articleId": "hc-rclone-check-transfer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-copy-vs-sync.md",
+      "articleId": "hc-rclone-copy-vs-sync",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-copy.md",
+      "articleId": "hc-rclone-copy",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 3
+    },
+    {
+      "file": "rclone-create-dedicated-remote.md",
+      "articleId": "hc-rclone-create-dedicated-remote",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-download.md",
+      "articleId": "hc-rclone-download",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-limit-transfer-concurrency.md",
+      "articleId": "hc-rclone-limit-transfer-concurrency",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-retry-timeout.md",
+      "articleId": "hc-rclone-retry-timeout",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-schedule-copy-job.md",
+      "articleId": "hc-rclone-schedule-copy-job",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-sync-dry-run.md",
+      "articleId": "hc-rclone-sync-dry-run",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-transfer-filters.md",
+      "articleId": "hc-rclone-transfer-filters",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-verify-exit-status.md",
+      "articleId": "hc-rclone-verify-exit-status",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rclone-write-safe-job-logs.md",
+      "articleId": "hc-rclone-write-safe-job-logs",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "redeem-license.md",
+      "articleId": "hc-license-redeem",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "referral-storage.md",
+      "articleId": "hc-referrals-earn",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "referral-troubleshoot.md",
+      "articleId": "hc-referrals-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "remote-download-address-not-allowed.md",
+      "articleId": "hc-remote-download-address-not-allowed",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-cancel.md",
+      "articleId": "hc-remote-download-cancel",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-destination.md",
+      "articleId": "hc-remote-download-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-direct-url.md",
+      "articleId": "hc-remote-download-direct-url",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-errors.md",
+      "articleId": "hc-remote-download-errors",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-monitor.md",
+      "articleId": "hc-remote-download-monitor",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-quota-locked.md",
+      "articleId": "hc-remote-download-quota-locked",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-source-changed.md",
+      "articleId": "hc-remote-download-source-changed",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-start.md",
+      "articleId": "hc-remote-download-start",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remote-download-unknown-size.md",
+      "articleId": "hc-remote-download-unknown-size",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "remove-favourite.md",
+      "articleId": "hc-remove-favourite",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "remove-from-group.md",
+      "articleId": "hc-remove-from-group",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "rename-folder.md",
+      "articleId": "hc-rename-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "rename-group.md",
+      "articleId": "hc-rename-group",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-change-destination.md",
+      "articleId": "hc-request-change-destination",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-destination-folder.md",
+      "articleId": "hc-request-destination-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-edit-instructions.md",
+      "articleId": "hc-request-edit-instructions",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-failed-submission.md",
+      "articleId": "hc-request-failed-submission",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-limits.md",
+      "articleId": "hc-request-limits",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "request-password.md",
+      "articleId": "hc-request-password",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "request-recipients.md",
+      "articleId": "hc-request-recipients",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "request-remove-recipient.md",
+      "articleId": "hc-request-remove-recipient",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-remove-uploader.md",
+      "articleId": "hc-request-remove-uploader",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-resend-invitation.md",
+      "articleId": "hc-request-resend-invitation",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-resend-invite.md",
+      "articleId": "hc-request-resend-invite",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-review-uploads.md",
+      "articleId": "hc-request-review-uploads",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-upload.md",
+      "articleId": "hc-request-upload",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "request-uploader-check-limits.md",
+      "articleId": "hc-request-uploader-check-limits",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-uploader-replace-rejected.md",
+      "articleId": "hc-request-uploader-replace-rejected",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-uploader-save-receipt.md",
+      "articleId": "hc-request-uploader-save-receipt",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "request-uploader-stage-files.md",
+      "articleId": "hc-request-uploader-stage-files",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rest-api-quickstart.md",
+      "articleId": "hc-rest-api-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "restore-folder-tree.md",
+      "articleId": "hc-restore-folder-tree",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "review-deleted-items.md",
+      "articleId": "hc-review-deleted-items",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "revoke-api-key.md",
+      "articleId": "hc-api-key-revoke",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "revoke-other-sessions.md",
+      "articleId": "hc-revoke-other-sessions",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "rotate-protocol-key.md",
+      "articleId": "hc-rotate-protocol-key",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "s3-aws-cli-connect.md",
+      "articleId": "hc-s3-aws-cli-connect",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-connect.md",
+      "articleId": "hc-s3-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "s3-correct-endpoint-region.md",
+      "articleId": "hc-s3-correct-endpoint-region",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-download-object.md",
+      "articleId": "hc-s3-download-object",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-endpoint-region.md",
+      "articleId": "hc-s3-endpoint-region",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "s3-fix-signature-time-error.md",
+      "articleId": "hc-s3-fix-signature-time-error",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-list-prefixes.md",
+      "articleId": "hc-s3-list-prefixes",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-path-style-troubleshoot.md",
+      "articleId": "hc-s3-path-style-troubleshoot",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-permissions.md",
+      "articleId": "hc-s3-permissions",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "s3-resolve-prefix-denied.md",
+      "articleId": "hc-s3-resolve-prefix-denied",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-rotate-access-key-safely.md",
+      "articleId": "hc-s3-rotate-access-key-safely",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-troubleshoot.md",
+      "articleId": "hc-s3-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "s3-upload-object.md",
+      "articleId": "hc-s3-upload-object",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "s3-verify-large-transfer.md",
+      "articleId": "hc-s3-verify-large-transfer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "search-clear-stale-filters.md",
+      "articleId": "hc-search-clear-stale-filters",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "search-current-folder.md",
+      "articleId": "hc-search-current-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "search-distinguish-same-name.md",
+      "articleId": "hc-search-distinguish-same-name",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "search-exact-file-name.md",
+      "articleId": "hc-search-exact-file-name",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "search-file-type.md",
+      "articleId": "hc-search-file-type",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "search-files.md",
+      "articleId": "hc-search-files",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "search-folder-and-type.md",
+      "articleId": "hc-search-folder-and-type",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "search-partial-file-name.md",
+      "articleId": "hc-search-partial-file-name",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "security-notifications.md",
+      "articleId": "hc-security-notifications",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "select-multiple-files.md",
+      "articleId": "hc-select-multiple-files",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "selection-clear-after-action.md",
+      "articleId": "hc-selection-clear-after-action",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "selection-contiguous-file-group.md",
+      "articleId": "hc-selection-contiguous-file-group",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "selection-nonadjacent-files.md",
+      "articleId": "hc-selection-nonadjacent-files",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "selection-preflight-batch-move.md",
+      "articleId": "hc-selection-preflight-batch-move",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "selection-verify-count.md",
+      "articleId": "hc-selection-verify-count",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-compare-last-active.md",
+      "articleId": "hc-sessions-compare-last-active",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-identify-current-session.md",
+      "articleId": "hc-sessions-identify-current-session",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-location-context.md",
+      "articleId": "hc-sessions-location-context",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-lost-device-response.md",
+      "articleId": "hc-sessions-lost-device-response",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-recognize-device.md",
+      "articleId": "hc-sessions-recognize-device",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-revoke-all-others.md",
+      "articleId": "hc-sessions-revoke-all-others",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-revoke-one.md",
+      "articleId": "hc-sessions-revoke-one",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-secure-after-unknown.md",
+      "articleId": "hc-sessions-secure-after-unknown",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions-verify-revoked-device.md",
+      "articleId": "hc-sessions-verify-revoked-device",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sessions.md",
+      "articleId": "hc-sessions",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 2
+    },
+    {
+      "file": "sftp-connect.md",
+      "articleId": "hc-sftp-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "sftp-disconnect-safely.md",
+      "articleId": "hc-sftp-disconnect-safely",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-download-file.md",
+      "articleId": "hc-sftp-download-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-filezilla-connect.md",
+      "articleId": "hc-sftp-filezilla-connect",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-fix-restricted-folder.md",
+      "articleId": "hc-sftp-fix-restricted-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-host-key-warning.md",
+      "articleId": "hc-sftp-host-key-warning",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-resolve-authentication-failure.md",
+      "articleId": "hc-sftp-resolve-authentication-failure",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-restricted-key.md",
+      "articleId": "hc-sftp-restricted-key",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "sftp-resume-transfer.md",
+      "articleId": "hc-sftp-resume-transfer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-retry-interrupted-transfer.md",
+      "articleId": "hc-sftp-retry-interrupted-transfer",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-troubleshoot.md",
+      "articleId": "hc-sftp-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "sftp-upload-file.md",
+      "articleId": "hc-sftp-upload-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "sftp-verify-host-key-change.md",
+      "articleId": "hc-sftp-verify-host-key-change",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "share-access-event.md",
+      "articleId": "hc-share-access-event",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-analytics-export.md",
+      "articleId": "hc-share-analytics-export",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-analytics.md",
+      "articleId": "hc-share-analytics",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-branding.md",
+      "articleId": "hc-share-branding",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-change-expiry.md",
+      "articleId": "hc-share-change-expiry",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-close-after-review.md",
+      "articleId": "hc-share-close-after-review",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-confirm-first-access.md",
+      "articleId": "hc-share-confirm-first-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-deliver-file-bundle.md",
+      "articleId": "hc-share-deliver-file-bundle",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-delivery-audit.md",
+      "articleId": "hc-share-delivery-audit",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-email-message.md",
+      "articleId": "hc-share-email-message",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-export-analytics-details.md",
+      "articleId": "hc-share-export-analytics-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-file-bundle.md",
+      "articleId": "hc-share-file-bundle",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-investigate-unexpected-activity.md",
+      "articleId": "hc-share-investigate-unexpected-activity",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-match-recipient-activity.md",
+      "articleId": "hc-share-match-recipient-activity",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-preflight-private-window.md",
+      "articleId": "hc-share-preflight-private-window",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-preview-branding.md",
+      "articleId": "hc-share-preview-branding",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-read-visitors.md",
+      "articleId": "hc-share-read-visitors",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-recipient-download-file.md",
+      "articleId": "hc-share-recipient-download-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-recipient-email-verification.md",
+      "articleId": "hc-share-recipient-email-verification",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-recipient-open-link.md",
+      "articleId": "hc-share-recipient-open-link",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-recipient-password.md",
+      "articleId": "hc-share-recipient-password",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-recipient-report-problem.md",
+      "articleId": "hc-share-recipient-report-problem",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-recipient-verification.md",
+      "articleId": "hc-share-recipient-verification",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-require-named-recipients.md",
+      "articleId": "hc-share-require-named-recipients",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-review-download-events.md",
+      "articleId": "hc-share-review-download-events",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-revoke-after-delivery.md",
+      "articleId": "hc-share-revoke-after-delivery",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "share-send-updated-settings.md",
+      "articleId": "hc-share-send-updated-settings",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "signin-complete-email-verification.md",
+      "articleId": "hc-signin-complete-email-verification",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "signin-resolve-oauth-password-mismatch.md",
+      "articleId": "hc-signin-resolve-oauth-password-mismatch",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "sort-files.md",
+      "articleId": "hc-sort-files",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "support-privacy.md",
+      "articleId": "hc-support-privacy",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "suspicious-activity.md",
+      "articleId": "hc-suspicious-activity",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "text-editor-find-in-file.md",
+      "articleId": "hc-text-editor-find-in-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "text-editor-open-file.md",
+      "articleId": "hc-text-editor-open-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "text-editor-save-changes.md",
+      "articleId": "hc-text-editor-save-changes",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "text-editor-unavailable.md",
+      "articleId": "hc-text-editor-unavailable",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "text-editor-version-conflict.md",
+      "articleId": "hc-text-editor-version-conflict",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-delete-selected-permanently.md",
+      "articleId": "hc-trash-delete-selected-permanently",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-file.md",
+      "articleId": "hc-trash-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-folder.md",
+      "articleId": "hc-trash-folder",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-identify-item.md",
+      "articleId": "hc-trash-identify-item",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-restore-name-conflict.md",
+      "articleId": "hc-trash-restore-name-conflict",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-restore-original-location.md",
+      "articleId": "hc-trash-restore-original-location",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "trash-retention.md",
+      "articleId": "hc-trash-retention",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "trash-verify-storage-release.md",
+      "articleId": "hc-trash-verify-storage-release",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "two-factor-confirm-enrollment.md",
+      "articleId": "hc-two-factor-confirm-enrollment",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "two-factor-move-new-phone.md",
+      "articleId": "hc-two-factor-move-new-phone",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "two-factor-reenroll-after-recovery.md",
+      "articleId": "hc-two-factor-reenroll-after-recovery",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "two-factor-scan-qr-safely.md",
+      "articleId": "hc-two-factor-scan-qr-safely",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "two-factor-store-recovery-codes.md",
+      "articleId": "hc-two-factor-store-recovery-codes",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "unhide-item.md",
+      "articleId": "hc-unhide-item",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "unlock-file.md",
+      "articleId": "hc-unlock-file",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "upgrade-storage.md",
+      "articleId": "hc-plan-upgrade-storage",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "upload-destination-locked.md",
+      "articleId": "hc-upload-destination-locked",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "upload-estimate-storage.md",
+      "articleId": "hc-upload-estimate-storage",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "upload-prepare-file-names.md",
+      "articleId": "hc-upload-prepare-file-names",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "upload-preserve-folder-structure.md",
+      "articleId": "hc-upload-preserve-folder-structure",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "upload-record-failure-details.md",
+      "articleId": "hc-upload-record-failure-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "upload-resume-after-network.md",
+      "articleId": "hc-upload-resume-after-network",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "upload-retry-one-item.md",
+      "articleId": "hc-upload-retry-one-item",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "upload-test-one-file.md",
+      "articleId": "hc-upload-test-one-file",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "vault-clear-device-cache.md",
+      "articleId": "hc-vault-clear-device-cache",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "vault-lost-passphrase-plan.md",
+      "articleId": "hc-vault-lost-passphrase-plan",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "vault-transfer-stalled.md",
+      "articleId": "hc-vault-transfer-stalled",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "vault-verify-recovery-key.md",
+      "articleId": "hc-vault-verify-recovery-key",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "vault-wrong-workspace.md",
+      "articleId": "hc-vault-wrong-workspace",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 1,
+      "proseChanges": 0
+    },
+    {
+      "file": "verify-downloaded-archive.md",
+      "articleId": "hc-verify-downloaded-archive",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "verify-plan-change.md",
+      "articleId": "hc-checkout-verify",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "version-compare-details.md",
+      "articleId": "hc-version-compare-details",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "version-download-previous.md",
+      "articleId": "hc-version-download-previous",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "version-restore-test.md",
+      "articleId": "hc-version-restore-test",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "version-upload-replacement.md",
+      "articleId": "hc-version-upload-replacement",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "version-vs-copy.md",
+      "articleId": "hc-version-vs-copy",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "video-preview-controls.md",
+      "articleId": "hc-video-preview-controls",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webdav-clear-stale-credentials.md",
+      "articleId": "hc-webdav-clear-stale-credentials",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-connect.md",
+      "articleId": "hc-webdav-connect",
+      "fromRevision": 2,
+      "toRevision": 3,
+      "visualChanges": 0,
+      "proseChanges": 2
+    },
+    {
+      "file": "webdav-correct-workspace-endpoint.md",
+      "articleId": "hc-webdav-correct-workspace-endpoint",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-cyberduck.md",
+      "articleId": "hc-webdav-cyberduck",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webdav-diagnose-read-only.md",
+      "articleId": "hc-webdav-diagnose-read-only",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-lock-permission-errors.md",
+      "articleId": "hc-webdav-lock-permission-errors",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-map-windows.md",
+      "articleId": "hc-webdav-map-windows",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-mount-finder.md",
+      "articleId": "hc-webdav-mount-finder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-refresh-stale-listing.md",
+      "articleId": "hc-webdav-refresh-stale-listing",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-remount-safely.md",
+      "articleId": "hc-webdav-remount-safely",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-rename-move.md",
+      "articleId": "hc-webdav-rename-move",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webdav-transfer-files.md",
+      "articleId": "hc-webdav-transfer-files",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "webhook-acknowledge-promptly.md",
+      "articleId": "hc-webhook-acknowledge-promptly",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-create.md",
+      "articleId": "hc-webhook-create",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "webhook-deduplicate-deliveries.md",
+      "articleId": "hc-webhook-deduplicate-deliveries",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-delete-endpoint.md",
+      "articleId": "hc-webhook-delete-endpoint",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "webhook-deliveries.md",
+      "articleId": "hc-webhook-deliveries",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "webhook-events.md",
+      "articleId": "hc-webhook-events",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "webhook-handle-out-of-order.md",
+      "articleId": "hc-webhook-handle-out-of-order",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-log-safe-diagnostics.md",
+      "articleId": "hc-webhook-log-safe-diagnostics",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-payload-versioning.md",
+      "articleId": "hc-webhook-payload-versioning",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-recover-after-downtime.md",
+      "articleId": "hc-webhook-recover-after-downtime",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-redeliver-event.md",
+      "articleId": "hc-webhook-redeliver-event",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-reenable-endpoint.md",
+      "articleId": "hc-webhook-reenable-endpoint",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-retry-idempotency.md",
+      "articleId": "hc-webhook-retry-idempotency",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-rotate-secret.md",
+      "articleId": "hc-webhook-rotate-secret",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "webhook-send-test.md",
+      "articleId": "hc-webhook-send-test",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "webhook-signature.md",
+      "articleId": "hc-webhook-signature",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "webhook-troubleshoot.md",
+      "articleId": "hc-webhook-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "wordpress-backup-failed.md",
+      "articleId": "hc-wordpress-backup-failed",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-backup-protection-window.md",
+      "articleId": "hc-wordpress-backup-protection-window",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-backup-retention.md",
+      "articleId": "hc-wordpress-backup-retention",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-backups.md",
+      "articleId": "hc-wordpress-backups",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "wordpress-connect-workspace.md",
+      "articleId": "hc-wordpress-connect-workspace",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-connect.md",
+      "articleId": "hc-wordpress-connect",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "wordpress-copy-detected-warning.md",
+      "articleId": "hc-wordpress-copy-detected-warning",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-disconnect-site.md",
+      "articleId": "hc-wordpress-disconnect-site",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-full-vs-incremental.md",
+      "articleId": "hc-wordpress-full-vs-incremental",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-open-backup-folder.md",
+      "articleId": "hc-wordpress-open-backup-folder",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-plugin-install.md",
+      "articleId": "hc-wordpress-plugin-install",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-plugin-update.md",
+      "articleId": "hc-wordpress-plugin-update",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-reconnect-site.md",
+      "articleId": "hc-wordpress-reconnect-site",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-review-backup-status.md",
+      "articleId": "hc-wordpress-review-backup-status",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-site-limit.md",
+      "articleId": "hc-wordpress-site-limit",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-status-load-error.md",
+      "articleId": "hc-wordpress-status-load-error",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "wordpress-verify-backup.md",
+      "articleId": "hc-wordpress-verify-backup",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 3
+    },
+    {
+      "file": "workspace-assign-custom-role.md",
+      "articleId": "hc-workspace-assign-custom-role",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-branding.md",
+      "articleId": "hc-workspace-branding",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-change-role.md",
+      "articleId": "hc-workspace-change-role",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-create-custom-role.md",
+      "articleId": "hc-workspace-create-custom-role",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 2
+    },
+    {
+      "file": "workspace-dashboard.md",
+      "articleId": "hc-workspace-dashboard",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-delete-preview.md",
+      "articleId": "hc-workspace-delete-preview",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-invite-link-policy-test.md",
+      "articleId": "hc-workspace-invite-link-policy-test",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-invite-resend-existing.md",
+      "articleId": "hc-workspace-invite-resend-existing",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-invite-review-pending.md",
+      "articleId": "hc-workspace-invite-review-pending",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-invite-revoke-stale.md",
+      "articleId": "hc-workspace-invite-revoke-stale",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-member-add-folder-access.md",
+      "articleId": "hc-workspace-member-add-folder-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-member-choose-role.md",
+      "articleId": "hc-workspace-member-choose-role",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-member-verify-accepted.md",
+      "articleId": "hc-workspace-member-verify-accepted",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-member-verify-removal.md",
+      "articleId": "hc-workspace-member-verify-removal",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-member-verify-role-change.md",
+      "articleId": "hc-workspace-member-verify-role-change",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-pending-invites.md",
+      "articleId": "hc-workspace-pending-invites",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-policy-file-requests.md",
+      "articleId": "hc-workspace-policy-file-requests",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-policy-member-test.md",
+      "articleId": "hc-workspace-policy-member-test",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-policy-public-links.md",
+      "articleId": "hc-workspace-policy-public-links",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-policy-required-expiry.md",
+      "articleId": "hc-workspace-policy-required-expiry",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-policy-upload-size.md",
+      "articleId": "hc-workspace-policy-upload-size",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-region-routing.md",
+      "articleId": "hc-workspace-region-routing",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 2,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-resend-invite.md",
+      "articleId": "hc-workspace-resend-invite",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-role-activity-access.md",
+      "articleId": "hc-workspace-role-activity-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-role-file-access.md",
+      "articleId": "hc-workspace-role-file-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-role-sharing-access.md",
+      "articleId": "hc-workspace-role-sharing-access",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-storage-allocation.md",
+      "articleId": "hc-workspace-storage-allocation",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-storage-calculate-headroom.md",
+      "articleId": "hc-workspace-storage-calculate-headroom",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-storage-change-allocation.md",
+      "articleId": "hc-workspace-storage-change-allocation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-storage-member-quota.md",
+      "articleId": "hc-workspace-storage-member-quota",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-storage-read-allocation.md",
+      "articleId": "hc-workspace-storage-read-allocation",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "workspace-storage-verify-cleanup.md",
+      "articleId": "hc-workspace-storage-verify-cleanup",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-connect.md",
+      "articleId": "hc-zapier-connect",
+      "fromRevision": 1,
+      "toRevision": 2,
+      "visualChanges": 0,
+      "proseChanges": 1
+    },
+    {
+      "file": "zapier-inspect-failed-run.md",
+      "articleId": "hc-zapier-inspect-failed-run",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-map-file-identifier.md",
+      "articleId": "hc-zapier-map-file-identifier",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-new-file-trigger.md",
+      "articleId": "hc-zapier-new-file-trigger",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-reconnect-dosya-account.md",
+      "articleId": "hc-zapier-reconnect-dosya-account",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-refresh-trigger-sample.md",
+      "articleId": "hc-zapier-refresh-trigger-sample",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-retry-without-duplicates.md",
+      "articleId": "hc-zapier-retry-without-duplicates",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    },
+    {
+      "file": "zapier-troubleshoot.md",
+      "articleId": "hc-zapier-troubleshoot",
+      "fromRevision": 4,
+      "toRevision": 5,
+      "visualChanges": 4,
+      "proseChanges": 1
+    },
+    {
+      "file": "zapier-upload-file-action.md",
+      "articleId": "hc-zapier-upload-file-action",
+      "fromRevision": 3,
+      "toRevision": 4,
+      "visualChanges": 4,
+      "proseChanges": 0
+    }
+  ]
+}

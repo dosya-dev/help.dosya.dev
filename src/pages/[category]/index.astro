@@ -1,0 +1,10 @@
+---
+import { getCollection } from 'astro:content';
+import CategoryListing from '../../components/CategoryListing.astro';
+import {categoryPages} from '../../lib/pagination';
+export async function getStaticPaths(){return categoryPages(await getCollection('articles'))
+  .filter(listing=>listing.pagination.current===1)
+  .map(listing=>({params:{category:listing.categoryId},props:{listing}}));}
+const {listing}=Astro.props;
+---
+<CategoryListing listing={listing} />
